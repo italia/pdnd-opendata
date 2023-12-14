@@ -1,0 +1,1149 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+  <rdf:RDF xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:locn="http://www.w3.org/ns/locn#" xmlns:hydra="http://www.w3.org/ns/hydra/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcatapit="http://dati.gov.it/onto/dcatapit#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:adms="http://www.w3.org/ns/adms#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gsp="http://www.opengis.net/ont/geosparql#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  
+<dcatapit:Catalog rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+  <dct:title>PDND - Interoperabilità</dct:title>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="mint">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>PDND - Interoperabilità</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:description>Dati aperti relativi a PDND - Interoperabilità</dct:description>
+  <dct:language>it</dct:language>
+  <foaf:homepage rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data"/>
+  <dcat:themeTaxonomy>
+    <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/data-theme">
+      <dct:title>Data Theme Vocabulary</dct:title>
+    </skos:ConceptScheme>
+  </dcat:themeTaxonomy>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:issued>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data#/enti_erogatori_di_e_service"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data#/eservice_con_piu_enti_abilitati_last_six_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data#/eservice_con_piu_enti_abilitati_last_twelve_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data#/eservice_con_piu_enti_abilitati_from_the_beginning"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data#/totale_enti"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data#/eservice_pubblicati"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data#/distribuzione_degli_enti_per_attivita"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data#/stato_di_completamento_adesioni_last_six_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data#/stato_di_completamento_adesioni_last_twelve_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data#/stato_di_completamento_adesioni_from_the_beginning"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data#/enti_che_pubblicano_piu_e_service_last_six_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data#/enti_che_pubblicano_piu_e_service_last_twelve_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data#/enti_che_pubblicano_piu_e_service_from_the_beginning"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data#/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data#/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data#/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning"/>
+</dcatapit:Catalog>
+  
+  
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.csv">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dct:license/>
+  <dct:title>Enti erogatori di e-service</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.csv</dct:landingpage>
+  <dct:description>Numero di e-service pubblicati suddivisi per categorie di enti erogatori</dct:description>
+  <dct:identifier>mint:enti_erogatori_di_e_service</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="mint">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_six_months.csv">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dct:license/>
+  <dct:title>E-service con più enti abilitati</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_six_months.csv</dct:landingpage>
+  <dct:description>I 10 e-service con più enti abilitati, filtrabili per ente erogatore e categoria di ente fruitore (ultimi sei mesi)</dct:description>
+  <dct:identifier>mint:eservice_con_piu_enti_abilitati_last_six_months</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="mint">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_six_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_six_months.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_twelve_months.csv">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dct:license/>
+  <dct:title>E-service con più enti abilitati</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_twelve_months.csv</dct:landingpage>
+  <dct:description>I 10 e-service con più enti abilitati, filtrabili per ente erogatore e categoria di ente fruitore (ultimi dodici mesi)</dct:description>
+  <dct:identifier>mint:eservice_con_piu_enti_abilitati_last_twelve_months</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="mint">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_twelve_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_twelve_months.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_from_the_beginning.csv">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dct:license/>
+  <dct:title>E-service con più enti abilitati</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_from_the_beginning.csv</dct:landingpage>
+  <dct:description>I 10 e-service con più enti abilitati, filtrabili per ente erogatore e categoria di ente fruitore (dall’inizio del servizio)</dct:description>
+  <dct:identifier>mint:eservice_con_piu_enti_abilitati_from_the_beginning</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="mint">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_from_the_beginning.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_from_the_beginning.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.csv">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dct:license/>
+  <dct:title>Totale enti e suddivisione per macro-categorie</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.csv</dct:landingpage>
+  <dct:description>Il totale degli enti che hanno aderito a PDND Interoperabilità</dct:description>
+  <dct:identifier>mint:totale_enti</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="mint">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati.csv">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dct:license/>
+  <dct:title>E-service pubblicati</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati.csv</dct:landingpage>
+  <dct:description>Numero di e-service pubblicati e variazione nell'ultimo mese</dct:description>
+  <dct:identifier>mint:eservice_pubblicati</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="mint">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.csv">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dct:license/>
+  <dct:title>Distribuzione degli enti per attività</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.csv</dct:landingpage>
+  <dct:description>Numero di: enti erogatori che mettono a disposizione e-service; enti fruitori che li utilizzano; enti sia erogatori che fruitori; enti che effettuano solo l’accesso alla piattaforma</dct:description>
+  <dct:identifier>mint:distribuzione_degli_enti_per_attivita</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="mint">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_six_months.csv">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dct:license/>
+  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_six_months.csv</dct:landingpage>
+  <dct:description>Percentuale di adesione degli enti sul totale della categoria (ultimi sei mesi)</dct:description>
+  <dct:identifier>mint:stato_di_completamento_adesioni_last_six_months</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="mint">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_six_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_six_months.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_twelve_months.csv">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dct:license/>
+  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_twelve_months.csv</dct:landingpage>
+  <dct:description>Percentuale di adesione degli enti sul totale della categoria (ultimi dodici mesi)</dct:description>
+  <dct:identifier>mint:stato_di_completamento_adesioni_last_twelve_months</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="mint">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_twelve_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_twelve_months.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_from_the_beginning.csv">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dct:license/>
+  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_from_the_beginning.csv</dct:landingpage>
+  <dct:description>Percentuale di adesione degli enti sul totale della categoria (dall’inizio del servizio)</dct:description>
+  <dct:identifier>mint:stato_di_completamento_adesioni_from_the_beginning</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="mint">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_from_the_beginning.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_from_the_beginning.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months.csv">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dct:license/>
+  <dct:title>Enti che pubblicano più e-service</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months.csv</dct:landingpage>
+  <dct:description>I 10 enti erogatori con più e-service pubblicati (ultimi sei mesi)</dct:description>
+  <dct:identifier>mint:enti_che_pubblicano_piu_e_service_last_six_months</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="mint">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.csv">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dct:license/>
+  <dct:title>Enti che pubblicano più e-service</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.csv</dct:landingpage>
+  <dct:description>I 10 enti erogatori con più e-service pubblicati (ultimi dodici mesi)</dct:description>
+  <dct:identifier>mint:enti_che_pubblicano_piu_e_service_last_twelve_months</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="mint">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.csv">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dct:license/>
+  <dct:title>Enti che pubblicano più e-service</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.csv</dct:landingpage>
+  <dct:description>I 10 enti erogatori con più e-service pubblicati (dall’inizio del servizio)</dct:description>
+  <dct:identifier>mint:enti_che_pubblicano_piu_e_service_from_the_beginning</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="mint">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.csv">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dct:license/>
+  <dct:title>Enti erogatori ed enti abilitati alla fruizione (ultimi sei mesi)</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.csv</dct:landingpage>
+  <dct:description>I 10 enti erogatori che hanno abilitato più enti fruitori (ultimi sei mesi)</dct:description>
+  <dct:identifier>mint:enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="mint">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.csv">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dct:license/>
+  <dct:title>Enti erogatori ed enti abilitati alla fruizione</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.csv</dct:landingpage>
+  <dct:description>I 10 enti erogatori che hanno abilitato più enti fruitori (ultimi dodici mesi)</dct:description>
+  <dct:identifier>mint:enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="mint">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.csv">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dct:license/>
+  <dct:title>Enti erogatori ed enti abilitati alla fruizione</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.csv</dct:landingpage>
+  <dct:description>I 10 enti erogatori che hanno abilitato più enti fruitori (dall’inizio del servizio)</dct:description>
+  <dct:identifier>mint:enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="mint">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>mint</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-14</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.json"/>
+</dcatapit:Dataset>
+    
+  
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_di_e_service.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>Enti erogatori di e-service CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_di_e_service.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>Enti erogatori di e-service JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_six_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_con_piu_enti_abilitati_last_six_months.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>E-service con più enti abilitati CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_six_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_con_piu_enti_abilitati_last_six_months.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>E-service con più enti abilitati JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_twelve_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_con_piu_enti_abilitati_last_twelve_months.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>E-service con più enti abilitati CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_twelve_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_con_piu_enti_abilitati_last_twelve_months.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>E-service con più enti abilitati JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_from_the_beginning.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_con_piu_enti_abilitati_from_the_beginning.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>E-service con più enti abilitati CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_from_the_beginning.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_con_piu_enti_abilitati_from_the_beginning.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>E-service con più enti abilitati JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/totale_enti.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>Totale enti e suddivisione per macro-categorie CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/totale_enti.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>Totale enti e suddivisione per macro-categorie JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_pubblicati.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>E-service pubblicati CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_pubblicati.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>E-service pubblicati JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/distribuzione_degli_enti_per_attivita.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>Distribuzione degli enti per attività CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/distribuzione_degli_enti_per_attivita.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>Distribuzione degli enti per attività JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_six_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/stato_di_completamento_adesioni_last_six_months.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_six_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/stato_di_completamento_adesioni_last_six_months.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_twelve_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/stato_di_completamento_adesioni_last_twelve_months.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_twelve_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/stato_di_completamento_adesioni_last_twelve_months.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_from_the_beginning.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/stato_di_completamento_adesioni_from_the_beginning.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_from_the_beginning.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/stato_di_completamento_adesioni_from_the_beginning.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_che_pubblicano_piu_e_service_last_six_months.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>Enti che pubblicano più e-service CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_che_pubblicano_piu_e_service_last_six_months.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>Enti che pubblicano più e-service JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>Enti che pubblicano più e-service CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>Enti che pubblicano più e-service JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>Enti che pubblicano più e-service CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>Enti che pubblicano più e-service JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>Enti erogatori ed enti abilitati alla fruizione (ultimi sei mesi) CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>Enti erogatori ed enti abilitati alla fruizione (ultimi sei mesi) JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>Enti erogatori ed enti abilitati alla fruizione CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>Enti erogatori ed enti abilitati alla fruizione JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>Enti erogatori ed enti abilitati alla fruizione CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>Enti erogatori ed enti abilitati alla fruizione JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+  
+<skos:Concept rdf:about="string">
+  <skos:prefLabel xml:lang="string">string</skos:prefLabel>
+</skos:Concept>
+  
+<dcatapit:Organization rdf:about="https://www.interop.pagopa.it/numeri">
+  <rdf:type rdf:resource="vcard:Organization"/>
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Kind"/>
+  <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Organization"/>
+  <rdf:type rdf:resource="vcard:Kind"/>
+  <vcard:fn>PagoPA S.p.A.</vcard:fn>
+  
+  <vcard:hasURL rdf:resource="https://www.interop.pagopa.it/numeri"/>
+</dcatapit:Organization>
+
+</rdf:RDF>

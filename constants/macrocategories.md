@@ -1,6 +1,6 @@
 # Macrocategorie
 
-Le macrocategorie sotto riportate rappresentano delle aggregazioni di enti presenti all'interno del Catalogo IPA.
+Le macrocategorie sotto riportate rappresentano delle aggregazioni di enti presenti all'interno del [Catalogo IPA](https://indicepa.gov.it/ipa-portale/).
 
 * Altre Pubbliche Amministrazioni locali: C3, C7, C13, C14, L1, L2, L10, L11, L12, L13, L16, L19, L20, L21, L24, L31, L34, L35, L36, L38, L39, L40, L42, L44, L46, L47
 * Aziende Ospedaliere e ASL: L7, L8, L22

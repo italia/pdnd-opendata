@@ -1,16 +1,16 @@
 id,name,eserviceName,producerName,subscribersCount
-0,Tutte,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2680
-0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,149
+0,Tutte,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2676
+0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,151
 0,Tutte,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,67
 0,Tutte,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,36
 0,Tutte,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,28
 0,Tutte,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,28
-0,Tutte,arch-common-service_SDG,Agenzia per L'Italia Digitale,28
+0,Tutte,arch-common-service_SDG,Agenzia per L'Italia Digitale,26
 0,Tutte,C002-servizioComunicazione-approvazione_automatica,Ministero dell'Interno,25
-0,Tutte,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,24
+0,Tutte,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,25
 0,Tutte,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,21
 1,Altre Pubbliche Amministrazioni locali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,8
-1,Altre Pubbliche Amministrazioni locali,arch-common-service_SDG,Agenzia per L'Italia Digitale,6
+1,Altre Pubbliche Amministrazioni locali,arch-common-service_SDG,Agenzia per L'Italia Digitale,5
 1,Altre Pubbliche Amministrazioni locali,evidence-broker_SDG,Agenzia per L'Italia Digitale,4
 1,Altre Pubbliche Amministrazioni locali,data-service-directory_SDG,Agenzia per L'Italia Digitale,4
 1,Altre Pubbliche Amministrazioni locali,service-catalogue_SDG,Agenzia per L'Italia Digitale,4
@@ -29,12 +29,12 @@ id,name,eserviceName,producerName,subscribersCount
 2,Aziende Ospedaliere e ASL,evidence-broker_SDG,Agenzia per L'Italia Digitale,0
 2,Aziende Ospedaliere e ASL,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,0
 2,Aziende Ospedaliere e ASL,POLIZIA MUNICIPALE - Posizioni debitorie aperte,Comune di Porto Torres,0
-3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2671
-3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,113
+3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2667
+3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,116
 3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,66
 3,Comuni,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,36
 3,Comuni,C002-servizioComunicazione-approvazione_automatica,Ministero dell'Interno,25
-3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,24
+3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,25
 3,Comuni,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,23
 3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,21
 3,Comuni,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,18
@@ -69,26 +69,26 @@ id,name,eserviceName,producerName,subscribersCount
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,0
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,C002-servizioComunicazione-approvazione_automatica,Ministero dell'Interno,0
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,C025-servizioAccertamentoMaternita-approvazione_automatica,Ministero dell'Interno,0
-7,Regioni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,0
-7,Regioni,C002-servizioComunicazione-approvazione_automatica,Ministero dell'Interno,0
-7,Regioni,C025-servizioAccertamentoMaternita-approvazione_automatica,Ministero dell'Interno,0
-7,Regioni,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,0
-7,Regioni,C007–ServizioVerificaDichEsistenzaVita-approvazione_automati,Ministero dell'Interno,0
-7,Regioni,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,0
-7,Regioni,evidence-broker_SDG,Agenzia per L'Italia Digitale,0
-7,Regioni,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,0
-7,Regioni,POLIZIA MUNICIPALE - Posizioni debitorie aperte,Comune di Porto Torres,0
-7,Regioni,C010-servizioVerificaDichStatoLibero-approvazione_automatica,Ministero dell'Interno,0
-8,Consorzi e associazioni regionali,arch-common-service_SDG,Agenzia per L'Italia Digitale,12
-8,Consorzi e associazioni regionali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,5
-8,Consorzi e associazioni regionali,service-catalogue_SDG,Agenzia per L'Italia Digitale,5
-8,Consorzi e associazioni regionali,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,3
-8,Consorzi e associazioni regionali,evidence-broker_SDG,Agenzia per L'Italia Digitale,3
-8,Consorzi e associazioni regionali,data-service-directory_SDG,Agenzia per L'Italia Digitale,3
-8,Consorzi e associazioni regionali,C007–ServizioVerificaDichEsistenzaVita-approvazione_automati,Ministero dell'Interno,2
-8,Consorzi e associazioni regionali,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,2
-8,Consorzi e associazioni regionali,C010-servizioVerificaDichStatoLibero-approvazione_automatica,Ministero dell'Interno,2
-8,Consorzi e associazioni regionali,C013-servizioVerificaDichMaternita-approvazione_automatica,Ministero dell'Interno,2
+7,Regioni e Province Autonome,arch-common-service_SDG,Agenzia per L'Italia Digitale,11
+7,Regioni e Province Autonome,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,5
+7,Regioni e Province Autonome,service-catalogue_SDG,Agenzia per L'Italia Digitale,4
+7,Regioni e Province Autonome,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,3
+7,Regioni e Province Autonome,C007–ServizioVerificaDichEsistenzaVita-approvazione_automati,Ministero dell'Interno,2
+7,Regioni e Province Autonome,evidence-broker_SDG,Agenzia per L'Italia Digitale,2
+7,Regioni e Province Autonome,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,2
+7,Regioni e Province Autonome,C010-servizioVerificaDichStatoLibero-approvazione_automatica,Ministero dell'Interno,2
+7,Regioni e Province Autonome,C013-servizioVerificaDichMaternita-approvazione_automatica,Ministero dell'Interno,2
+7,Regioni e Province Autonome,C006-servizioVerificaDichCittadinanza-approvazione_automatic,Ministero dell'Interno,2
+8,Consorzi e associazioni regionali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,0
+8,Consorzi e associazioni regionali,C002-servizioComunicazione-approvazione_automatica,Ministero dell'Interno,0
+8,Consorzi e associazioni regionali,C025-servizioAccertamentoMaternita-approvazione_automatica,Ministero dell'Interno,0
+8,Consorzi e associazioni regionali,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,0
+8,Consorzi e associazioni regionali,C007–ServizioVerificaDichEsistenzaVita-approvazione_automati,Ministero dell'Interno,0
+8,Consorzi e associazioni regionali,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,0
+8,Consorzi e associazioni regionali,evidence-broker_SDG,Agenzia per L'Italia Digitale,0
+8,Consorzi e associazioni regionali,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,0
+8,Consorzi e associazioni regionali,POLIZIA MUNICIPALE - Posizioni debitorie aperte,Comune di Porto Torres,0
+8,Consorzi e associazioni regionali,C010-servizioVerificaDichStatoLibero-approvazione_automatica,Ministero dell'Interno,0
 9,Scuole,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,1
 9,Scuole,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,1
 9,Scuole,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,0
@@ -119,7 +119,7 @@ id,name,eserviceName,producerName,subscribersCount
 11,Istituti di Ricerca,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,0
 11,Istituti di Ricerca,POLIZIA MUNICIPALE - Posizioni debitorie aperte,Comune di Porto Torres,0
 11,Istituti di Ricerca,C010-servizioVerificaDichStatoLibero-approvazione_automatica,Ministero dell'Interno,0
-12,Stazioni Appaltanti e Gestori di pubblici servizi,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,8
+12,Stazioni Appaltanti e Gestori di pubblici servizi,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,7
 12,Stazioni Appaltanti e Gestori di pubblici servizi,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,5
 12,Stazioni Appaltanti e Gestori di pubblici servizi,C001–servizioNotifica,Ministero dell'Interno,1
 12,Stazioni Appaltanti e Gestori di pubblici servizi,LoginPa - Dati georeferenziazione soggetti,GEROPA SRL,1

@@ -45,7 +45,7 @@
   
 <dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.csv">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>Enti erogatori di e-service</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.csv</dct:landingpage>
@@ -54,14 +54,14 @@
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="mint">
+    <dcatapit:Agent rdf:about="pcm">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
-      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
   <dct:publisher>
-    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+    <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
@@ -75,6 +75,9 @@
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-15</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.json"/>
 </dcatapit:Dataset>
@@ -82,7 +85,7 @@
 
 <dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_six_months.csv">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>E-service con più enti abilitati</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_six_months.csv</dct:landingpage>
@@ -91,14 +94,14 @@
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="mint">
+    <dcatapit:Agent rdf:about="pcm">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
-      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
   <dct:publisher>
-    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+    <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
@@ -112,6 +115,9 @@
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-15</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_six_months.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_six_months.json"/>
 </dcatapit:Dataset>
@@ -119,7 +125,7 @@
 
 <dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_twelve_months.csv">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>E-service con più enti abilitati</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_twelve_months.csv</dct:landingpage>
@@ -128,14 +134,14 @@
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="mint">
+    <dcatapit:Agent rdf:about="pcm">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
-      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
   <dct:publisher>
-    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+    <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
@@ -149,6 +155,9 @@
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-15</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_twelve_months.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_last_twelve_months.json"/>
 </dcatapit:Dataset>
@@ -156,7 +165,7 @@
 
 <dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_from_the_beginning.csv">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>E-service con più enti abilitati</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_from_the_beginning.csv</dct:landingpage>
@@ -165,14 +174,14 @@
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="mint">
+    <dcatapit:Agent rdf:about="pcm">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
-      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
   <dct:publisher>
-    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+    <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
@@ -186,6 +195,9 @@
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-15</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_from_the_beginning.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_enti_abilitati_from_the_beginning.json"/>
 </dcatapit:Dataset>
@@ -193,7 +205,7 @@
 
 <dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.csv">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>Totale enti e suddivisione per macro-categorie</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.csv</dct:landingpage>
@@ -202,14 +214,14 @@
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="mint">
+    <dcatapit:Agent rdf:about="pcm">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
-      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
   <dct:publisher>
-    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+    <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
@@ -223,6 +235,9 @@
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-15</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.json"/>
 </dcatapit:Dataset>
@@ -230,7 +245,7 @@
 
 <dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati.csv">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>E-service pubblicati</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati.csv</dct:landingpage>
@@ -239,14 +254,14 @@
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="mint">
+    <dcatapit:Agent rdf:about="pcm">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
-      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
   <dct:publisher>
-    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+    <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
@@ -260,6 +275,9 @@
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-15</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati.json"/>
 </dcatapit:Dataset>
@@ -267,7 +285,7 @@
 
 <dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.csv">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>Distribuzione degli enti per attività</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.csv</dct:landingpage>
@@ -276,14 +294,14 @@
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="mint">
+    <dcatapit:Agent rdf:about="pcm">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
-      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
   <dct:publisher>
-    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+    <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
@@ -297,6 +315,9 @@
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-15</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.json"/>
 </dcatapit:Dataset>
@@ -304,7 +325,7 @@
 
 <dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_six_months.csv">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_six_months.csv</dct:landingpage>
@@ -313,14 +334,14 @@
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="mint">
+    <dcatapit:Agent rdf:about="pcm">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
-      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
   <dct:publisher>
-    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+    <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
@@ -334,6 +355,9 @@
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-15</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_six_months.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_six_months.json"/>
 </dcatapit:Dataset>
@@ -341,7 +365,7 @@
 
 <dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_twelve_months.csv">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_twelve_months.csv</dct:landingpage>
@@ -350,14 +374,14 @@
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="mint">
+    <dcatapit:Agent rdf:about="pcm">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
-      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
   <dct:publisher>
-    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+    <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
@@ -371,6 +395,9 @@
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-15</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_twelve_months.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_twelve_months.json"/>
 </dcatapit:Dataset>
@@ -378,7 +405,7 @@
 
 <dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_from_the_beginning.csv">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_from_the_beginning.csv</dct:landingpage>
@@ -387,14 +414,14 @@
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="mint">
+    <dcatapit:Agent rdf:about="pcm">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
-      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
   <dct:publisher>
-    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+    <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
@@ -408,6 +435,9 @@
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-15</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_from_the_beginning.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_from_the_beginning.json"/>
 </dcatapit:Dataset>
@@ -415,7 +445,7 @@
 
 <dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months.csv">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>Enti che pubblicano più e-service</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months.csv</dct:landingpage>
@@ -424,14 +454,14 @@
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="mint">
+    <dcatapit:Agent rdf:about="pcm">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
-      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
   <dct:publisher>
-    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+    <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
@@ -445,6 +475,9 @@
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-15</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months.json"/>
 </dcatapit:Dataset>
@@ -452,7 +485,7 @@
 
 <dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.csv">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>Enti che pubblicano più e-service</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.csv</dct:landingpage>
@@ -461,14 +494,14 @@
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="mint">
+    <dcatapit:Agent rdf:about="pcm">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
-      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
   <dct:publisher>
-    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+    <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
@@ -482,6 +515,9 @@
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-15</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.json"/>
 </dcatapit:Dataset>
@@ -489,7 +525,7 @@
 
 <dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.csv">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>Enti che pubblicano più e-service</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.csv</dct:landingpage>
@@ -498,14 +534,14 @@
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="mint">
+    <dcatapit:Agent rdf:about="pcm">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
-      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
   <dct:publisher>
-    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+    <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
@@ -519,6 +555,9 @@
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-15</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.json"/>
 </dcatapit:Dataset>
@@ -526,7 +565,7 @@
 
 <dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.csv">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>Enti erogatori ed enti abilitati alla fruizione (ultimi sei mesi)</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.csv</dct:landingpage>
@@ -535,14 +574,14 @@
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="mint">
+    <dcatapit:Agent rdf:about="pcm">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
-      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
   <dct:publisher>
-    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+    <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
@@ -556,6 +595,9 @@
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-15</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.json"/>
 </dcatapit:Dataset>
@@ -563,7 +605,7 @@
 
 <dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.csv">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>Enti erogatori ed enti abilitati alla fruizione</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.csv</dct:landingpage>
@@ -572,14 +614,14 @@
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="mint">
+    <dcatapit:Agent rdf:about="pcm">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
-      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
   <dct:publisher>
-    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+    <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
@@ -593,6 +635,9 @@
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-15</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.json"/>
 </dcatapit:Dataset>
@@ -600,7 +645,7 @@
 
 <dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.csv">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>Enti erogatori ed enti abilitati alla fruizione</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.csv</dct:landingpage>
@@ -609,14 +654,14 @@
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="mint">
+    <dcatapit:Agent rdf:about="pcm">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
-      <foaf:name>Dipartimento per la trasformazione digitale</foaf:name>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
   <dct:publisher>
-    <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+    <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
       <dct:identifier>mint</dct:identifier>
@@ -630,6 +675,9 @@
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-15</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.json"/>
 </dcatapit:Dataset>
@@ -1135,15 +1183,15 @@
   <skos:prefLabel xml:lang="string">string</skos:prefLabel>
 </skos:Concept>
   
-<dcatapit:Organization rdf:about="https://www.interop.pagopa.it/numeri">
+<dcatapit:Organization rdf:about="https://innovazione.gov.it">
   <rdf:type rdf:resource="vcard:Organization"/>
   <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
   <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Kind"/>
   <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Organization"/>
   <rdf:type rdf:resource="vcard:Kind"/>
-  <vcard:fn>PagoPA S.p.A.</vcard:fn>
+  <vcard:fn>PCM – Dipartimento per la trasformazione digitale</vcard:fn>
   
-  <vcard:hasURL rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <vcard:hasURL rdf:resource="https://innovazione.gov.it"/>
 </dcatapit:Organization>
 
 </rdf:RDF>

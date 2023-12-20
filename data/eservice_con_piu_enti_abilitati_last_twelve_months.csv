@@ -1,6 +1,6 @@
 id,name,eserviceName,producerName,subscribersCount
-0,Tutte,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2720
-0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,152
+0,Tutte,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2731
+0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,153
 0,Tutte,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,68
 0,Tutte,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,39
 0,Tutte,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,28
@@ -29,8 +29,8 @@ id,name,eserviceName,producerName,subscribersCount
 2,Aziende Ospedaliere e ASL,C023-servizioAccertamentoVedovanza-approvazione_automatica,Ministero dell'Interno,0
 2,Aziende Ospedaliere e ASL,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,0
 2,Aziende Ospedaliere e ASL,arch-common-service_SDG,Agenzia per L'Italia Digitale,0
-3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2711
-3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,117
+3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2722
+3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,118
 3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,67
 3,Comuni,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,39
 3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,26
@@ -57,8 +57,8 @@ id,name,eserviceName,producerName,subscribersCount
 5,Pubbliche Amministrazioni Centrali,Servizio di collegamento imprese/PDND - Callback documenti,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",2
 5,Pubbliche Amministrazioni Centrali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1
 5,Pubbliche Amministrazioni Centrali,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,1
+5,Pubbliche Amministrazioni Centrali,PCP - FVA,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 5,Pubbliche Amministrazioni Centrali,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,1
-5,Pubbliche Amministrazioni Centrali,VCF1 - Verifica Booleana Codice Fiscale ,Agenzia delle Entrate,1
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,evidence-broker_SDG,Agenzia per L'Italia Digitale,2
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,arch-common-service_SDG,Agenzia per L'Italia Digitale,2
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,data-service-directory_SDG,Agenzia per L'Italia Digitale,2
@@ -122,10 +122,10 @@ id,name,eserviceName,producerName,subscribersCount
 12,Stazioni Appaltanti e Gestori di pubblici servizi,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,7
 12,Stazioni Appaltanti e Gestori di pubblici servizi,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,5
 12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,1
+12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - FVA,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,1
+12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,1
-12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,1
+12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 12,Stazioni Appaltanti e Gestori di pubblici servizi,C001–servizioNotifica,Ministero dell'Interno,1
-12,Stazioni Appaltanti e Gestori di pubblici servizi,VCF2 - Verifica Booleana Codice Fiscale,Agenzia delle Entrate,1
-12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP – CodeList,Autorita' Nazionale Anticorruzione - A.N.AC.,1

@@ -1,15 +1,15 @@
 id,name,eserviceName,producerName,subscribersCount
 0,Tutte,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2772
-0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,156
+0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,160
 0,Tutte,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,68
-0,Tutte,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,37
-0,Tutte,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,27
-0,Tutte,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,27
-0,Tutte,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,27
+0,Tutte,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,36
 0,Tutte,arch-common-service_SDG,Agenzia per L'Italia Digitale,26
-0,Tutte,C002-servizioComunicazione-approvazione_automatica,Ministero dell'Interno,26
-0,Tutte,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,22
-1,Altre Pubbliche Amministrazioni locali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,8
+0,Tutte,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,26
+0,Tutte,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,26
+0,Tutte,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,26
+0,Tutte,C002-servizioComunicazione-approvazione_automatica,Ministero dell'Interno,25
+0,Tutte,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,21
+1,Altre Pubbliche Amministrazioni locali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,9
 1,Altre Pubbliche Amministrazioni locali,arch-common-service_SDG,Agenzia per L'Italia Digitale,5
 1,Altre Pubbliche Amministrazioni locali,evidence-broker_SDG,Agenzia per L'Italia Digitale,4
 1,Altre Pubbliche Amministrazioni locali,data-service-directory_SDG,Agenzia per L'Italia Digitale,4
@@ -30,15 +30,15 @@ id,name,eserviceName,producerName,subscribersCount
 2,Aziende Ospedaliere e ASL,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,0
 2,Aziende Ospedaliere e ASL,arch-common-service_SDG,Agenzia per L'Italia Digitale,0
 3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2762
-3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,121
+3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,124
 3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,68
-3,Comuni,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,37
-3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,27
-3,Comuni,C002-servizioComunicazione-approvazione_automatica,Ministero dell'Interno,26
-3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,22
-3,Comuni,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,22
-3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,19
-3,Comuni,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,19
+3,Comuni,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,36
+3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,26
+3,Comuni,C002-servizioComunicazione-approvazione_automatica,Ministero dell'Interno,25
+3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,21
+3,Comuni,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,21
+3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,18
+3,Comuni,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,18
 4,Province e Città Metropolitane,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,7
 4,Province e Città Metropolitane,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,1
 4,Province e Città Metropolitane,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,0

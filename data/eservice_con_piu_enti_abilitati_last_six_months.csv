@@ -1,6 +1,6 @@
 id,name,eserviceName,producerName,subscribersCount
 0,Tutte,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2772
-0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,160
+0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,161
 0,Tutte,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,68
 0,Tutte,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,36
 0,Tutte,arch-common-service_SDG,Agenzia per L'Italia Digitale,26
@@ -39,7 +39,7 @@ id,name,eserviceName,producerName,subscribersCount
 3,Comuni,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,21
 3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,18
 3,Comuni,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,18
-4,Province e Città Metropolitane,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,7
+4,Province e Città Metropolitane,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,8
 4,Province e Città Metropolitane,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,1
 4,Province e Città Metropolitane,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,0
 4,Province e Città Metropolitane,C025-servizioAccertamentoMaternita-approvazione_automatica,Ministero dell'Interno,0
@@ -58,7 +58,7 @@ id,name,eserviceName,producerName,subscribersCount
 5,Pubbliche Amministrazioni Centrali,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 5,Pubbliche Amministrazioni Centrali,PCP - FVA,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 5,Pubbliche Amministrazioni Centrali,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,1
-5,Pubbliche Amministrazioni Centrali,PCP - Pianificazione appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,1
+5,Pubbliche Amministrazioni Centrali,PCP – CodeList,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,evidence-broker_SDG,Agenzia per L'Italia Digitale,2
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,arch-common-service_SDG,Agenzia per L'Italia Digitale,2
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,data-service-directory_SDG,Agenzia per L'Italia Digitale,2
@@ -122,10 +122,10 @@ id,name,eserviceName,producerName,subscribersCount
 12,Stazioni Appaltanti e Gestori di pubblici servizi,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,7
 12,Stazioni Appaltanti e Gestori di pubblici servizi,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,6
 12,Stazioni Appaltanti e Gestori di pubblici servizi,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,4
-12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,2
-12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - FVA,Autorita' Nazionale Anticorruzione - A.N.AC.,2
-12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,2
-12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,2
-12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,2
-12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,2
-12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,2
+12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,3
+12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - FVA,Autorita' Nazionale Anticorruzione - A.N.AC.,3
+12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,3
+12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP – CodeList,Autorita' Nazionale Anticorruzione - A.N.AC.,3
+12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,3
+12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,3
+12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,3

@@ -6,7 +6,7 @@ id,name,eserviceName,producerName,subscribersCount
 0,Tutte,arch-common-service_SDG,Agenzia per L'Italia Digitale,26
 0,Tutte,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,26
 0,Tutte,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,26
-0,Tutte,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,26
+0,Tutte,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,25
 0,Tutte,C002-servizioComunicazione-approvazione_automatica,Ministero dell'Interno,25
 0,Tutte,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,22
 1,Altre Pubbliche Amministrazioni locali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,9
@@ -33,7 +33,7 @@ id,name,eserviceName,producerName,subscribersCount
 3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,125
 3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,68
 3,Comuni,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,36
-3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,26
+3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,25
 3,Comuni,C002-servizioComunicazione-approvazione_automatica,Ministero dell'Interno,25
 3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,22
 3,Comuni,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,21
@@ -41,6 +41,7 @@ id,name,eserviceName,producerName,subscribersCount
 3,Comuni,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,18
 4,Province e Città Metropolitane,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,8
 4,Province e Città Metropolitane,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,1
+4,Province e Città Metropolitane,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 4,Province e Città Metropolitane,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,0
 4,Province e Città Metropolitane,C025-servizioAccertamentoMaternita-approvazione_automatica,Ministero dell'Interno,0
 4,Province e Città Metropolitane,evidence-broker_SDG,Agenzia per L'Italia Digitale,0
@@ -48,7 +49,6 @@ id,name,eserviceName,producerName,subscribersCount
 4,Province e Città Metropolitane,C010-servizioVerificaDichStatoLibero-approvazione_automatica,Ministero dell'Interno,0
 4,Province e Città Metropolitane,C023-servizioAccertamentoVedovanza-approvazione_automatica,Ministero dell'Interno,0
 4,Province e Città Metropolitane,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,0
-4,Province e Città Metropolitane,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,0
 5,Pubbliche Amministrazioni Centrali,arch-common-service_SDG,Agenzia per L'Italia Digitale,8
 5,Pubbliche Amministrazioni Centrali,evidence-broker_SDG,Agenzia per L'Italia Digitale,5
 5,Pubbliche Amministrazioni Centrali,data-service-directory_SDG,Agenzia per L'Italia Digitale,5

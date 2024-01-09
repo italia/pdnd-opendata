@@ -1,6 +1,6 @@
 id,name,eserviceName,producerName,subscribersCount
-0,Tutte,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2820
-0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,155
+0,Tutte,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2824
+0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,158
 0,Tutte,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,68
 0,Tutte,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,36
 0,Tutte,arch-common-service_SDG,Agenzia per L'Italia Digitale,26
@@ -16,11 +16,12 @@ id,name,eserviceName,producerName,subscribersCount
 1,Altre Pubbliche Amministrazioni locali,service-catalogue_SDG,Agenzia per L'Italia Digitale,4
 1,Altre Pubbliche Amministrazioni locali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3
 1,Altre Pubbliche Amministrazioni locali,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,3
+1,Altre Pubbliche Amministrazioni locali,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,3
 1,Altre Pubbliche Amministrazioni locali,C006-servizioVerificaDichCittadinanza-approvazione_automatic,Ministero dell'Interno,2
 1,Altre Pubbliche Amministrazioni locali,C004-servizioVerificaDichDecesso-approvazione_automatica,Ministero dell'Interno,2
-1,Altre Pubbliche Amministrazioni locali,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,2
 2,Aziende Ospedaliere e ASL,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,7
 2,Aziende Ospedaliere e ASL,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,1
+2,Aziende Ospedaliere e ASL,APICIG,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 2,Aziende Ospedaliere e ASL,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 2,Aziende Ospedaliere e ASL,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,1
 2,Aziende Ospedaliere e ASL,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,1
@@ -28,9 +29,8 @@ id,name,eserviceName,producerName,subscribersCount
 2,Aziende Ospedaliere e ASL,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 2,Aziende Ospedaliere e ASL,PCP – CodeList,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 2,Aziende Ospedaliere e ASL,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,1
-2,Aziende Ospedaliere e ASL,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,1
-3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2810
-3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,121
+3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2814
+3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,124
 3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,68
 3,Comuni,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,36
 3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,25
@@ -45,20 +45,20 @@ id,name,eserviceName,producerName,subscribersCount
 4,Province e Città Metropolitane,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,0
 4,Province e Città Metropolitane,C025-servizioAccertamentoMaternita-approvazione_automatica,Ministero dell'Interno,0
 4,Province e Città Metropolitane,evidence-broker_SDG,Agenzia per L'Italia Digitale,0
+4,Province e Città Metropolitane,APICIG,Autorita' Nazionale Anticorruzione - A.N.AC.,0
 4,Province e Città Metropolitane,POLIZIA MUNICIPALE - Posizioni debitorie aperte,Comune di Porto Torres,0
 4,Province e Città Metropolitane,C010-servizioVerificaDichStatoLibero-approvazione_automatica,Ministero dell'Interno,0
 4,Province e Città Metropolitane,C023-servizioAccertamentoVedovanza-approvazione_automatica,Ministero dell'Interno,0
-4,Province e Città Metropolitane,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,0
 5,Pubbliche Amministrazioni Centrali,arch-common-service_SDG,Agenzia per L'Italia Digitale,8
 5,Pubbliche Amministrazioni Centrali,evidence-broker_SDG,Agenzia per L'Italia Digitale,5
 5,Pubbliche Amministrazioni Centrali,data-service-directory_SDG,Agenzia per L'Italia Digitale,5
 5,Pubbliche Amministrazioni Centrali,service-catalogue_SDG,Agenzia per L'Italia Digitale,5
 5,Pubbliche Amministrazioni Centrali,PreviewSpace_SDG,Agenzia per L'Italia Digitale,3
+5,Pubbliche Amministrazioni Centrali,APICIG,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 5,Pubbliche Amministrazioni Centrali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1
 5,Pubbliche Amministrazioni Centrali,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 5,Pubbliche Amministrazioni Centrali,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 5,Pubbliche Amministrazioni Centrali,PCP - FVA,Autorita' Nazionale Anticorruzione - A.N.AC.,1
-5,Pubbliche Amministrazioni Centrali,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,evidence-broker_SDG,Agenzia per L'Italia Digitale,2
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,arch-common-service_SDG,Agenzia per L'Italia Digitale,2
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,data-service-directory_SDG,Agenzia per L'Italia Digitale,2
@@ -68,7 +68,7 @@ id,name,eserviceName,producerName,subscribersCount
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,PreviewSpace_SDG,Agenzia per L'Italia Digitale,1
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,0
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,C025-servizioAccertamentoMaternita-approvazione_automatica,Ministero dell'Interno,0
-6,Enti Nazionali di Previdenza ed Assistenza Sociale,POLIZIA MUNICIPALE - Posizioni debitorie aperte,Comune di Porto Torres,0
+6,Enti Nazionali di Previdenza ed Assistenza Sociale,APICIG,Autorita' Nazionale Anticorruzione - A.N.AC.,0
 7,Regioni e Province Autonome,arch-common-service_SDG,Agenzia per L'Italia Digitale,11
 7,Regioni e Province Autonome,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,4
 7,Regioni e Province Autonome,service-catalogue_SDG,Agenzia per L'Italia Digitale,4
@@ -82,13 +82,14 @@ id,name,eserviceName,producerName,subscribersCount
 8,Consorzi e associazioni regionali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,0
 8,Consorzi e associazioni regionali,C025-servizioAccertamentoMaternita-approvazione_automatica,Ministero dell'Interno,0
 8,Consorzi e associazioni regionali,evidence-broker_SDG,Agenzia per L'Italia Digitale,0
+8,Consorzi e associazioni regionali,APICIG,Autorita' Nazionale Anticorruzione - A.N.AC.,0
 8,Consorzi e associazioni regionali,POLIZIA MUNICIPALE - Posizioni debitorie aperte,Comune di Porto Torres,0
 8,Consorzi e associazioni regionali,C010-servizioVerificaDichStatoLibero-approvazione_automatica,Ministero dell'Interno,0
 8,Consorzi e associazioni regionali,C023-servizioAccertamentoVedovanza-approvazione_automatica,Ministero dell'Interno,0
 8,Consorzi e associazioni regionali,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,0
 8,Consorzi e associazioni regionali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,0
 8,Consorzi e associazioni regionali,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,0
-8,Consorzi e associazioni regionali,arch-common-service_SDG,Agenzia per L'Italia Digitale,0
+9,Scuole,APICIG,Autorita' Nazionale Anticorruzione - A.N.AC.,2
 9,Scuole,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,1
 9,Scuole,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,1
 9,Scuole,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,0
@@ -98,27 +99,26 @@ id,name,eserviceName,producerName,subscribersCount
 9,Scuole,C010-servizioVerificaDichStatoLibero-approvazione_automatica,Ministero dell'Interno,0
 9,Scuole,C023-servizioAccertamentoVedovanza-approvazione_automatica,Ministero dell'Interno,0
 9,Scuole,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,0
-9,Scuole,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,0
 10,Università e AFAM,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,1
 10,Università e AFAM,C009-servizioVerificaDichStatoFamiglia-approvazione_automati,Ministero dell'Interno,1
 10,Università e AFAM,Consultazione Attestazione ISEE,Istituto Nazionale Previdenza Sociale - INPS,1
 10,Università e AFAM,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,0
 10,Università e AFAM,C025-servizioAccertamentoMaternita-approvazione_automatica,Ministero dell'Interno,0
 10,Università e AFAM,evidence-broker_SDG,Agenzia per L'Italia Digitale,0
+10,Università e AFAM,APICIG,Autorita' Nazionale Anticorruzione - A.N.AC.,0
 10,Università e AFAM,POLIZIA MUNICIPALE - Posizioni debitorie aperte,Comune di Porto Torres,0
 10,Università e AFAM,C010-servizioVerificaDichStatoLibero-approvazione_automatica,Ministero dell'Interno,0
 10,Università e AFAM,C023-servizioAccertamentoVedovanza-approvazione_automatica,Ministero dell'Interno,0
-10,Università e AFAM,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,0
 11,Istituti di Ricerca,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,0
 11,Istituti di Ricerca,C025-servizioAccertamentoMaternita-approvazione_automatica,Ministero dell'Interno,0
 11,Istituti di Ricerca,evidence-broker_SDG,Agenzia per L'Italia Digitale,0
+11,Istituti di Ricerca,APICIG,Autorita' Nazionale Anticorruzione - A.N.AC.,0
 11,Istituti di Ricerca,POLIZIA MUNICIPALE - Posizioni debitorie aperte,Comune di Porto Torres,0
 11,Istituti di Ricerca,C010-servizioVerificaDichStatoLibero-approvazione_automatica,Ministero dell'Interno,0
 11,Istituti di Ricerca,C023-servizioAccertamentoVedovanza-approvazione_automatica,Ministero dell'Interno,0
 11,Istituti di Ricerca,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,0
 11,Istituti di Ricerca,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,0
 11,Istituti di Ricerca,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,0
-11,Istituti di Ricerca,arch-common-service_SDG,Agenzia per L'Italia Digitale,0
 12,Stazioni Appaltanti e Gestori di pubblici servizi,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,6
 12,Stazioni Appaltanti e Gestori di pubblici servizi,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,6
 12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,6
@@ -127,5 +127,5 @@ id,name,eserviceName,producerName,subscribersCount
 12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,6
 12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP – CodeList,Autorita' Nazionale Anticorruzione - A.N.AC.,6
 12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,6
-12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,6
 12,Stazioni Appaltanti e Gestori di pubblici servizi,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,6
+12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,6

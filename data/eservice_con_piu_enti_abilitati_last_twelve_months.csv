@@ -1,14 +1,14 @@
 id,name,eserviceName,producerName,subscribersCount
 0,Tutte,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2828
-0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,167
+0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,168
 0,Tutte,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,72
-0,Tutte,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,40
+0,Tutte,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,41
 0,Tutte,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,28
 0,Tutte,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,28
-0,Tutte,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,27
-0,Tutte,C002-servizioComunicazione-approvazione_automatica,Ministero dell'Interno,27
+0,Tutte,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,28
+0,Tutte,C002-servizioComunicazione-approvazione_automatica,Ministero dell'Interno,28
 0,Tutte,arch-common-service_SDG,Agenzia per L'Italia Digitale,26
-0,Tutte,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,24
+0,Tutte,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,25
 1,Altre Pubbliche Amministrazioni locali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,9
 1,Altre Pubbliche Amministrazioni locali,arch-common-service_SDG,Agenzia per L'Italia Digitale,5
 1,Altre Pubbliche Amministrazioni locali,evidence-broker_SDG,Agenzia per L'Italia Digitale,4
@@ -28,27 +28,27 @@ id,name,eserviceName,producerName,subscribersCount
 2,Aziende Ospedaliere e ASL,PCP - FVA,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 2,Aziende Ospedaliere e ASL,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 2,Aziende Ospedaliere e ASL,PCP – CodeList,Autorita' Nazionale Anticorruzione - A.N.AC.,1
-2,Aziende Ospedaliere e ASL,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,1
+2,Aziende Ospedaliere e ASL,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2818
-3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,130
+3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,131
 3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,72
-3,Comuni,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,40
-3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,27
-3,Comuni,C002-servizioComunicazione-approvazione_automatica,Ministero dell'Interno,27
-3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,24
+3,Comuni,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,41
+3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,28
+3,Comuni,C002-servizioComunicazione-approvazione_automatica,Ministero dell'Interno,28
+3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,25
 3,Comuni,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,23
-3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,20
-3,Comuni,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,20
+3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,21
+3,Comuni,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,21
 4,Province e Città Metropolitane,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,8
+4,Province e Città Metropolitane,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,2
+4,Province e Città Metropolitane,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 4,Province e Città Metropolitane,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,1
+4,Province e Città Metropolitane,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 4,Province e Città Metropolitane,C020-servizioAccertamentoResidenza,Ministero dell'Interno,1
+4,Province e Città Metropolitane,PCP - FVA,Autorita' Nazionale Anticorruzione - A.N.AC.,1
+4,Province e Città Metropolitane,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,1
+4,Province e Città Metropolitane,PCP – CodeList,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 4,Province e Città Metropolitane,C021-servizioAccertamentoStatoFamiglia,Ministero dell'Interno,1
-4,Province e Città Metropolitane,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,1
-4,Province e Città Metropolitane,C025-servizioAccertamentoMaternita,Ministero dell'Interno,1
-4,Province e Città Metropolitane,C015-servizioAccertamentoGeneralita,Ministero dell'Interno,1
-4,Province e Città Metropolitane,C024-servizioAccertamentoPaternita,Ministero dell'Interno,1
-4,Province e Città Metropolitane,C018-servizioAccertamentoCittadinanza,Ministero dell'Interno,1
-4,Province e Città Metropolitane,C019-servizioAccertamentoEsistenzaVita,Ministero dell'Interno,1
 5,Pubbliche Amministrazioni Centrali,arch-common-service_SDG,Agenzia per L'Italia Digitale,8
 5,Pubbliche Amministrazioni Centrali,evidence-broker_SDG,Agenzia per L'Italia Digitale,5
 5,Pubbliche Amministrazioni Centrali,data-service-directory_SDG,Agenzia per L'Italia Digitale,5
@@ -74,11 +74,11 @@ id,name,eserviceName,producerName,subscribersCount
 7,Regioni e Province Autonome,service-catalogue_SDG,Agenzia per L'Italia Digitale,4
 7,Regioni e Province Autonome,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,3
 7,Regioni e Province Autonome,VCF1 - Verifica Booleana Codice Fiscale ,Agenzia delle Entrate,3
+7,Regioni e Province Autonome,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,3
 7,Regioni e Province Autonome,evidence-broker_SDG,Agenzia per L'Italia Digitale,2
 7,Regioni e Province Autonome,C010-servizioVerificaDichStatoLibero-approvazione_automatica,Ministero dell'Interno,2
+7,Regioni e Province Autonome,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,2
 7,Regioni e Province Autonome,C006-servizioVerificaDichCittadinanza-approvazione_automatic,Ministero dell'Interno,2
-7,Regioni e Province Autonome,C020-servizioAccertamentoResidenza,Ministero dell'Interno,2
-7,Regioni e Province Autonome,C009-servizioVerificaDichStatoFamiglia-approvazione_automati,Ministero dell'Interno,2
 8,Consorzi e associazioni regionali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,0
 8,Consorzi e associazioni regionali,C025-servizioAccertamentoMaternita-approvazione_automatica,Ministero dell'Interno,0
 8,Consorzi e associazioni regionali,evidence-broker_SDG,Agenzia per L'Italia Digitale,0
@@ -89,7 +89,7 @@ id,name,eserviceName,producerName,subscribersCount
 8,Consorzi e associazioni regionali,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,0
 8,Consorzi e associazioni regionali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,0
 8,Consorzi e associazioni regionali,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,0
-9,Scuole,APICIG,Autorita' Nazionale Anticorruzione - A.N.AC.,2
+9,Scuole,APICIG,Autorita' Nazionale Anticorruzione - A.N.AC.,3
 9,Scuole,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,1
 9,Scuole,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,1
 9,Scuole,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,0
@@ -120,6 +120,7 @@ id,name,eserviceName,producerName,subscribersCount
 11,Istituti di Ricerca,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,0
 11,Istituti di Ricerca,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,0
 12,Stazioni Appaltanti e Gestori di pubblici servizi,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,7
+12,Stazioni Appaltanti e Gestori di pubblici servizi,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,7
 12,Stazioni Appaltanti e Gestori di pubblici servizi,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,6
 12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,6
 12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,6
@@ -127,5 +128,4 @@ id,name,eserviceName,producerName,subscribersCount
 12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,6
 12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP – CodeList,Autorita' Nazionale Anticorruzione - A.N.AC.,6
 12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,6
-12,Stazioni Appaltanti e Gestori di pubblici servizi,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,6
 12,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,6

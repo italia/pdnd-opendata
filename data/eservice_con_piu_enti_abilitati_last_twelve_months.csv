@@ -1,13 +1,13 @@
 id,name,eserviceName,producerName,subscribersCount
-0,Tutte,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2882
-0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,174
+0,Tutte,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2884
+0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,175
 0,Tutte,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,72
 0,Tutte,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,41
 0,Tutte,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,28
 0,Tutte,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,28
 0,Tutte,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,28
 0,Tutte,C002-servizioComunicazione-approvazione_automatica,Ministero dell'Interno,28
-0,Tutte,arch-common-service_SDG,Agenzia per L'Italia Digitale,26
+0,Tutte,arch-common-service_SDG,Agenzia per L'Italia Digitale,27
 0,Tutte,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,25
 1,Altre Pubbliche Amministrazioni locali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,9
 1,Altre Pubbliche Amministrazioni locali,arch-common-service_SDG,Agenzia per L'Italia Digitale,5
@@ -29,8 +29,8 @@ id,name,eserviceName,producerName,subscribersCount
 2,Aziende Ospedaliere e ASL,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 2,Aziende Ospedaliere e ASL,PCP – CodeList,Autorita' Nazionale Anticorruzione - A.N.AC.,1
 2,Aziende Ospedaliere e ASL,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,1
-3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2872
-3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,135
+3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2874
+3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,136
 3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,72
 3,Comuni,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,41
 3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,28
@@ -69,7 +69,7 @@ id,name,eserviceName,producerName,subscribersCount
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,C020-servizioAccertamentoResidenza,Ministero dell'Interno,1
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,C021-servizioAccertamentoStatoFamiglia,Ministero dell'Interno,1
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,C015-servizioAccertamentoGeneralita,Ministero dell'Interno,1
-7,Regioni e Province Autonome,arch-common-service_SDG,Agenzia per L'Italia Digitale,11
+7,Regioni e Province Autonome,arch-common-service_SDG,Agenzia per L'Italia Digitale,12
 7,Regioni e Province Autonome,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,5
 7,Regioni e Province Autonome,service-catalogue_SDG,Agenzia per L'Italia Digitale,4
 7,Regioni e Province Autonome,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,3

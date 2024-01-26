@@ -23,10 +23,10 @@
   <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-01-26</dct:modified>
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-01-26</dct:issued>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/categorie_di_erogatori"/>
-<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_last_six_months"/>
-<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_last_twelve_months"/>
-<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_from_the_beginning"/>
+  <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_twelve_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_from_the_beginning"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita"/>
@@ -37,26 +37,26 @@
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning"/>
-<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_six_months"/>
-<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_twelve_months"/>
-<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning"/>
 </dcatapit:Catalog>
   
   
-<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/categorie_di_erogatori">
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>Categorie di erogatori</dct:title>
-  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/categorie_di_erogatori.csv</dct:landingpage>
+  <dct:title>PDND - Categorie di erogatori</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.csv</dct:landingpage>
   <dct:description>Numero di e-service per categoria di ente erogatore</dct:description>
-  <dct:identifier>pcm:categorie_di_erogatori</dct:identifier>
+  <dct:identifier>AA1D3A2:enti_erogatori_di_e_service</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="pcm">
+    <dcatapit:Agent rdf:about="AA1D3A2">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>pcm</dct:identifier>
+      <dct:identifier>AA1D3A2</dct:identifier>
       <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
@@ -78,25 +78,25 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/categorie_di_erogatori.csv"/>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/categorie_di_erogatori.json"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.json"/>
 </dcatapit:Dataset>
     
 
-<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_last_six_months">
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>E-service più richiesti (ultimi sei mesi)</dct:title>
-  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_last_six_months.csv</dct:landingpage>
-  <dct:description>E-service ordinati per numero di richieste di fruizione, totale e per categoria di ente erogatore (ultimi sei mesi)</dct:description>
-  <dct:identifier>pcm:eservice_piu_richiesti_last_six_months</dct:identifier>
+  <dct:title>PDND - E-service più richiesti - ultimi 6 mesi</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months.csv</dct:landingpage>
+  <dct:description>E-service ordinati per numero di richieste di fruizione, totale e per categoria di ente fruitore</dct:description>
+  <dct:identifier>AA1D3A2:e_service_con_piu_enti_abilitati_last_six_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="pcm">
+    <dcatapit:Agent rdf:about="AA1D3A2">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>pcm</dct:identifier>
+      <dct:identifier>AA1D3A2</dct:identifier>
       <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
@@ -118,25 +118,25 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_last_six_months.csv"/>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_last_six_months.json"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months.json"/>
 </dcatapit:Dataset>
     
 
-<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_last_twelve_months">
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_twelve_months">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>E-service più richiesti (ultimi dodici mesi)</dct:title>
-  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_last_twelve_months.csv</dct:landingpage>
-  <dct:description>E-service ordinati per numero di richieste di fruizione, totale e per categoria di ente erogatore (ultimi dodici mesi)</dct:description>
-  <dct:identifier>pcm:eservice_piu_richiesti_last_twelve_months</dct:identifier>
+  <dct:title>PDND - E-service più richiesti - ultimi 12 mesi</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_twelve_months.csv</dct:landingpage>
+  <dct:description>E-service ordinati per numero di richieste di fruizione, totale e per categoria di ente fruitore</dct:description>
+  <dct:identifier>AA1D3A2:e_service_con_piu_enti_abilitati_last_twelve_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="pcm">
+    <dcatapit:Agent rdf:about="AA1D3A2">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>pcm</dct:identifier>
+      <dct:identifier>AA1D3A2</dct:identifier>
       <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
@@ -158,25 +158,25 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_last_twelve_months.csv"/>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_last_twelve_months.json"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_twelve_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_twelve_months.json"/>
 </dcatapit:Dataset>
     
 
-<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_from_the_beginning">
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_from_the_beginning">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>E-service più richiesti (dall’inizio del servizio)</dct:title>
-  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_from_the_beginning.csv</dct:landingpage>
-  <dct:description>E-service ordinati per numero di richieste di fruizione, totale e per categoria di ente erogatore (dall’inizio del servizio)</dct:description>
-  <dct:identifier>pcm:eservice_piu_richiesti_from_the_beginning</dct:identifier>
+  <dct:title>PDND - E-service con più enti abilitati - inizio del servizio</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_from_the_beginning.csv</dct:landingpage>
+  <dct:description>E-service ordinati per numero di richieste di fruizione, totale e per categoria di ente fruitore</dct:description>
+  <dct:identifier>AA1D3A2:e_service_con_piu_enti_abilitati_from_the_beginning</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="pcm">
+    <dcatapit:Agent rdf:about="AA1D3A2">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>pcm</dct:identifier>
+      <dct:identifier>AA1D3A2</dct:identifier>
       <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
@@ -198,8 +198,8 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_from_the_beginning.csv"/>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_from_the_beginning.json"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_from_the_beginning.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_from_the_beginning.json"/>
 </dcatapit:Dataset>
     
 
@@ -207,16 +207,16 @@
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>Totale enti e suddivisione per macro-categorie</dct:title>
+  <dct:title>PDND - Totale enti e suddivisione per macro-categorie</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.csv</dct:landingpage>
-  <dct:description>Il totale degli enti che hanno aderito a PDND Interoperabilità</dct:description>
-  <dct:identifier>pcm:totale_enti</dct:identifier>
+  <dct:description>Il totale degli enti e delle categorie in evidenza che hanno aderito a PDND Interoperabilità, con la variazione del mese precedente</dct:description>
+  <dct:identifier>AA1D3A2:totale_enti</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="pcm">
+    <dcatapit:Agent rdf:about="AA1D3A2">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>pcm</dct:identifier>
+      <dct:identifier>AA1D3A2</dct:identifier>
       <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
@@ -247,16 +247,16 @@
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>E-service pubblicati</dct:title>
+  <dct:title>PDND - E-service pubblicati</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati.csv</dct:landingpage>
   <dct:description>Numero di e-service pubblicati e variazione nell'ultimo mese</dct:description>
-  <dct:identifier>pcm:eservice_pubblicati</dct:identifier>
+  <dct:identifier>AA1D3A2:eservice_pubblicati</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="pcm">
+    <dcatapit:Agent rdf:about="AA1D3A2">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>pcm</dct:identifier>
+      <dct:identifier>AA1D3A2</dct:identifier>
       <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
@@ -287,16 +287,16 @@
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>Distribuzione degli enti per attività</dct:title>
+  <dct:title>PDND - Distribuzione degli enti per attività</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.csv</dct:landingpage>
   <dct:description>Numero di: enti erogatori che mettono a disposizione e-service; enti fruitori che li utilizzano; enti sia erogatori che fruitori; enti che effettuano solo l’accesso alla piattaforma</dct:description>
-  <dct:identifier>pcm:distribuzione_degli_enti_per_attivita</dct:identifier>
+  <dct:identifier>AA1D3A2:distribuzione_degli_enti_per_attivita</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="pcm">
+    <dcatapit:Agent rdf:about="AA1D3A2">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>pcm</dct:identifier>
+      <dct:identifier>AA1D3A2</dct:identifier>
       <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
@@ -327,16 +327,16 @@
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>Andamento delle adesioni</dct:title>
+  <dct:title>PDND - Andamento delle adesioni</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/andamento_delle_adesioni.csv</dct:landingpage>
   <dct:description>Numero progressivo di enti che aderiscono alla piattaforma</dct:description>
-  <dct:identifier>pcm:andamento_delle_adesioni</dct:identifier>
+  <dct:identifier>AA1D3A2:andamento_delle_adesioni</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="pcm">
+    <dcatapit:Agent rdf:about="AA1D3A2">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>pcm</dct:identifier>
+      <dct:identifier>AA1D3A2</dct:identifier>
       <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
@@ -367,16 +367,16 @@
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico (ultimi sei mesi)</dct:title>
+  <dct:title>PDND - Stato di completamento delle adesioni per categoria di ente pubblico - ultimi 6 mesi</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_six_months.csv</dct:landingpage>
-  <dct:description>Percentuale di adesione degli enti sul totale della categoria (ultimi sei mesi)</dct:description>
-  <dct:identifier>pcm:stato_di_completamento_adesioni_last_six_months</dct:identifier>
+  <dct:description>Percentuale di adesione degli enti sul totale della categoria</dct:description>
+  <dct:identifier>AA1D3A2:stato_di_completamento_adesioni_last_six_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="pcm">
+    <dcatapit:Agent rdf:about="AA1D3A2">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>pcm</dct:identifier>
+      <dct:identifier>AA1D3A2</dct:identifier>
       <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
@@ -407,16 +407,16 @@
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico (ultimi dodici mesi)</dct:title>
+  <dct:title>PDND - Stato di completamento delle adesioni per categoria di ente pubblico - ultimi 12 mesi</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_twelve_months.csv</dct:landingpage>
-  <dct:description>Percentuale di adesione degli enti sul totale della categoria (ultimi dodici mesi)</dct:description>
-  <dct:identifier>pcm:stato_di_completamento_adesioni_last_twelve_months</dct:identifier>
+  <dct:description>Percentuale di adesione degli enti sul totale della categoria</dct:description>
+  <dct:identifier>AA1D3A2:stato_di_completamento_adesioni_last_twelve_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="pcm">
+    <dcatapit:Agent rdf:about="AA1D3A2">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>pcm</dct:identifier>
+      <dct:identifier>AA1D3A2</dct:identifier>
       <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
@@ -447,16 +447,16 @@
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico (dall’inizio del servizio)</dct:title>
+  <dct:title>PDND - Stato di completamento delle adesioni per categoria di ente pubblico - inizio del servizio</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_from_the_beginning.csv</dct:landingpage>
-  <dct:description>Percentuale di adesione degli enti sul totale della categoria (dall’inizio del servizio)</dct:description>
-  <dct:identifier>pcm:stato_di_completamento_adesioni_from_the_beginning</dct:identifier>
+  <dct:description>Percentuale di adesione degli enti sul totale della categoria</dct:description>
+  <dct:identifier>AA1D3A2:stato_di_completamento_adesioni_from_the_beginning</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="pcm">
+    <dcatapit:Agent rdf:about="AA1D3A2">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>pcm</dct:identifier>
+      <dct:identifier>AA1D3A2</dct:identifier>
       <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
@@ -487,16 +487,16 @@
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>Enti che pubblicano più e-service</dct:title>
+  <dct:title>PDND - Enti che pubblicano più e-service - ultimi 6 mesi</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months.csv</dct:landingpage>
-  <dct:description>I 10 enti erogatori con più e-service pubblicati (ultimi sei mesi)</dct:description>
-  <dct:identifier>pcm:enti_che_pubblicano_piu_e_service_last_six_months</dct:identifier>
+  <dct:description>I 10 enti erogatori con più e-service pubblicati</dct:description>
+  <dct:identifier>AA1D3A2:enti_che_pubblicano_piu_e_service_last_six_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="pcm">
+    <dcatapit:Agent rdf:about="AA1D3A2">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>pcm</dct:identifier>
+      <dct:identifier>AA1D3A2</dct:identifier>
       <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
@@ -527,16 +527,16 @@
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>Enti che pubblicano più e-service (ultimi dodici mesi)</dct:title>
+  <dct:title>PDND - Enti che pubblicano più e-service - ultimi 12 mesi</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.csv</dct:landingpage>
-  <dct:description>I 10 enti erogatori con più e-service pubblicati (ultimi dodici mesi)</dct:description>
-  <dct:identifier>pcm:enti_che_pubblicano_piu_e_service_last_twelve_months</dct:identifier>
+  <dct:description>I 10 enti erogatori con più e-service pubblicati</dct:description>
+  <dct:identifier>AA1D3A2:enti_che_pubblicano_piu_e_service_last_twelve_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="pcm">
+    <dcatapit:Agent rdf:about="AA1D3A2">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>pcm</dct:identifier>
+      <dct:identifier>AA1D3A2</dct:identifier>
       <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
@@ -567,16 +567,16 @@
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>Enti che pubblicano più e-service (dall’inizio del servizio)</dct:title>
+  <dct:title>PDND - Enti che pubblicano più e-service - inizio del servizio</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.csv</dct:landingpage>
-  <dct:description>I 10 enti erogatori con più e-service pubblicati (dall’inizio del servizio)</dct:description>
-  <dct:identifier>pcm:enti_che_pubblicano_piu_e_service_from_the_beginning</dct:identifier>
+  <dct:description>I 10 enti erogatori con più e-service pubblicati</dct:description>
+  <dct:identifier>AA1D3A2:enti_che_pubblicano_piu_e_service_from_the_beginning</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="pcm">
+    <dcatapit:Agent rdf:about="AA1D3A2">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>pcm</dct:identifier>
+      <dct:identifier>AA1D3A2</dct:identifier>
       <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
@@ -603,20 +603,20 @@
 </dcatapit:Dataset>
     
 
-<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_six_months">
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>Flussi di richieste tra enti (ultimi sei mesi)</dct:title>
-  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_six_months.csv</dct:landingpage>
-  <dct:description>I 10 enti con maggior numero di richieste di fruizione suddivise per categoria di enti fruitori (ultimi sei mesi)</dct:description>
-  <dct:identifier>pcm:flussi_di_richieste_fra_enti_last_six_months</dct:identifier>
+  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - ultimi 6 mesi</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.csv</dct:landingpage>
+  <dct:description>I 10 enti con maggior numero di richieste di fruizione suddivise per categoria di enti fruitori</dct:description>
+  <dct:identifier>AA1D3A2:enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="pcm">
+    <dcatapit:Agent rdf:about="AA1D3A2">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>pcm</dct:identifier>
+      <dct:identifier>AA1D3A2</dct:identifier>
       <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
@@ -638,25 +638,25 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_six_months.csv"/>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_six_months.json"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.json"/>
 </dcatapit:Dataset>
     
 
-<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_twelve_months">
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>Flussi di richieste tra enti (ultimi dodici mesi)</dct:title>
-  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_twelve_months.csv</dct:landingpage>
-  <dct:description>I 10 enti con maggior numero di richieste di fruizione suddivise per categoria di enti fruitori (ultimi dodici mesi)</dct:description>
-  <dct:identifier>pcm:flussi_di_richieste_fra_enti_last_twelve_months</dct:identifier>
+  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - ultimi 12 mesi</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.csv</dct:landingpage>
+  <dct:description>I 10 enti con maggior numero di richieste di fruizione suddivise per categoria di enti fruitori</dct:description>
+  <dct:identifier>AA1D3A2:enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="pcm">
+    <dcatapit:Agent rdf:about="AA1D3A2">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>pcm</dct:identifier>
+      <dct:identifier>AA1D3A2</dct:identifier>
       <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
@@ -678,25 +678,25 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_twelve_months.csv"/>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_twelve_months.json"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.json"/>
 </dcatapit:Dataset>
     
 
-<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning">
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>Flussi di richieste tra enti (dall’inizio del servizio)</dct:title>
-  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning.csv</dct:landingpage>
-  <dct:description>I 10 enti con maggior numero di richieste di fruizione suddivise per categoria di enti fruitori (dall’inizio del servizio)</dct:description>
-  <dct:identifier>pcm:flussi_di_richieste_fra_enti_from_the_beginning</dct:identifier>
+  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - inizio del servizio</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.csv</dct:landingpage>
+  <dct:description>I 10 enti con maggior numero di richieste di fruizione suddivise per categoria di enti fruitori</dct:description>
+  <dct:identifier>AA1D3A2:enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
-    <dcatapit:Agent rdf:about="pcm">
+    <dcatapit:Agent rdf:about="AA1D3A2">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-      <dct:identifier>pcm</dct:identifier>
+      <dct:identifier>AA1D3A2</dct:identifier>
       <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
     </dcatapit:Agent>
   </dct:rightsHolder>
@@ -718,13 +718,13 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning.csv"/>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning.json"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.json"/>
 </dcatapit:Dataset>
     
   
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/categorie_di_erogatori.csv">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/categorie_di_erogatori.csv"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_di_e_service.csv"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -734,11 +734,11 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>Categorie di erogatori CSV</dct:title>
+  <dct:title>PDND - Categorie di erogatori CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/categorie_di_erogatori.json">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/categorie_di_erogatori.json"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_di_e_service.json"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -748,14 +748,14 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>Categorie di erogatori JSON</dct:title>
+  <dct:title>PDND - Categorie di erogatori JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
 
 
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_last_six_months.csv">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_piu_richiesti_last_six_months.csv"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_con_piu_enti_abilitati_last_six_months.csv"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -765,11 +765,11 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>E-service più richiesti (ultimi sei mesi) CSV</dct:title>
+  <dct:title>PDND - E-service più richiesti - ultimi 6 mesi CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_last_six_months.json">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_piu_richiesti_last_six_months.json"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_con_piu_enti_abilitati_last_six_months.json"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -779,14 +779,14 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>E-service più richiesti (ultimi sei mesi) JSON</dct:title>
+  <dct:title>PDND - E-service più richiesti - ultimi 6 mesi JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
 
 
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_last_twelve_months.csv">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_piu_richiesti_last_twelve_months.csv"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_twelve_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_con_piu_enti_abilitati_last_twelve_months.csv"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -796,11 +796,11 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>E-service più richiesti (ultimi dodici mesi) CSV</dct:title>
+  <dct:title>PDND - E-service più richiesti - ultimi 12 mesi CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_last_twelve_months.json">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_piu_richiesti_last_twelve_months.json"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_twelve_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_con_piu_enti_abilitati_last_twelve_months.json"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -810,14 +810,14 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>E-service più richiesti (ultimi dodici mesi) JSON</dct:title>
+  <dct:title>PDND - E-service più richiesti - ultimi 12 mesi JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
 
 
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_from_the_beginning.csv">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_piu_richiesti_from_the_beginning.csv"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_from_the_beginning.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_con_piu_enti_abilitati_from_the_beginning.csv"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -827,11 +827,11 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>E-service più richiesti (dall’inizio del servizio) CSV</dct:title>
+  <dct:title>PDND - E-service con più enti abilitati - inizio del servizio CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_piu_richiesti_from_the_beginning.json">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_piu_richiesti_from_the_beginning.json"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_from_the_beginning.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_con_piu_enti_abilitati_from_the_beginning.json"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -841,7 +841,7 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>E-service più richiesti (dall’inizio del servizio) JSON</dct:title>
+  <dct:title>PDND - E-service con più enti abilitati - inizio del servizio JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
@@ -858,7 +858,7 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>Totale enti e suddivisione per macro-categorie CSV</dct:title>
+  <dct:title>PDND - Totale enti e suddivisione per macro-categorie CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.json">
@@ -872,7 +872,7 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>Totale enti e suddivisione per macro-categorie JSON</dct:title>
+  <dct:title>PDND - Totale enti e suddivisione per macro-categorie JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
@@ -889,7 +889,7 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>E-service pubblicati CSV</dct:title>
+  <dct:title>PDND - E-service pubblicati CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati.json">
@@ -903,7 +903,7 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>E-service pubblicati JSON</dct:title>
+  <dct:title>PDND - E-service pubblicati JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
@@ -920,7 +920,7 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>Distribuzione degli enti per attività CSV</dct:title>
+  <dct:title>PDND - Distribuzione degli enti per attività CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.json">
@@ -934,7 +934,7 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>Distribuzione degli enti per attività JSON</dct:title>
+  <dct:title>PDND - Distribuzione degli enti per attività JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
@@ -951,7 +951,7 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>Andamento delle adesioni CSV</dct:title>
+  <dct:title>PDND - Andamento delle adesioni CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/andamento_delle_adesioni.json">
@@ -965,7 +965,7 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>Andamento delle adesioni JSON</dct:title>
+  <dct:title>PDND - Andamento delle adesioni JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
@@ -982,7 +982,7 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico (ultimi sei mesi) CSV</dct:title>
+  <dct:title>PDND - Stato di completamento delle adesioni per categoria di ente pubblico - ultimi 6 mesi CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_six_months.json">
@@ -996,7 +996,7 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico (ultimi sei mesi) JSON</dct:title>
+  <dct:title>PDND - Stato di completamento delle adesioni per categoria di ente pubblico - ultimi 6 mesi JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
@@ -1013,7 +1013,7 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico (ultimi dodici mesi) CSV</dct:title>
+  <dct:title>PDND - Stato di completamento delle adesioni per categoria di ente pubblico - ultimi 12 mesi CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_twelve_months.json">
@@ -1027,7 +1027,7 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico (ultimi dodici mesi) JSON</dct:title>
+  <dct:title>PDND - Stato di completamento delle adesioni per categoria di ente pubblico - ultimi 12 mesi JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
@@ -1044,7 +1044,7 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico (dall’inizio del servizio) CSV</dct:title>
+  <dct:title>PDND - Stato di completamento delle adesioni per categoria di ente pubblico - inizio del servizio CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_from_the_beginning.json">
@@ -1058,7 +1058,7 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>Stato di completamento delle adesioni per categoria di ente pubblico (dall’inizio del servizio) JSON</dct:title>
+  <dct:title>PDND - Stato di completamento delle adesioni per categoria di ente pubblico - inizio del servizio JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
@@ -1075,7 +1075,7 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>Enti che pubblicano più e-service CSV</dct:title>
+  <dct:title>PDND - Enti che pubblicano più e-service - ultimi 6 mesi CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months.json">
@@ -1089,7 +1089,7 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>Enti che pubblicano più e-service JSON</dct:title>
+  <dct:title>PDND - Enti che pubblicano più e-service - ultimi 6 mesi JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
@@ -1106,7 +1106,7 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>Enti che pubblicano più e-service (ultimi dodici mesi) CSV</dct:title>
+  <dct:title>PDND - Enti che pubblicano più e-service - ultimi 12 mesi CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.json">
@@ -1120,7 +1120,7 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>Enti che pubblicano più e-service (ultimi dodici mesi) JSON</dct:title>
+  <dct:title>PDND - Enti che pubblicano più e-service - ultimi 12 mesi JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
@@ -1137,7 +1137,7 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>Enti che pubblicano più e-service (dall’inizio del servizio) CSV</dct:title>
+  <dct:title>PDND - Enti che pubblicano più e-service - inizio del servizio CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.json">
@@ -1151,14 +1151,14 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>Enti che pubblicano più e-service (dall’inizio del servizio) JSON</dct:title>
+  <dct:title>PDND - Enti che pubblicano più e-service - inizio del servizio JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
 
 
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_six_months.csv">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_last_six_months.csv"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.csv"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -1168,11 +1168,11 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>Flussi di richieste tra enti (ultimi sei mesi) CSV</dct:title>
+  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - ultimi 6 mesi CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_six_months.json">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_last_six_months.json"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.json"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -1182,14 +1182,14 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>Flussi di richieste tra enti (ultimi sei mesi) JSON</dct:title>
+  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - ultimi 6 mesi JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
 
 
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_twelve_months.csv">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_last_twelve_months.csv"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.csv"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -1199,11 +1199,11 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>Flussi di richieste tra enti (ultimi dodici mesi) CSV</dct:title>
+  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - ultimi 12 mesi CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_twelve_months.json">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_last_twelve_months.json"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.json"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -1213,14 +1213,14 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>Flussi di richieste tra enti (ultimi dodici mesi) JSON</dct:title>
+  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - ultimi 12 mesi JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
 
 
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning.csv">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_from_the_beginning.csv"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.csv"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -1230,11 +1230,11 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>Flussi di richieste tra enti (dall’inizio del servizio) CSV</dct:title>
+  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - inizio del servizio CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning.json">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_from_the_beginning.json"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.json"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -1244,7 +1244,7 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>Flussi di richieste tra enti (dall’inizio del servizio) JSON</dct:title>
+  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - inizio del servizio JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 

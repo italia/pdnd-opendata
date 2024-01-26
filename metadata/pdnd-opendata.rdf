@@ -24,9 +24,9 @@
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-01-26</dct:issued>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
   <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service"/>
-<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months"/>
-<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_twelve_months"/>
-<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_from_the_beginning"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_six_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_twelve_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_from_the_beginning"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita"/>
@@ -37,9 +37,9 @@
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning"/>
-<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months"/>
-<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months"/>
-<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_six_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_twelve_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning"/>
 </dcatapit:Catalog>
   
   
@@ -83,14 +83,14 @@
 </dcatapit:Dataset>
     
 
-<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months">
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_six_months">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>PDND - E-service più richiesti - ultimi 6 mesi</dct:title>
-  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months.csv</dct:landingpage>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_six_months.csv</dct:landingpage>
   <dct:description>E-service ordinati per numero di richieste di fruizione, totale e per categoria di ente fruitore</dct:description>
-  <dct:identifier>AA1D3A2:e_service_con_piu_enti_abilitati_last_six_months</dct:identifier>
+  <dct:identifier>AA1D3A2:e_service_piu_richiesti_last_six_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
@@ -118,19 +118,19 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months.csv"/>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months.json"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_six_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_six_months.json"/>
 </dcatapit:Dataset>
     
 
-<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_twelve_months">
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_twelve_months">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>PDND - E-service più richiesti - ultimi 12 mesi</dct:title>
-  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_twelve_months.csv</dct:landingpage>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_twelve_months.csv</dct:landingpage>
   <dct:description>E-service ordinati per numero di richieste di fruizione, totale e per categoria di ente fruitore</dct:description>
-  <dct:identifier>AA1D3A2:e_service_con_piu_enti_abilitati_last_twelve_months</dct:identifier>
+  <dct:identifier>AA1D3A2:e_service_piu_richiesti_last_twelve_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
@@ -158,19 +158,19 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_twelve_months.csv"/>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_twelve_months.json"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_twelve_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_twelve_months.json"/>
 </dcatapit:Dataset>
     
 
-<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_from_the_beginning">
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_from_the_beginning">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>PDND - E-service con più enti abilitati - inizio del servizio</dct:title>
-  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_from_the_beginning.csv</dct:landingpage>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_from_the_beginning.csv</dct:landingpage>
   <dct:description>E-service ordinati per numero di richieste di fruizione, totale e per categoria di ente fruitore</dct:description>
-  <dct:identifier>AA1D3A2:e_service_con_piu_enti_abilitati_from_the_beginning</dct:identifier>
+  <dct:identifier>AA1D3A2:e_service_piu_richiesti_from_the_beginning</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
@@ -198,8 +198,8 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_from_the_beginning.csv"/>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_from_the_beginning.json"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_from_the_beginning.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_from_the_beginning.json"/>
 </dcatapit:Dataset>
     
 
@@ -603,14 +603,14 @@
 </dcatapit:Dataset>
     
 
-<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months">
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_six_months">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - ultimi 6 mesi</dct:title>
-  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.csv</dct:landingpage>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_six_months.csv</dct:landingpage>
   <dct:description>I 10 enti con maggior numero di richieste di fruizione suddivise per categoria di enti fruitori</dct:description>
-  <dct:identifier>AA1D3A2:enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months</dct:identifier>
+  <dct:identifier>AA1D3A2:flussi_di_richieste_fra_enti_last_six_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
@@ -638,19 +638,19 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.csv"/>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.json"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_six_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_six_months.json"/>
 </dcatapit:Dataset>
     
 
-<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months">
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_twelve_months">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - ultimi 12 mesi</dct:title>
-  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.csv</dct:landingpage>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_twelve_months.csv</dct:landingpage>
   <dct:description>I 10 enti con maggior numero di richieste di fruizione suddivise per categoria di enti fruitori</dct:description>
-  <dct:identifier>AA1D3A2:enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months</dct:identifier>
+  <dct:identifier>AA1D3A2:flussi_di_richieste_fra_enti_last_twelve_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
@@ -678,19 +678,19 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.csv"/>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.json"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_twelve_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_twelve_months.json"/>
 </dcatapit:Dataset>
     
 
-<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning">
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - inizio del servizio</dct:title>
-  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.csv</dct:landingpage>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning.csv</dct:landingpage>
   <dct:description>I 10 enti con maggior numero di richieste di fruizione suddivise per categoria di enti fruitori</dct:description>
-  <dct:identifier>AA1D3A2:enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning</dct:identifier>
+  <dct:identifier>AA1D3A2:flussi_di_richieste_fra_enti_from_the_beginning</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
@@ -718,8 +718,8 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.csv"/>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.json"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning.json"/>
 </dcatapit:Dataset>
     
   
@@ -754,8 +754,8 @@
 
 
 
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months.csv">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_con_piu_enti_abilitati_last_six_months.csv"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_six_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_richiesti_last_six_months.csv"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -768,8 +768,8 @@
   <dct:title>PDND - E-service più richiesti - ultimi 6 mesi CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months.json">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_con_piu_enti_abilitati_last_six_months.json"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_six_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_richiesti_last_six_months.json"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -785,8 +785,8 @@
 
 
 
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_twelve_months.csv">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_con_piu_enti_abilitati_last_twelve_months.csv"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_twelve_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_richiesti_last_twelve_months.csv"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -799,8 +799,8 @@
   <dct:title>PDND - E-service più richiesti - ultimi 12 mesi CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_twelve_months.json">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_con_piu_enti_abilitati_last_twelve_months.json"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_twelve_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_richiesti_last_twelve_months.json"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -816,8 +816,8 @@
 
 
 
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_from_the_beginning.csv">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_con_piu_enti_abilitati_from_the_beginning.csv"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_from_the_beginning.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_richiesti_from_the_beginning.csv"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -830,8 +830,8 @@
   <dct:title>PDND - E-service con più enti abilitati - inizio del servizio CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_from_the_beginning.json">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_con_piu_enti_abilitati_from_the_beginning.json"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_from_the_beginning.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_richiesti_from_the_beginning.json"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -1157,8 +1157,8 @@
 
 
 
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.csv">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.csv"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_six_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_last_six_months.csv"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -1171,8 +1171,8 @@
   <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - ultimi 6 mesi CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.json">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_six_months.json"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_six_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_last_six_months.json"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -1188,8 +1188,8 @@
 
 
 
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.csv">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.csv"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_twelve_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_last_twelve_months.csv"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -1202,8 +1202,8 @@
   <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - ultimi 12 mesi CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.json">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_last_twelve_months.json"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_twelve_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_last_twelve_months.json"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -1219,8 +1219,8 @@
 
 
 
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.csv">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.csv"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_from_the_beginning.csv"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -1233,8 +1233,8 @@
   <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - inizio del servizio CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.json">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_ed_enti_abilitati_alla_fruizione_from_the_beginning.json"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_from_the_beginning.json"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>

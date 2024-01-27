@@ -5,10 +5,10 @@ id,name,eserviceName,producerName,subscribersCount
 0,Tutte,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,46
 0,Tutte,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,42
 0,Tutte,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,38
-0,Tutte,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,30
-0,Tutte,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,30
-0,Tutte,arch-common-service_SDG,Agenzia per L'Italia Digitale,30
-0,Tutte,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,30
+0,Tutte,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,31
+0,Tutte,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,31
+0,Tutte,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,31
+0,Tutte,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,31
 1,Altre Pubbliche Amministrazioni locali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,9
 1,Altre Pubbliche Amministrazioni locali,arch-common-service_SDG,Agenzia per L'Italia Digitale,6
 1,Altre Pubbliche Amministrazioni locali,service-catalogue_SDG,Agenzia per L'Italia Digitale,5
@@ -70,15 +70,15 @@ id,name,eserviceName,producerName,subscribersCount
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,C021-servizioAccertamentoStatoFamiglia,Ministero dell'Interno,1
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,C015-servizioAccertamentoGeneralita,Ministero dell'Interno,1
 7,Regioni e Province autonome,arch-common-service_SDG,Agenzia per L'Italia Digitale,14
+7,Regioni e Province autonome,PCP - Pianificazione appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,5
 7,Regioni e Province autonome,service-catalogue_SDG,Agenzia per L'Italia Digitale,5
+7,Regioni e Province autonome,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,5
 7,Regioni e Province autonome,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,5
+7,Regioni e Province autonome,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,5
 7,Regioni e Province autonome,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,5
-7,Regioni e Province autonome,PCP - Pianificazione appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,4
-7,Regioni e Province autonome,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,4
-7,Regioni e Province autonome,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,4
-7,Regioni e Province autonome,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,4
-7,Regioni e Province autonome,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,4
-7,Regioni e Province autonome,PCP - FVA,Autorita' Nazionale Anticorruzione - A.N.AC.,4
+7,Regioni e Province autonome,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,5
+7,Regioni e Province autonome,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,5
+7,Regioni e Province autonome,PCP - FVA,Autorita' Nazionale Anticorruzione - A.N.AC.,5
 8,Consorzi e associazioni regionali,PCP - Pianificazione appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,0
 8,Consorzi e associazioni regionali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,0
 8,Consorzi e associazioni regionali,C025-servizioAccertamentoMaternita-approvazione_automatica,Ministero dell'Interno,0

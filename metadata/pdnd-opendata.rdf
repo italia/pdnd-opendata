@@ -40,6 +40,10 @@
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_six_months"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_twelve_months"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/totale_richieste_di_accesso"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_six_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_twelve_months"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_from_the_beginning"/>
 </dcatapit:Catalog>
   
   
@@ -722,11 +726,171 @@
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning.json"/>
 </dcatapit:Dataset>
     
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/totale_richieste_di_accesso">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>Totale richieste di accesso</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/totale_richieste_di_accesso.csv</dct:landingpage>
+  <dct:description>Numero totale di richieste di accesso ai dati</dct:description>
+  <dct:identifier>AA1D3A2:totale_richieste_di_accesso</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="AA1D3A2">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>AA1D3A2</dct:identifier>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-08</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-08</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/totale_richieste_di_accesso.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/totale_richieste_di_accesso.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_six_months">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>Attività della piattaforma - ultimi 6 mesi</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_six_months.csv</dct:landingpage>
+  <dct:description>Numero di richieste giornaliere di accesso ai dati</dct:description>
+  <dct:identifier>AA1D3A2:attivita_della_piattaforma_last_six_months</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="AA1D3A2">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>AA1D3A2</dct:identifier>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-08</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-08</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_six_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_six_months.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_twelve_months">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>Attività della piattaforma - ultimi 12 mesi</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_twelve_months.csv</dct:landingpage>
+  <dct:description>Numero di richieste giornaliere di accesso ai dati</dct:description>
+  <dct:identifier>AA1D3A2:attivita_della_piattaforma_last_twelve_months</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="AA1D3A2">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>AA1D3A2</dct:identifier>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-08</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-08</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_twelve_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_twelve_months.json"/>
+</dcatapit:Dataset>
+    
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_from_the_beginning">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>Attività della piattaforma - inizio del servizio</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_from_the_beginning.csv</dct:landingpage>
+  <dct:description>Numero di richieste giornaliere di accesso ai dati</dct:description>
+  <dct:identifier>AA1D3A2:attivita_della_piattaforma_from_the_beginning</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="AA1D3A2">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>AA1D3A2</dct:identifier>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-08</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-08</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_from_the_beginning.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_from_the_beginning.json"/>
+</dcatapit:Dataset>
+    
   
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_di_e_service.csv"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -740,7 +904,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.json">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_erogatori_di_e_service.json"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -757,7 +921,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_six_months.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_richiesti_last_six_months.csv"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -771,7 +935,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_six_months.json">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_richiesti_last_six_months.json"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -788,7 +952,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_twelve_months.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_richiesti_last_twelve_months.csv"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -802,7 +966,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_twelve_months.json">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_richiesti_last_twelve_months.json"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -819,7 +983,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_from_the_beginning.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_richiesti_from_the_beginning.csv"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -833,7 +997,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_from_the_beginning.json">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_richiesti_from_the_beginning.json"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -850,7 +1014,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/totale_enti.csv"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -864,7 +1028,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.json">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/totale_enti.json"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -881,7 +1045,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_pubblicati.csv"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -895,7 +1059,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati.json">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_pubblicati.json"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -912,7 +1076,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/distribuzione_degli_enti_per_attivita.csv"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -926,7 +1090,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.json">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/distribuzione_degli_enti_per_attivita.json"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -943,7 +1107,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/andamento_delle_adesioni.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/andamento_delle_adesioni.csv"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -957,7 +1121,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/andamento_delle_adesioni.json">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/andamento_delle_adesioni.json"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -974,7 +1138,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_six_months.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/stato_di_completamento_adesioni_last_six_months.csv"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -988,7 +1152,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_six_months.json">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/stato_di_completamento_adesioni_last_six_months.json"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -1005,7 +1169,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_twelve_months.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/stato_di_completamento_adesioni_last_twelve_months.csv"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -1019,7 +1183,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_last_twelve_months.json">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/stato_di_completamento_adesioni_last_twelve_months.json"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -1036,7 +1200,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_from_the_beginning.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/stato_di_completamento_adesioni_from_the_beginning.csv"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -1050,7 +1214,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/stato_di_completamento_adesioni_from_the_beginning.json">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/stato_di_completamento_adesioni_from_the_beginning.json"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -1067,7 +1231,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_che_pubblicano_piu_e_service_last_six_months.csv"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -1081,7 +1245,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months.json">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_che_pubblicano_piu_e_service_last_six_months.json"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -1098,7 +1262,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.csv"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -1112,7 +1276,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.json">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.json"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -1129,7 +1293,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.csv"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -1143,7 +1307,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.json">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.json"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -1160,7 +1324,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_six_months.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_last_six_months.csv"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -1174,7 +1338,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_six_months.json">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_last_six_months.json"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -1191,7 +1355,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_twelve_months.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_last_twelve_months.csv"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -1205,7 +1369,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_last_twelve_months.json">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_last_twelve_months.json"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -1222,7 +1386,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_from_the_beginning.csv"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -1236,7 +1400,7 @@
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/flussi_di_richieste_fra_enti_from_the_beginning.json">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/flussi_di_richieste_fra_enti_from_the_beginning.json"/>
   <dct:license>
-    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11:CCO10">
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
       <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
       <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
@@ -1245,6 +1409,130 @@
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
   <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - inizio del servizio JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/totale_richieste_di_accesso.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/totale_richieste_di_accesso.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>Totale richieste di accesso CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/totale_richieste_di_accesso.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/totale_richieste_di_accesso.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>Totale richieste di accesso JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_six_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/attivita_della_piattaforma_last_six_months.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>Attività della piattaforma - ultimi 6 mesi CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_six_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/attivita_della_piattaforma_last_six_months.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>Attività della piattaforma - ultimi 6 mesi JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_twelve_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/attivita_della_piattaforma_last_twelve_months.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>Attività della piattaforma - ultimi 12 mesi CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_twelve_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/attivita_della_piattaforma_last_twelve_months.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>Attività della piattaforma - ultimi 12 mesi JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_from_the_beginning.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/attivita_della_piattaforma_from_the_beginning.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>Attività della piattaforma - inizio del servizio CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_from_the_beginning.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/attivita_della_piattaforma_from_the_beginning.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>Attività della piattaforma - inizio del servizio JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 

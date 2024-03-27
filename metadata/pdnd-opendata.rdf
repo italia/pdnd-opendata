@@ -51,9 +51,9 @@
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>PDND - Categorie di erogatori</dct:title>
+  <dct:title>PDND - Enti erogatori di e-service</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.csv</dct:landingpage>
-  <dct:description>Numero di e-service per categoria di ente erogatore</dct:description>
+  <dct:description>Numero di e-service pubblicati suddivisi per categorie di enti erogatori</dct:description>
   <dct:identifier>AA1D3A2:enti_erogatori_di_e_service</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
@@ -93,7 +93,7 @@
   <dct:license/>
   <dct:title>PDND - E-service più richiesti - ultimi 6 mesi</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_six_months.csv</dct:landingpage>
-  <dct:description>E-service ordinati per numero di richieste di fruizione, totale e per categoria di ente fruitore</dct:description>
+  <dct:description>I 10 e-service con più enti abilitati, filtrabili per categoria di ente erogatore e fruitore</dct:description>
   <dct:identifier>AA1D3A2:e_service_piu_richiesti_last_six_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
@@ -133,7 +133,7 @@
   <dct:license/>
   <dct:title>PDND - E-service più richiesti - ultimi 12 mesi</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_last_twelve_months.csv</dct:landingpage>
-  <dct:description>E-service ordinati per numero di richieste di fruizione, totale e per categoria di ente fruitore</dct:description>
+  <dct:description>I 10 e-service con più enti abilitati, filtrabili per categoria di ente erogatore e fruitore</dct:description>
   <dct:identifier>AA1D3A2:e_service_piu_richiesti_last_twelve_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
@@ -171,9 +171,9 @@
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>PDND - E-service con più enti abilitati - inizio del servizio</dct:title>
+  <dct:title>PDND - E-service più richiesti - inizio del servizio</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_from_the_beginning.csv</dct:landingpage>
-  <dct:description>E-service ordinati per numero di richieste di fruizione, totale e per categoria di ente fruitore</dct:description>
+  <dct:description>I 10 e-service con più enti abilitati, filtrabili per categoria di ente erogatore e fruitore</dct:description>
   <dct:identifier>AA1D3A2:e_service_piu_richiesti_from_the_beginning</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
@@ -213,7 +213,7 @@
   <dct:license/>
   <dct:title>PDND - Totale enti e suddivisione per macro-categorie</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.csv</dct:landingpage>
-  <dct:description>Il totale degli enti e delle categorie in evidenza che hanno aderito a PDND Interoperabilità, con la variazione del mese precedente</dct:description>
+  <dct:description>Il totale degli enti e delle categorie in evidenza che hanno aderito a PDND Interoperabilità, con la variazione dal mese precedente</dct:description>
   <dct:identifier>AA1D3A2:totale_enti</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
@@ -611,9 +611,9 @@
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - ultimi 6 mesi</dct:title>
+  <dct:title>PDND - Connessioni fra enti - ultimi 6 mesi</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/connessioni_fra_enti_last_six_months.csv</dct:landingpage>
-  <dct:description>I 10 enti con maggior numero di richieste di fruizione suddivise per categoria di enti fruitori</dct:description>
+  <dct:description>I 10 enti erogatori che hanno abilitato più connessioni con gli enti fruitori</dct:description>
   <dct:identifier>AA1D3A2:connessioni_fra_enti_last_six_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
@@ -651,9 +651,9 @@
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - ultimi 12 mesi</dct:title>
+  <dct:title>PDND - Connessioni fra enti - ultimi 12 mesi</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/connessioni_fra_enti_last_twelve_months.csv</dct:landingpage>
-  <dct:description>I 10 enti con maggior numero di richieste di fruizione suddivise per categoria di enti fruitori</dct:description>
+  <dct:description>I 10 enti erogatori che hanno abilitato più connessioni con gli enti fruitori</dct:description>
   <dct:identifier>AA1D3A2:connessioni_fra_enti_last_twelve_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
@@ -691,9 +691,9 @@
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - inizio del servizio</dct:title>
+  <dct:title>PDND - Connessioni fra enti - inizio del servizio</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/connessioni_fra_enti_from_the_beginning.csv</dct:landingpage>
-  <dct:description>I 10 enti con maggior numero di richieste di fruizione suddivise per categoria di enti fruitori</dct:description>
+  <dct:description>I 10 enti erogatori che hanno abilitato più connessioni con gli enti fruitori</dct:description>
   <dct:identifier>AA1D3A2:connessioni_fra_enti_from_the_beginning</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
@@ -898,7 +898,7 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>PDND - Categorie di erogatori CSV</dct:title>
+  <dct:title>PDND - Enti erogatori di e-service CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/enti_erogatori_di_e_service.json">
@@ -912,7 +912,7 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>PDND - Categorie di erogatori JSON</dct:title>
+  <dct:title>PDND - Enti erogatori di e-service JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
@@ -991,7 +991,7 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>PDND - E-service con più enti abilitati - inizio del servizio CSV</dct:title>
+  <dct:title>PDND - E-service più richiesti - inizio del servizio CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_richiesti_from_the_beginning.json">
@@ -1005,7 +1005,7 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>PDND - E-service con più enti abilitati - inizio del servizio JSON</dct:title>
+  <dct:title>PDND - E-service più richiesti - inizio del servizio JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
@@ -1332,7 +1332,7 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - ultimi 6 mesi CSV</dct:title>
+  <dct:title>PDND - Connessioni fra enti - ultimi 6 mesi CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/connessioni_fra_enti_last_six_months.json">
@@ -1346,7 +1346,7 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - ultimi 6 mesi JSON</dct:title>
+  <dct:title>PDND - Connessioni fra enti - ultimi 6 mesi JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
@@ -1363,7 +1363,7 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - ultimi 12 mesi CSV</dct:title>
+  <dct:title>PDND - Connessioni fra enti - ultimi 12 mesi CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/connessioni_fra_enti_last_twelve_months.json">
@@ -1377,7 +1377,7 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - ultimi 12 mesi JSON</dct:title>
+  <dct:title>PDND - Connessioni fra enti - ultimi 12 mesi JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
@@ -1394,7 +1394,7 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - inizio del servizio CSV</dct:title>
+  <dct:title>PDND - Connessioni fra enti - inizio del servizio CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/connessioni_fra_enti_from_the_beginning.json">
@@ -1408,7 +1408,7 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>PDND - Enti erogatori ed enti abilitati alla fruizione - inizio del servizio JSON</dct:title>
+  <dct:title>PDND - Connessioni fra enti - inizio del servizio JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 

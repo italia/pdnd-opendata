@@ -1,14 +1,14 @@
 id,name,producerName,count,data
 0,Totale,Istituto Nazionale Previdenza Sociale - INPS,81,"{""producerName"":""Istituto Nazionale Previdenza Sociale - INPS"",""count"":81}"
-0,Totale,Ministero delle infrastrutture e dei trasporti,35,"{""producerName"":""Ministero delle infrastrutture e dei trasporti"",""count"":35}"
 0,Totale,Regione Liguria,18,"{""producerName"":""Regione Liguria"",""count"":18}"
 0,Totale,Comune di Brescia,13,"{""producerName"":""Comune di Brescia"",""count"":13}"
-0,Totale,Comune di Ancona,11,"{""producerName"":""Comune di Ancona"",""count"":11}"
-0,Totale,Autorita' Nazionale Anticorruzione - A.N.AC.,11,"{""producerName"":""Autorita' Nazionale Anticorruzione - A.N.AC."",""count"":11}"
 0,Totale,Comune di Gallarate,11,"{""producerName"":""Comune di Gallarate"",""count"":11}"
+0,Totale,Autorita' Nazionale Anticorruzione - A.N.AC.,11,"{""producerName"":""Autorita' Nazionale Anticorruzione - A.N.AC."",""count"":11}"
+0,Totale,Comune di Ancona,11,"{""producerName"":""Comune di Ancona"",""count"":11}"
 0,Totale,Comune di Torino,10,"{""producerName"":""Comune di Torino"",""count"":10}"
-0,Totale,Comune di Jesi,8,"{""producerName"":""Comune di Jesi"",""count"":8}"
+0,Totale,Ministero delle infrastrutture e dei trasporti,8,"{""producerName"":""Ministero delle infrastrutture e dei trasporti"",""count"":8}"
 0,Totale,Comune di Cortaccia sulla Strada del Vino,8,"{""producerName"":""Comune di Cortaccia sulla Strada del Vino"",""count"":8}"
+0,Totale,Comune di Jesi,8,"{""producerName"":""Comune di Jesi"",""count"":8}"
 1,Altre Pubbliche Amministrazioni locali,Agenzia per L'Italia Digitale,8,"{""producerName"":""Agenzia per L'Italia Digitale"",""count"":8}"
 1,Altre Pubbliche Amministrazioni locali,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",7,"{""producerName"":""Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"",""count"":7}"
 2,Aziende Ospedaliere e ASL,null,null,
@@ -23,8 +23,8 @@ id,name,producerName,count,data
 3,Comuni,Comune di Ono San Pietro,6,"{""producerName"":""Comune di Ono San Pietro"",""count"":6}"
 3,Comuni,Comune di Ceto,6,"{""producerName"":""Comune di Ceto"",""count"":6}"
 4,Province e Città Metropolitane,null,null,
-5,Pubbliche Amministrazioni Centrali,Ministero delle infrastrutture e dei trasporti,35,"{""producerName"":""Ministero delle infrastrutture e dei trasporti"",""count"":35}"
 5,Pubbliche Amministrazioni Centrali,Autorita' Nazionale Anticorruzione - A.N.AC.,11,"{""producerName"":""Autorita' Nazionale Anticorruzione - A.N.AC."",""count"":11}"
+5,Pubbliche Amministrazioni Centrali,Ministero delle infrastrutture e dei trasporti,8,"{""producerName"":""Ministero delle infrastrutture e dei trasporti"",""count"":8}"
 5,Pubbliche Amministrazioni Centrali,Ministero del Lavoro e delle Politiche Sociali,6,"{""producerName"":""Ministero del Lavoro e delle Politiche Sociali"",""count"":6}"
 5,Pubbliche Amministrazioni Centrali,Agenzia delle Entrate,5,"{""producerName"":""Agenzia delle Entrate"",""count"":5}"
 5,Pubbliche Amministrazioni Centrali,MINISTERO DELL'UNIVERSITA' E DELLA RICERCA,5,"{""producerName"":""MINISTERO DELL'UNIVERSITA' E DELLA RICERCA"",""count"":5}"
@@ -32,6 +32,7 @@ id,name,producerName,count,data
 6,Enti Nazionali di Previdenza ed Assistenza Sociale,Istituto Nazionale Previdenza Sociale - INPS,81,"{""producerName"":""Istituto Nazionale Previdenza Sociale - INPS"",""count"":81}"
 7,Regioni e Province autonome,Regione Liguria,18,"{""producerName"":""Regione Liguria"",""count"":18}"
 7,Regioni e Province autonome,Regione Autonoma Friuli-Venezia Giulia,1,"{""producerName"":""Regione Autonoma Friuli-Venezia Giulia"",""count"":1}"
+7,Regioni e Province autonome,Regione Marche,1,"{""producerName"":""Regione Marche"",""count"":1}"
 8,Consorzi e associazioni regionali,null,null,
 9,Scuole,null,null,
 10,Università e AFAM,null,null,

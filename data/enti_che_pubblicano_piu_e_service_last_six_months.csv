@@ -1,5 +1,4 @@
 id,name,producerName,count,data
-0,Totale,Istituto Nazionale Previdenza Sociale - INPS,47,"{""producerName"":""Istituto Nazionale Previdenza Sociale - INPS"",""count"":47}"
 0,Totale,Regione Liguria,35,"{""producerName"":""Regione Liguria"",""count"":35}"
 0,Totale,Comune di Brescia,13,"{""producerName"":""Comune di Brescia"",""count"":13}"
 0,Totale,Autorita' Nazionale Anticorruzione - A.N.AC.,12,"{""producerName"":""Autorita' Nazionale Anticorruzione - A.N.AC."",""count"":12}"
@@ -9,6 +8,7 @@ id,name,producerName,count,data
 0,Totale,Comune di Jesi,8,"{""producerName"":""Comune di Jesi"",""count"":8}"
 0,Totale,Comune di Cortaccia sulla Strada del Vino,8,"{""producerName"":""Comune di Cortaccia sulla Strada del Vino"",""count"":8}"
 0,Totale,Comune di Perugia,8,"{""producerName"":""Comune di Perugia"",""count"":8}"
+0,Totale,Comune di Ferrara,7,"{""producerName"":""Comune di Ferrara"",""count"":7}"
 1,Altre Pubbliche Amministrazioni locali,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",6,"{""producerName"":""Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"",""count"":6}"
 1,Altre Pubbliche Amministrazioni locali,Agenzia per L'Italia Digitale,3,"{""producerName"":""Agenzia per L'Italia Digitale"",""count"":3}"
 2,Aziende Ospedaliere e ASL,null,null,
@@ -24,12 +24,12 @@ id,name,producerName,count,data
 3,Comuni,Comune di Poppi,7,"{""producerName"":""Comune di Poppi"",""count"":7}"
 4,Province e Città Metropolitane,null,null,
 5,Pubbliche Amministrazioni Centrali,Autorita' Nazionale Anticorruzione - A.N.AC.,12,"{""producerName"":""Autorita' Nazionale Anticorruzione - A.N.AC."",""count"":12}"
-5,Pubbliche Amministrazioni Centrali,Agenzia delle Entrate,7,"{""producerName"":""Agenzia delle Entrate"",""count"":7}"
 5,Pubbliche Amministrazioni Centrali,Ministero del Lavoro e delle Politiche Sociali,6,"{""producerName"":""Ministero del Lavoro e delle Politiche Sociali"",""count"":6}"
+5,Pubbliche Amministrazioni Centrali,Agenzia delle Entrate,5,"{""producerName"":""Agenzia delle Entrate"",""count"":5}"
 5,Pubbliche Amministrazioni Centrali,MINISTERO DELL'UNIVERSITA' E DELLA RICERCA,5,"{""producerName"":""MINISTERO DELL'UNIVERSITA' E DELLA RICERCA"",""count"":5}"
 5,Pubbliche Amministrazioni Centrali,Ministero dell'Interno,4,"{""producerName"":""Ministero dell'Interno"",""count"":4}"
 5,Pubbliche Amministrazioni Centrali,Ministero delle infrastrutture e dei trasporti,2,"{""producerName"":""Ministero delle infrastrutture e dei trasporti"",""count"":2}"
-6,Enti Nazionali di Previdenza ed Assistenza Sociale,Istituto Nazionale Previdenza Sociale - INPS,47,"{""producerName"":""Istituto Nazionale Previdenza Sociale - INPS"",""count"":47}"
+6,Enti Nazionali di Previdenza ed Assistenza Sociale,Istituto Nazionale Previdenza Sociale - INPS,2,"{""producerName"":""Istituto Nazionale Previdenza Sociale - INPS"",""count"":2}"
 7,Regioni e Province autonome,Regione Liguria,35,"{""producerName"":""Regione Liguria"",""count"":35}"
 7,Regioni e Province autonome,Regione Autonoma Friuli-Venezia Giulia,1,"{""producerName"":""Regione Autonoma Friuli-Venezia Giulia"",""count"":1}"
 7,Regioni e Province autonome,Regione Marche,1,"{""producerName"":""Regione Marche"",""count"":1}"
@@ -37,5 +37,5 @@ id,name,producerName,count,data
 9,Scuole,null,null,
 10,Università e AFAM,null,null,
 11,Istituti di Ricerca,null,null,
-12,Stazioni Appaltanti e Gestori di pubblici servizi,GEROPA SRL,1,"{""producerName"":""GEROPA SRL"",""count"":1}"
+12,Stazioni Appaltanti e Gestori di pubblici servizi,null,null,
 13,Enti privati,null,null,

@@ -1,45 +1,49 @@
-id,name,producerName,count,data
-0,Totale,Istituto Nazionale Previdenza Sociale - INPS,126,"{""producerName"":""Istituto Nazionale Previdenza Sociale - INPS"",""count"":126}"
-0,Totale,Ministero dell'Interno,63,"{""producerName"":""Ministero dell'Interno"",""count"":63}"
-0,Totale,Regione Liguria,35,"{""producerName"":""Regione Liguria"",""count"":35}"
-0,Totale,Ministero delle infrastrutture e dei trasporti,35,"{""producerName"":""Ministero delle infrastrutture e dei trasporti"",""count"":35}"
-0,Totale,Autorita' Nazionale Anticorruzione - A.N.AC.,20,"{""producerName"":""Autorita' Nazionale Anticorruzione - A.N.AC."",""count"":20}"
-0,Totale,Agenzia delle Entrate,14,"{""producerName"":""Agenzia delle Entrate"",""count"":14}"
-0,Totale,Comune di Brescia,13,"{""producerName"":""Comune di Brescia"",""count"":13}"
-0,Totale,Comune di Ancona,11,"{""producerName"":""Comune di Ancona"",""count"":11}"
-0,Totale,Comune di Gallarate,11,"{""producerName"":""Comune di Gallarate"",""count"":11}"
-0,Totale,Comune di Torino,10,"{""producerName"":""Comune di Torino"",""count"":10}"
-1,Altre Pubbliche Amministrazioni locali,Agenzia per L'Italia Digitale,10,"{""producerName"":""Agenzia per L'Italia Digitale"",""count"":10}"
-1,Altre Pubbliche Amministrazioni locali,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",10,"{""producerName"":""Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"",""count"":10}"
-1,Altre Pubbliche Amministrazioni locali,Consiglio Nazionale Forense,1,"{""producerName"":""Consiglio Nazionale Forense"",""count"":1}"
-2,Aziende Ospedaliere e ASL,null,null,
-3,Comuni,Comune di Brescia,13,"{""producerName"":""Comune di Brescia"",""count"":13}"
-3,Comuni,Comune di Ancona,11,"{""producerName"":""Comune di Ancona"",""count"":11}"
-3,Comuni,Comune di Gallarate,11,"{""producerName"":""Comune di Gallarate"",""count"":11}"
-3,Comuni,Comune di Torino,10,"{""producerName"":""Comune di Torino"",""count"":10}"
-3,Comuni,Comune di Perugia,8,"{""producerName"":""Comune di Perugia"",""count"":8}"
-3,Comuni,Comune di Jesi,8,"{""producerName"":""Comune di Jesi"",""count"":8}"
-3,Comuni,Comune di Olbia,8,"{""producerName"":""Comune di Olbia"",""count"":8}"
-3,Comuni,Comune di Cortaccia sulla Strada del Vino,8,"{""producerName"":""Comune di Cortaccia sulla Strada del Vino"",""count"":8}"
-3,Comuni,Comune di San Giorgio di Nogaro,7,"{""producerName"":""Comune di San Giorgio di Nogaro"",""count"":7}"
-3,Comuni,Comune di Poppi,7,"{""producerName"":""Comune di Poppi"",""count"":7}"
-4,Province e Città Metropolitane,null,null,
-5,Pubbliche Amministrazioni Centrali,Ministero dell'Interno,63,"{""producerName"":""Ministero dell'Interno"",""count"":63}"
-5,Pubbliche Amministrazioni Centrali,Ministero delle infrastrutture e dei trasporti,35,"{""producerName"":""Ministero delle infrastrutture e dei trasporti"",""count"":35}"
-5,Pubbliche Amministrazioni Centrali,Autorita' Nazionale Anticorruzione - A.N.AC.,20,"{""producerName"":""Autorita' Nazionale Anticorruzione - A.N.AC."",""count"":20}"
-5,Pubbliche Amministrazioni Centrali,Agenzia delle Entrate,14,"{""producerName"":""Agenzia delle Entrate"",""count"":14}"
-5,Pubbliche Amministrazioni Centrali,Ministero del Lavoro e delle Politiche Sociali,6,"{""producerName"":""Ministero del Lavoro e delle Politiche Sociali"",""count"":6}"
-5,Pubbliche Amministrazioni Centrali,MINISTERO DELL'UNIVERSITA' E DELLA RICERCA,5,"{""producerName"":""MINISTERO DELL'UNIVERSITA' E DELLA RICERCA"",""count"":5}"
-5,Pubbliche Amministrazioni Centrali,Agenzia delle Entrate - Riscossione,1,"{""producerName"":""Agenzia delle Entrate - Riscossione"",""count"":1}"
-6,Enti Nazionali di Previdenza ed Assistenza Sociale,Istituto Nazionale Previdenza Sociale - INPS,126,"{""producerName"":""Istituto Nazionale Previdenza Sociale - INPS"",""count"":126}"
-6,Enti Nazionali di Previdenza ed Assistenza Sociale,Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro - INAIL,1,"{""producerName"":""Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro - INAIL"",""count"":1}"
-7,Regioni e Province autonome,Regione Liguria,35,"{""producerName"":""Regione Liguria"",""count"":35}"
-7,Regioni e Province autonome,Regione Autonoma Friuli-Venezia Giulia,1,"{""producerName"":""Regione Autonoma Friuli-Venezia Giulia"",""count"":1}"
-7,Regioni e Province autonome,Regione Marche,1,"{""producerName"":""Regione Marche"",""count"":1}"
-8,Consorzi e associazioni regionali,null,null,
-9,Scuole,null,null,
-10,Università e AFAM,null,null,
-11,Istituti di Ricerca,null,null,
-12,Stazioni Appaltanti e Gestori di pubblici servizi,GEROPA SRL,6,"{""producerName"":""GEROPA SRL"",""count"":6}"
-12,Stazioni Appaltanti e Gestori di pubblici servizi,PagoPa S.p.A.,1,"{""producerName"":""PagoPa S.p.A."",""count"":1}"
-13,Enti privati,null,null,
+id,name,count,producerName
+0,Totale,126.0,Istituto Nazionale Previdenza Sociale - INPS
+0,Totale,63.0,Ministero dell'Interno
+0,Totale,38.0,Regione Liguria
+0,Totale,35.0,Ministero delle infrastrutture e dei trasporti
+0,Totale,20.0,Autorita' Nazionale Anticorruzione - A.N.AC.
+0,Totale,14.0,Agenzia delle Entrate
+0,Totale,13.0,Comune di Brescia
+0,Totale,11.0,Comune di Gallarate
+0,Totale,11.0,Comune di Ancona
+0,Totale,10.0,Comune di Torino
+1,Altre Pubbliche Amministrazioni locali,10.0,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"
+1,Altre Pubbliche Amministrazioni locali,9.0,Autorita' di Sistema Portuale del Mare Adriatico Meridionale
+1,Altre Pubbliche Amministrazioni locali,1.0,Unione Dei Comuni del Parteolla e Basso Campidano
+2,Aziende sanitarie locali e Strutture di ricovero,,
+3,Comuni,13.0,Comune di Brescia
+3,Comuni,11.0,Comune di Gallarate
+3,Comuni,11.0,Comune di Ancona
+3,Comuni,10.0,Comune di Torino
+3,Comuni,8.0,Comune di Cortaccia sulla Strada del Vino
+3,Comuni,8.0,Comune di Olbia
+3,Comuni,8.0,Comune di Jesi
+3,Comuni,8.0,Comune di Perugia
+3,Comuni,7.0,Comune di Poppi
+3,Comuni,7.0,Comune di Triggiano
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,126.0,Istituto Nazionale Previdenza Sociale - INPS
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,1.0,Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro - INAIL
+5,Province e Città Metropolitane,,
+6,Altre Pubbliche Amministrazioni Centrali,1.0,Consiglio Nazionale Forense
+7,Regioni e Province Autonome,38.0,Regione Liguria
+7,Regioni e Province Autonome,4.0,Regione Piemonte
+7,Regioni e Province Autonome,1.0,Regione Lazio
+7,Regioni e Province Autonome,1.0,Regione Autonoma Friuli-Venezia Giulia
+7,Regioni e Province Autonome,1.0,Regione Marche
+8,Scuole,,
+9,Stazioni Appaltanti e Gestori di pubblici servizi,6.0,GEROPA SRL
+9,Stazioni Appaltanti e Gestori di pubblici servizi,1.0,PagoPa S.p.A.
+10,Università e AFAM,,
+11,Enti privati,,
+12,Pubbliche Amministrazioni Centrali,63.0,Ministero dell'Interno
+12,Pubbliche Amministrazioni Centrali,35.0,Ministero delle infrastrutture e dei trasporti
+12,Pubbliche Amministrazioni Centrali,20.0,Autorita' Nazionale Anticorruzione - A.N.AC.
+12,Pubbliche Amministrazioni Centrali,14.0,Agenzia delle Entrate
+12,Pubbliche Amministrazioni Centrali,10.0,Agenzia per L'Italia Digitale
+12,Pubbliche Amministrazioni Centrali,6.0,Ministero del Lavoro e delle Politiche Sociali
+12,Pubbliche Amministrazioni Centrali,5.0,MINISTERO DELL'UNIVERSITA' E DELLA RICERCA
+12,Pubbliche Amministrazioni Centrali,5.0,Istituto centrale per la digitalizzazione del patrimonio culturale - Digital Library - Ministero della Cultura
+12,Pubbliche Amministrazioni Centrali,2.0,"DPP - Dipartimento per l'amministrazione generale, per le politiche del personale dell'amministrazione civile e per le risorse strumentali e finanziarie - Ministero dell'Interno"
+12,Pubbliche Amministrazioni Centrali,1.0,Agenzia delle Entrate - Riscossione

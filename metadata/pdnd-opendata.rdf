@@ -1325,18 +1325,16 @@
 <skos:Concept rdf:about="string">
   <skos:prefLabel xml:string>string</skos:prefLabel>
 </skos:Concept>
-    
-    
-    <dcatapit:Organization rdf:about="https://innovazione.gov.it">
-      <rdf:type rdf:resource="vcard:Organization"/>
-      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
-      <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Kind"/>
-      <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Organization"/>
-      <rdf:type rdf:resource="vcard:Kind"/>
-      <vcard:fn>PCM - Dipartimento per la trasformazione digitale</vcard:fn>
-      <vcard:hasEmail rdf:resource="pdnd-interop-assistenza-opendata@pagopa.it"/>
-      <vcard:hasURL rdf:resource="https://innovazione.gov.it"/>
-    </dcatapit:Organization>
+        
+<dcatapit:Organization rdf:about="https://innovazione.gov.it">
+  <rdf:type rdf:resource="vcard:Organization"/>
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Kind"/>
+  <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Organization"/>
+  <rdf:type rdf:resource="vcard:Kind"/>
+  <vcard:fn>PCM - Dipartimento per la trasformazione digitale</vcard:fn>
+  <vcard:hasEmail rdf:resource="pdnd-interop-assistenza-opendata@pagopa.it"/>
+  <vcard:hasURL rdf:resource="https://innovazione.gov.it"/>
+</dcatapit:Organization>
     
     </rdf:RDF>
-    

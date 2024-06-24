@@ -79,7 +79,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_e_service_per_enti_erogatori.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_e_service_per_enti_erogatori.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_e_service_per_enti_erogatori.json"/>
 </dcatapit:Dataset>
 
@@ -119,7 +119,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months.json"/>
 </dcatapit:Dataset>
 
@@ -159,7 +159,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_twelve_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_twelve_months.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_twelve_months.json"/>
 </dcatapit:Dataset>
 
@@ -199,7 +199,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_from_the_beginning.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_from_the_beginning.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_from_the_beginning.json"/>
 </dcatapit:Dataset>
 
@@ -239,7 +239,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/totale_enti.json"/>
 </dcatapit:Dataset>
 
@@ -279,7 +279,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_pubblicati.json"/>
 </dcatapit:Dataset>
 
@@ -319,7 +319,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.json"/>
 </dcatapit:Dataset>
 
@@ -359,7 +359,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/andamento_delle_adesioni.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/andamento_delle_adesioni.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/andamento_delle_adesioni.json"/>
 </dcatapit:Dataset>
 
@@ -399,7 +399,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_six_months.json"/>
 </dcatapit:Dataset>
 
@@ -439,7 +439,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_last_twelve_months.json"/>
 </dcatapit:Dataset>
 
@@ -479,7 +479,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_che_pubblicano_piu_e_service_from_the_beginning.json"/>
 </dcatapit:Dataset>
 
@@ -519,7 +519,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_con_piu_connessioni_abilitate_last_six_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_con_piu_connessioni_abilitate_last_six_months.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_con_piu_connessioni_abilitate_last_six_months.json"/>
 </dcatapit:Dataset>
 
@@ -559,7 +559,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_con_piu_connessioni_abilitate_last_twelve_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_con_piu_connessioni_abilitate_last_twelve_months.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_con_piu_connessioni_abilitate_last_twelve_months.json"/>
 </dcatapit:Dataset>
 
@@ -599,7 +599,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_con_piu_connessioni_abilitate_from_the_beginning.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_con_piu_connessioni_abilitate_from_the_beginning.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/enti_con_piu_connessioni_abilitate_from_the_beginning.json"/>
 </dcatapit:Dataset>
 
@@ -639,7 +639,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/totale_richieste_di_accesso.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/totale_richieste_di_accesso.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/totale_richieste_di_accesso.json"/>
 </dcatapit:Dataset>
 
@@ -679,7 +679,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_six_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_six_months.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_six_months.json"/>
 </dcatapit:Dataset>
 
@@ -719,7 +719,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_twelve_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_twelve_months.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_twelve_months.json"/>
 </dcatapit:Dataset>
 
@@ -759,7 +759,7 @@
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-<dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_from_the_beginning.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_from_the_beginning.csv"/>
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_from_the_beginning.json"/>
 </dcatapit:Dataset>
 

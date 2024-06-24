@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
     <rdf:RDF xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:locn="http://www.w3.org/ns/locn#" xmlns:hydra="http://www.w3.org/ns/hydra/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcatapit="http://dati.gov.it/onto/dcatapit#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:adms="http://www.w3.org/ns/adms#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gsp="http://www.opengis.net/ont/geosparql#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
     
-    <dcatapit:Catalog rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data">
-      <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
-      <dct:title>PDND - Interoperabilità</dct:title>
-      <dct:publisher>
-        <dcatapit:Agent rdf:about="pcm">
-          <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
-          <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-          <dct:identifier>pcm</dct:identifier>
-          <foaf:name>PDND - Interoperabilità</foaf:name>
-        </dcatapit:Agent>
-      </dct:publisher>
-      <dct:description>Dati aperti relativi a PDND - Interoperabilità</dct:description>
-      <dct:language>it</dct:language>
-      <foaf:homepage rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data##"/>
-      <dcat:themeTaxonomy>
-        <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/data-theme">
-          <dct:title>Data Theme Vocabulary</dct:title>
-        </skos:ConceptScheme>
-      </dcat:themeTaxonomy>
-      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-06-24</dct:modified>
-      <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-06-24</dct:issued>
-      <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-      <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzioneEServicePerEntiErogatori"/>
+<dcatapit:Catalog rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+  <dct:title>PDND - Interoperabilità</dct:title>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="pcm">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>pcm</dct:identifier>
+      <foaf:name>PDND - Interoperabilità</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:description>Dati aperti relativi a PDND - Interoperabilità</dct:description>
+  <dct:language>it</dct:language>
+  <foaf:homepage rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data##"/>
+  <dcat:themeTaxonomy>
+    <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/data-theme">
+      <dct:title>Data Theme Vocabulary</dct:title>
+    </skos:ConceptScheme>
+  </dcat:themeTaxonomy>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-06-24</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-06-24</dct:issued>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzioneEServicePerEntiErogatori"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eServiceConPiuEntiAbilitatiLastSixMonths"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eServiceConPiuEntiAbilitatiLastTwelveMonths"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eServiceConPiuEntiAbilitatiFromTheBeginning"/>
@@ -42,7 +42,7 @@
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivitaDellaPiattaformaLastTwelveMonths"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivitaDellaPiattaformaFromTheBeginning"/>
 
-    </dcatapit:Catalog>
+</dcatapit:Catalog>
     <dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/{'filename': 'distribuzione_e_service_per_enti_erogatori', 'filemetric': [{'id': '1', 'name': 'Altre Pubbliche Amministrazioni locali', 'count': 20}, {'id': '10', 'name': 'Università e AFAM', 'count': 0}, {'id': '8', 'name': 'Scuole', 'count': 0}, {'id': '12', 'name': 'Pubbliche Amministrazioni Centrali', 'count': 161}, {'id': '3', 'name': 'Comuni', 'count': 7182}, {'id': '9', 'name': 'Stazioni Appaltanti e Gestori di pubblici servizi', 'count': 7}, {'id': '11', 'name': 'Enti privati', 'count': 0}, {'id': '5', 'name': 'Province e Città Metropolitane', 'count': 0}, {'id': '6', 'name': 'Altre Pubbliche Amministrazioni Centrali', 'count': 1}, {'id': '2', 'name': 'Aziende sanitarie locali e Strutture di ricovero', 'count': 0}, {'id': '7', 'name': 'Regioni e Province Autonome', 'count': 45}, {'id': '4', 'name': 'Enti Nazionali di Previdenza ed Assistenza Sociale', 'count': 127}]}">
           <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
           <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>

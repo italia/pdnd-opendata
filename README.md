@@ -28,7 +28,7 @@ Nella più ampia misura permessa dalla legge, il [Dipartimento per la Trasformaz
 
 ## Authors / Copyright
 
-CC0 Dipartimento per la Trasformazione Digitale - Presidenza del Consiglio dei Ministri
+CC0 Presidenza del Consiglio dei Ministri - Dipartimento per la Trasformazione Digitale
 
 ## Dettagli Licenza
 
@@ -37,4 +37,4 @@ Far riferimento al file [LICENSE](https://github.com/italia/pdnd-opendata/blob/m
 
 ## In caso di attribuzione
 
-Seppure non richiesto, è apprezzato un riferimento alla provenienza dei dati in caso di loro riutilizzo, "Dati dai [Numeri](https://www.interop.pagopa.it/numeri) del portale PDND - CC0 Dipartimento per la Trasformazione Digitale - Presidenza del Consiglio dei Ministri"
+Seppure non richiesto, è apprezzato un riferimento alla provenienza dei dati in caso di loro riutilizzo, "Dati dai [Numeri](https://www.interop.pagopa.it/numeri) del portale PDND - CC0 Presidenza del Consiglio dei Ministri - Dipartimento per la Trasformazione Digitale"

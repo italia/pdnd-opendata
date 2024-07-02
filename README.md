@@ -4,7 +4,7 @@
 
 Questa repository contiene i dati pubblici estratti dalla pagina [Numeri](https://www.interop.pagopa.it/numeri) del portale [PDND](https://www.interop.pagopa.it). 
 
-Questi dati sono [pubblicati sul Catalogo italiano dei dati aperti dati.gov.it](https://dati.gov.it/view-dataset?tags=pdnd&organization=pcm-dipartimento-trasformazione-digitale).
+Questi dati sono [pubblicati sul Catalogo italiano dei dati aperti della pubblica amministrazione (dati.gov.it)](https://dati.gov.it/view-dataset?tags=pdnd&organization=pcm-dipartimento-trasformazione-digitale).
 
 # Contenuto
 

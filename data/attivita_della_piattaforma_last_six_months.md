@@ -13,7 +13,7 @@
 
 | Campo | Tipo di dati | Descrizione                    | Formato    |
 | ----- | ------------ | ------------------------------ | ---------- |
-| date  | datetime     | Data - scaglioni ogni 5 giorni | YYYY-MM-dd |
+| date  | datetime     | Data - scaglioni ogni 7 giorni | YYYY-MM-dd |
 | count | number       | Numero di sessioni di scambio  |            |
 
 Questi dati sono disponibili anche in formato json.

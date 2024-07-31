@@ -650,7 +650,7 @@
   <dct:license/>
   <dct:title>Attività della piattaforma - ultimi 6 mesi</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_six_months.csv</dct:landingpage>
-  <dct:description>Numero di sessioni di scambio dati ogni 5 giorni</dct:description>
+  <dct:description>Numero di sessioni di scambio dati ogni 7 giorni</dct:description>
   <dct:identifier>AA1D3A2:attivita_della_piattaforma_last_six_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
@@ -690,7 +690,7 @@
   <dct:license/>
   <dct:title>Attività della piattaforma - ultimi 12 mesi</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_twelve_months.csv</dct:landingpage>
-  <dct:description>Numero di sessioni di scambio dati ogni 10 giorni</dct:description>
+  <dct:description>Numero di sessioni di scambio dati mensili</dct:description>
   <dct:identifier>AA1D3A2:attivita_della_piattaforma_last_twelve_months</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>

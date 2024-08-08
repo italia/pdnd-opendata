@@ -1,16 +1,17 @@
 id,name,eserviceName,producerName,totalActiveConsumers,id,name,count
-0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,336.0,1,Altre Pubbliche Amministrazioni locali,19.0
-0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,336.0,2,Aziende sanitarie locali e Strutture di ricovero,4.0
-0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,336.0,3,Comuni,275.0
-0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,336.0,4,Enti Nazionali di Previdenza ed Assistenza Sociale,1.0
-0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,336.0,5,Province e Città Metropolitane,21.0
-0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,336.0,12,Pubbliche Amministrazioni Centrali,4.0
-0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,336.0,7,Regioni e Province Autonome,4.0
-0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,336.0,9,Stazioni Appaltanti e Gestori di pubblici servizi,8.0
-0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3596.0,1,Altre Pubbliche Amministrazioni locali,4.0
-0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3596.0,3,Comuni,3584.0
-0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3596.0,5,Province e Città Metropolitane,1.0
-0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3596.0,9,Stazioni Appaltanti e Gestori di pubblici servizi,7.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,338.0,1,Altre Pubbliche Amministrazioni locali,19.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,338.0,2,Aziende sanitarie locali e Strutture di ricovero,4.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,338.0,3,Comuni,276.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,338.0,4,Enti Nazionali di Previdenza ed Assistenza Sociale,1.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,338.0,5,Province e Città Metropolitane,21.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,338.0,12,Pubbliche Amministrazioni Centrali,4.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,338.0,7,Regioni e Province Autonome,4.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,338.0,9,Stazioni Appaltanti e Gestori di pubblici servizi,8.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,338.0,10,Università e AFAM,1.0
+0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3594.0,1,Altre Pubbliche Amministrazioni locali,4.0
+0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3594.0,3,Comuni,3582.0
+0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3594.0,5,Province e Città Metropolitane,1.0
+0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3594.0,9,Stazioni Appaltanti e Gestori di pubblici servizi,7.0
 0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,120.0,1,Altre Pubbliche Amministrazioni locali,3.0
 0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,120.0,3,Comuni,116.0
 0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,120.0,9,Stazioni Appaltanti e Gestori di pubblici servizi,1.0
@@ -52,8 +53,8 @@ id,name,eserviceName,producerName,totalActiveConsumers,id,name,count
 2,Aziende sanitarie locali e Strutture di ricovero,C006-servizioVerificaDichCittadinanza-approvazione_automatic,Ministero dell'Interno,1.0,2,Aziende sanitarie locali e Strutture di ricovero,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,1.0,2,Aziende sanitarie locali e Strutture di ricovero,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,1.0,2,Aziende sanitarie locali e Strutture di ricovero,1.0
-3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3584.0,3,Comuni,3584.0
-3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,275.0,3,Comuni,275.0
+3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3582.0,3,Comuni,3582.0
+3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,276.0,3,Comuni,276.0
 3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,196.0,3,Comuni,196.0
 3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,116.0,3,Comuni,116.0
 3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,55.0,3,Comuni,55.0
@@ -106,6 +107,7 @@ id,name,eserviceName,producerName,totalActiveConsumers,id,name,count
 9,Stazioni Appaltanti e Gestori di pubblici servizi,PCP – CodeList,Autorita' Nazionale Anticorruzione - A.N.AC.,5.0,9,Stazioni Appaltanti e Gestori di pubblici servizi,5.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Pianificazione appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,4.0,9,Stazioni Appaltanti e Gestori di pubblici servizi,4.0
 10,Università e AFAM,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,1.0,10,Università e AFAM,1.0
+10,Università e AFAM,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1.0,10,Università e AFAM,1.0
 10,Università e AFAM,Consultazione offerta formativa (IFS01),Conservatorio di Musica U. Giordano,1.0,10,Università e AFAM,1.0
 10,Università e AFAM,Consultazione Attestazione ISEE,Istituto Nazionale Previdenza Sociale - INPS,1.0,10,Università e AFAM,1.0
 10,Università e AFAM,Consultazione Indicatore ISEE,Istituto Nazionale Previdenza Sociale - INPS,1.0,10,Università e AFAM,1.0

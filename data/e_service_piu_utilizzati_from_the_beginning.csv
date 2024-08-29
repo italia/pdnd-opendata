@@ -1,17 +1,17 @@
 id,name,eserviceName,producerName,totalActiveConsumers,id,name,count
-0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,345.0,1,Altre Pubbliche Amministrazioni locali,19.0
-0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,345.0,2,Aziende sanitarie locali e Strutture di ricovero,4.0
-0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,345.0,3,Comuni,282.0
-0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,345.0,4,Enti Nazionali di Previdenza ed Assistenza Sociale,1.0
-0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,345.0,5,Province e Città Metropolitane,21.0
-0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,345.0,12,Pubbliche Amministrazioni Centrali,4.0
-0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,345.0,7,Regioni e Province Autonome,4.0
-0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,345.0,9,Stazioni Appaltanti e Gestori di pubblici servizi,9.0
-0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,345.0,10,Università e AFAM,1.0
-0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3655.0,1,Altre Pubbliche Amministrazioni locali,4.0
-0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3655.0,3,Comuni,3643.0
-0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3655.0,5,Province e Città Metropolitane,1.0
-0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3655.0,9,Stazioni Appaltanti e Gestori di pubblici servizi,7.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,346.0,1,Altre Pubbliche Amministrazioni locali,19.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,346.0,2,Aziende sanitarie locali e Strutture di ricovero,4.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,346.0,3,Comuni,282.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,346.0,4,Enti Nazionali di Previdenza ed Assistenza Sociale,1.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,346.0,5,Province e Città Metropolitane,22.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,346.0,12,Pubbliche Amministrazioni Centrali,4.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,346.0,7,Regioni e Province Autonome,4.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,346.0,9,Stazioni Appaltanti e Gestori di pubblici servizi,9.0
+0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,346.0,10,Università e AFAM,1.0
+0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3668.0,1,Altre Pubbliche Amministrazioni locali,4.0
+0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3668.0,3,Comuni,3656.0
+0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3668.0,5,Province e Città Metropolitane,1.0
+0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3668.0,9,Stazioni Appaltanti e Gestori di pubblici servizi,7.0
 0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,135.0,1,Altre Pubbliche Amministrazioni locali,3.0
 0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,135.0,3,Comuni,131.0
 0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,135.0,9,Stazioni Appaltanti e Gestori di pubblici servizi,1.0
@@ -54,7 +54,7 @@ id,name,eserviceName,producerName,totalActiveConsumers,id,name,count
 2,Aziende sanitarie locali e Strutture di ricovero,C006-servizioVerificaDichCittadinanza-approvazione_automatic,Ministero dell'Interno,1.0,2,Aziende sanitarie locali e Strutture di ricovero,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,1.0,2,Aziende sanitarie locali e Strutture di ricovero,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,1.0,2,Aziende sanitarie locali e Strutture di ricovero,1.0
-3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3643.0,3,Comuni,3643.0
+3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3656.0,3,Comuni,3656.0
 3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,282.0,3,Comuni,282.0
 3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,217.0,3,Comuni,217.0
 3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,131.0,3,Comuni,131.0
@@ -74,7 +74,7 @@ id,name,eserviceName,producerName,totalActiveConsumers,id,name,count
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,Welfare as a Service per i Comuni - (WaaS per i Comuni),Comune di Brugherio,1.0,4,Enti Nazionali di Previdenza ed Assistenza Sociale,1.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,WAAS SIUSS Alimentazione,Comune di Occhiobello,1.0,4,Enti Nazionali di Previdenza ed Assistenza Sociale,1.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,WaaS Welfare as a Service trasmissione dati al SIUSS,Comune di Cappella Maggiore,1.0,4,Enti Nazionali di Previdenza ed Assistenza Sociale,1.0
-5,Province e Città Metropolitane,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,21.0,5,Province e Città Metropolitane,21.0
+5,Province e Città Metropolitane,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,22.0,5,Province e Città Metropolitane,22.0
 5,Province e Città Metropolitane,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,3.0,5,Province e Città Metropolitane,3.0
 5,Province e Città Metropolitane,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,3.0,5,Province e Città Metropolitane,3.0
 5,Province e Città Metropolitane,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,3.0,5,Province e Città Metropolitane,3.0

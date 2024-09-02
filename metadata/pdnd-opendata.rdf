@@ -41,6 +41,13 @@
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_six_months.md"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_last_twelve_months.md"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_from_the_beginning.md"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/connessioni_totali.md"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_from_the_beginning.md"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_last_six_months.md"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_last_twelve_months.md"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_from_the_beginning.md"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_months.md"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_twelve_months.md"/>
 </dcatapit:Catalog>
 
     
@@ -763,6 +770,286 @@
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/attivita_della_piattaforma_from_the_beginning.json"/>
 </dcatapit:Dataset>
 
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/connessioni_totali.md">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>PDND - Connessioni totali</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/connessioni_totali.csv</dct:landingpage>
+  <dct:description>Numero di connessioni abilitate ad oggi</dct:description>
+  <dct:identifier>AA1D3A2:connessioni_totali</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="AA1D3A2">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>AA1D3A2</dct:identifier>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-02</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-02</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/connessioni_totali.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/connessioni_totali.json"/>
+</dcatapit:Dataset>
+
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_from_the_beginning.md">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>PDND - E-service più utilizzati, per enti fruitori attivi - inizio del servizio</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_from_the_beginning.csv</dct:landingpage>
+  <dct:description>E-service ordinati per numero di enti che hanno attivato almeno una sessione di scambio dall'inizio del servizio</dct:description>
+  <dct:identifier>AA1D3A2:e_service_piu_utilizzati_from_the_beginning</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="AA1D3A2">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>AA1D3A2</dct:identifier>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-02</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-02</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_from_the_beginning.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_from_the_beginning.json"/>
+</dcatapit:Dataset>
+
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_last_six_months.md">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>PDND - E-service più utilizzati, per enti fruitori attivi - ultimi 6 mesi</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_last_six_months.csv</dct:landingpage>
+  <dct:description>E-service ordinati per numero di enti che hanno attivato almeno una sessione di scambio negli ultimi 6 mesi</dct:description>
+  <dct:identifier>AA1D3A2:e_service_piu_utilizzati_last_six_months</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="AA1D3A2">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>AA1D3A2</dct:identifier>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-02</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-02</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_last_six_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_last_six_months.json"/>
+</dcatapit:Dataset>
+
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_last_twelve_months.md">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>PDND - E-service più utilizzati, per enti fruitori attivi - ultimi 12 mesi</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_last_twelve_months.csv</dct:landingpage>
+  <dct:description>E-service ordinati per numero di enti che hanno attivato almeno una sessione di scambio negli ultimi 12 mesi</dct:description>
+  <dct:identifier>AA1D3A2:e_service_piu_utilizzati_last_twelve_months</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="AA1D3A2">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>AA1D3A2</dct:identifier>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-02</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-02</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_last_twelve_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_last_twelve_months.json"/>
+</dcatapit:Dataset>
+
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_from_the_beginning.md">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>PDND - E-service più utilizzati, per sessioni di scambio - inizio del servizio</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_from_the_beginning.csv</dct:landingpage>
+  <dct:description>E-service ordinati per numero di sessioni di scambio dall'inizio del servizio</dct:description>
+  <dct:identifier>AA1D3A2:eservice_con_piu_token_staccati_from_the_beginning</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="AA1D3A2">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>AA1D3A2</dct:identifier>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-02</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-02</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_from_the_beginning.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_from_the_beginning.json"/>
+</dcatapit:Dataset>
+
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_months.md">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>PDND - E-service più utilizzati, per sessioni di scambio - ultimi 6 mesi</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_months.csv</dct:landingpage>
+  <dct:description>E-service ordinati per numero di sessioni di scambio negli ultimi 6 mesi</dct:description>
+  <dct:identifier>AA1D3A2:eservice_con_piu_token_staccati_last_six_months</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="AA1D3A2">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>AA1D3A2</dct:identifier>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-02</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-02</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_months.json"/>
+</dcatapit:Dataset>
+
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_twelve_months.md">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>PDND - E-service più utilizzati, per sessioni di scambio - ultimi 12 mesi</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_twelve_months.csv</dct:landingpage>
+  <dct:description>E-service ordinati per numero di sessioni di scambio negli ultimi 12 mesi</dct:description>
+  <dct:identifier>AA1D3A2:eservice_con_piu_token_staccati_last_twelve_months</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="AA1D3A2">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>AA1D3A2</dct:identifier>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-02</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-02</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_twelve_months.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_twelve_months.json"/>
+</dcatapit:Dataset>
+
     
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_e_service_per_enti_erogatori.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/distribuzione_e_service_per_enti_erogatori.csv"/>
@@ -1317,6 +1604,223 @@
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
   <dct:title>PDND - Attività della piattaforma - inizio del servizio JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+    
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/connessioni_totali.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/connessioni_totali.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>PDND - Connessioni totali CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/connessioni_totali.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/connessioni_totali.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>PDND - Connessioni totali JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+    
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_from_the_beginning.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_utilizzati_from_the_beginning.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>PDND - E-service più utilizzati, per enti fruitori attivi - inizio del servizio CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_from_the_beginning.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_utilizzati_from_the_beginning.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>PDND - E-service più utilizzati, per enti fruitori attivi - inizio del servizio JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+    
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_last_six_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_utilizzati_last_six_months.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>PDND - E-service più utilizzati, per enti fruitori attivi - ultimi 6 mesi CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_last_six_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_utilizzati_last_six_months.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>PDND - E-service più utilizzati, per enti fruitori attivi - ultimi 6 mesi JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+    
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_last_twelve_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_utilizzati_last_twelve_months.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>PDND - E-service più utilizzati, per enti fruitori attivi - ultimi 12 mesi CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_last_twelve_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/e_service_piu_utilizzati_last_twelve_months.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>PDND - E-service più utilizzati, per enti fruitori attivi - ultimi 12 mesi JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+    
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_from_the_beginning.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_con_piu_token_staccati_from_the_beginning.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>PDND - E-service più utilizzati, per sessioni di scambio - inizio del servizio CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_from_the_beginning.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_con_piu_token_staccati_from_the_beginning.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>PDND - E-service più utilizzati, per sessioni di scambio - inizio del servizio JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+    
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_con_piu_token_staccati_last_six_months.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>PDND - E-service più utilizzati, per sessioni di scambio - ultimi 6 mesi CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_con_piu_token_staccati_last_six_months.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>PDND - E-service più utilizzati, per sessioni di scambio - ultimi 6 mesi JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+    
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_twelve_months.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_con_piu_token_staccati_last_twelve_months.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>PDND - E-service più utilizzati, per sessioni di scambio - ultimi 12 mesi CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_twelve_months.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_con_piu_token_staccati_last_twelve_months.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>PDND - E-service più utilizzati, per sessioni di scambio - ultimi 12 mesi JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 

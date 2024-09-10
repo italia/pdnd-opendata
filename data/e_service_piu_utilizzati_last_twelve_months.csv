@@ -34,10 +34,10 @@ id,name,eserviceName,producerName,totalActiveConsumers,id,name,count
 0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,147.0,1,Altre Pubbliche Amministrazioni locali,3.0
 0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,147.0,3,Comuni,143.0
 0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,147.0,9,Stazioni Appaltanti e Gestori di pubblici servizi,1.0
-0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,90.0,1,Altre Pubbliche Amministrazioni locali,1.0
-0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,90.0,3,Comuni,84.0
-0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,90.0,12,Pubbliche Amministrazioni Centrali,2.0
-0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,90.0,10,Università e AFAM,3.0
+0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,91.0,1,Altre Pubbliche Amministrazioni locali,1.0
+0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,91.0,3,Comuni,85.0
+0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,91.0,12,Pubbliche Amministrazioni Centrali,2.0
+0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,91.0,10,Università e AFAM,3.0
 1,Altre Pubbliche Amministrazioni locali,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,3.0,1,Altre Pubbliche Amministrazioni locali,3.0
 1,Altre Pubbliche Amministrazioni locali,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,3.0,1,Altre Pubbliche Amministrazioni locali,3.0
 1,Altre Pubbliche Amministrazioni locali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,4.0,1,Altre Pubbliche Amministrazioni locali,4.0
@@ -62,9 +62,9 @@ id,name,eserviceName,producerName,totalActiveConsumers,id,name,count
 3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,234.0,3,Comuni,234.0
 3,Comuni,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,63.0,3,Comuni,63.0
 3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,293.0,3,Comuni,293.0
-3,Comuni,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,37.0,3,Comuni,37.0
+3,Comuni,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,38.0,3,Comuni,38.0
 3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,143.0,3,Comuni,143.0
-3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,84.0,3,Comuni,84.0
+3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,85.0,3,Comuni,85.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,WaaS Welfare as a Service trasmissione dati al SIUSS,Comune di Verzino,1.0,4,Enti Nazionali di Previdenza ed Assistenza Sociale,1.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,C030-servizioAccertamentoIdUnicoNazionale,Ministero dell'Interno,2.0,4,Enti Nazionali di Previdenza ed Assistenza Sociale,2.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,WAAS SIUSS Alimentazione,Comune di Marostica,1.0,4,Enti Nazionali di Previdenza ed Assistenza Sociale,1.0
@@ -88,9 +88,9 @@ id,name,eserviceName,producerName,totalActiveConsumers,id,name,count
 6,Altre Pubbliche Amministrazioni Centrali,evidence-broker_SDG,Agenzia per L'Italia Digitale,1.0,6,Altre Pubbliche Amministrazioni Centrali,1.0
 6,Altre Pubbliche Amministrazioni Centrali,service-catalogue_SDG,Agenzia per L'Italia Digitale,1.0,6,Altre Pubbliche Amministrazioni Centrali,1.0
 6,Altre Pubbliche Amministrazioni Centrali,arch-common-service_SDG,Agenzia per L'Italia Digitale,1.0,6,Altre Pubbliche Amministrazioni Centrali,1.0
+7,Regioni e Province Autonome,Invio Comunicazioni Obbligatorie - Unilav,Ministero del Lavoro e delle Politiche Sociali,5.0,7,Regioni e Province Autonome,5.0
 7,Regioni e Province Autonome,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,8.0,7,Regioni e Province Autonome,8.0
 7,Regioni e Province Autonome,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,8.0,7,Regioni e Province Autonome,8.0
-7,Regioni e Province Autonome,Invio Comunicazioni Obbligatorie - UniSomm,Ministero del Lavoro e delle Politiche Sociali,4.0,7,Regioni e Province Autonome,4.0
 7,Regioni e Province Autonome,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,8.0,7,Regioni e Province Autonome,8.0
 7,Regioni e Province Autonome,arch-common-service_SDG,Agenzia per L'Italia Digitale,14.0,7,Regioni e Province Autonome,14.0
 7,Regioni e Province Autonome,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,8.0,7,Regioni e Province Autonome,8.0

@@ -31,8 +31,8 @@ id,name,eserviceName,producerName,totalActiveConsumers,id,name,count
 0,Totale,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,93.0,9,Stazioni Appaltanti e Gestori di pubblici servizi,1.0
 0,Totale,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,73.0,3,Comuni,73.0
 0,Totale,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,47.0,3,Comuni,47.0
-0,Totale,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,100.0,3,Comuni,28.0
-0,Totale,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,100.0,11,Enti privati,72.0
+0,Totale,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,101.0,3,Comuni,28.0
+0,Totale,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,101.0,11,Enti privati,73.0
 1,Altre Pubbliche Amministrazioni locali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,21.0,1,Altre Pubbliche Amministrazioni locali,21.0
 1,Altre Pubbliche Amministrazioni locali,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,4.0,1,Altre Pubbliche Amministrazioni locali,4.0
 1,Altre Pubbliche Amministrazioni locali,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,4.0,1,Altre Pubbliche Amministrazioni locali,4.0
@@ -81,11 +81,11 @@ id,name,eserviceName,producerName,totalActiveConsumers,id,name,count
 5,Province e Città Metropolitane,C020-servizioAccertamentoResidenza,Ministero dell'Interno,1.0,5,Province e Città Metropolitane,1.0
 5,Province e Città Metropolitane,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,1.0,5,Province e Città Metropolitane,1.0
 6,Altre Pubbliche Amministrazioni Centrali,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,2.0,6,Altre Pubbliche Amministrazioni Centrali,2.0
+6,Altre Pubbliche Amministrazioni Centrali,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,2.0,6,Altre Pubbliche Amministrazioni Centrali,2.0
 6,Altre Pubbliche Amministrazioni Centrali,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,1.0,6,Altre Pubbliche Amministrazioni Centrali,1.0
 6,Altre Pubbliche Amministrazioni Centrali,evidence-broker_SDG,Agenzia per L'Italia Digitale,1.0,6,Altre Pubbliche Amministrazioni Centrali,1.0
 6,Altre Pubbliche Amministrazioni Centrali,arch-common-service_SDG,Agenzia per L'Italia Digitale,1.0,6,Altre Pubbliche Amministrazioni Centrali,1.0
 6,Altre Pubbliche Amministrazioni Centrali,service-catalogue_SDG,Agenzia per L'Italia Digitale,1.0,6,Altre Pubbliche Amministrazioni Centrali,1.0
-6,Altre Pubbliche Amministrazioni Centrali,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,1.0,6,Altre Pubbliche Amministrazioni Centrali,1.0
 7,Regioni e Province Autonome,arch-common-service_SDG,Agenzia per L'Italia Digitale,14.0,7,Regioni e Province Autonome,14.0
 7,Regioni e Province Autonome,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,8.0,7,Regioni e Province Autonome,8.0
 7,Regioni e Province Autonome,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,8.0,7,Regioni e Province Autonome,8.0
@@ -117,15 +117,15 @@ id,name,eserviceName,producerName,totalActiveConsumers,id,name,count
 10,Università e AFAM,Consultazione offerta formativa (IFS01),Conservatorio Statale di Musica G. Rossini,1.0,10,Università e AFAM,1.0
 10,Università e AFAM,Consultazione offerta formativa (IFS01),Accademia di Belle Arti di Catania,1.0,10,Università e AFAM,1.0
 10,Università e AFAM,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,1.0,10,Università e AFAM,1.0
-11,Enti privati,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,72.0,11,Enti privati,72.0
+11,Enti privati,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,73.0,11,Enti privati,73.0
 11,Enti privati,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,19.0,11,Enti privati,19.0
 11,Enti privati,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,17.0,11,Enti privati,17.0
 11,Enti privati,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,16.0,11,Enti privati,16.0
 11,Enti privati,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,16.0,11,Enti privati,16.0
 11,Enti privati,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,14.0,11,Enti privati,14.0
 11,Enti privati,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,14.0,11,Enti privati,14.0
+11,Enti privati,PCP – CodeList,Autorita' Nazionale Anticorruzione - A.N.AC.,10.0,11,Enti privati,10.0
 11,Enti privati,PCP - Pianificazione appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,10.0,11,Enti privati,10.0
-11,Enti privati,PCP – CodeList,Autorita' Nazionale Anticorruzione - A.N.AC.,9.0,11,Enti privati,9.0
 11,Enti privati,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,7.0,11,Enti privati,7.0
 12,Pubbliche Amministrazioni Centrali,arch-common-service_SDG,Agenzia per L'Italia Digitale,9.0,12,Pubbliche Amministrazioni Centrali,9.0
 12,Pubbliche Amministrazioni Centrali,evidence-broker_SDG,Agenzia per L'Italia Digitale,7.0,12,Pubbliche Amministrazioni Centrali,7.0

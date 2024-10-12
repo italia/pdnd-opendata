@@ -17,11 +17,11 @@ id,name,eserviceName,producerName,totalActiveConsumers,id,name,count
 0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,183.0,1,Altre Pubbliche Amministrazioni locali,4.0
 0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,183.0,3,Comuni,178.0
 0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,183.0,9,Stazioni Appaltanti e Gestori di pubblici servizi,1.0
-0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3786.0,1,Altre Pubbliche Amministrazioni locali,4.0
-0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3786.0,3,Comuni,3772.0
-0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3786.0,5,Province e Città Metropolitane,1.0
-0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3786.0,9,Stazioni Appaltanti e Gestori di pubblici servizi,8.0
-0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3786.0,10,Università e AFAM,1.0
+0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3788.0,1,Altre Pubbliche Amministrazioni locali,4.0
+0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3788.0,3,Comuni,3774.0
+0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3788.0,5,Province e Città Metropolitane,1.0
+0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3788.0,9,Stazioni Appaltanti e Gestori di pubblici servizi,8.0
+0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3788.0,10,Università e AFAM,1.0
 0,Totale,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,68.0,1,Altre Pubbliche Amministrazioni locali,3.0
 0,Totale,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,68.0,3,Comuni,65.0
 0,Totale,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,286.0,1,Altre Pubbliche Amministrazioni locali,2.0
@@ -50,7 +50,7 @@ id,name,eserviceName,producerName,totalActiveConsumers,id,name,count
 2,Aziende sanitarie locali e Strutture di ricovero,C006-servizioVerificaDichCittadinanza-approvazione_automatic,Ministero dell'Interno,1.0,2,Aziende sanitarie locali e Strutture di ricovero,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,1.0,2,Aziende sanitarie locali e Strutture di ricovero,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,1.0,2,Aziende sanitarie locali e Strutture di ricovero,1.0
-3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3772.0,3,Comuni,3772.0
+3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3774.0,3,Comuni,3774.0
 3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,330.0,3,Comuni,330.0
 3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,283.0,3,Comuni,283.0
 3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,178.0,3,Comuni,178.0
@@ -119,7 +119,7 @@ id,name,eserviceName,producerName,totalActiveConsumers,id,name,count
 10,Università e AFAM,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,1.0,10,Università e AFAM,1.0
 11,Enti privati,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,73.0,11,Enti privati,73.0
 11,Enti privati,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,19.0,11,Enti privati,19.0
-11,Enti privati,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,17.0,11,Enti privati,17.0
+11,Enti privati,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,18.0,11,Enti privati,18.0
 11,Enti privati,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,16.0,11,Enti privati,16.0
 11,Enti privati,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,16.0,11,Enti privati,16.0
 11,Enti privati,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,14.0,11,Enti privati,14.0

@@ -19,6 +19,6 @@
 | name             | string       | Categoria dell'ente fruitore                              |         |
 | eserviceName     | string       | Nome dell'e-service                                       |         |
 | producerName     | string       | Nome dell'erogatore dell'e-service                        |         |
-| subscribersCount | string       | Numero di enti fruitori abilitati                         |         |
+| subscribersCount | number       | Numero di enti fruitori abilitati                         |         |
 
 Questi dati sono disponibili anche in formato json.

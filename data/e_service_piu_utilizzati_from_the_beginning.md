@@ -15,11 +15,10 @@
 | -------------------- | ------------ | ------------------------------------------------------------- | ------- |
 | id                   | string       | Codice identificativo della categoria dell'ente erogatore     |         |
 | name                 | string       | Categoria dell'ente erogatore                                 |         |
-| eserviceName         | string       | Nome dell'e-service                                           |         |
-| producerName         | string       | Nome dell'erogatore dell'eservice                             |         |
-| totalActiveConsumers | number       | Sessioni di scambio di tutte le categorie degli enti fruitori |         |
 | id                   | string       | Codice identificativo della categoria dell'ente fruitore      |         |
 | name                 | string       | Categoria dell'ente fruitore                                  |         |
-| count                | number       | Sessioni di scambio della categoria dell'ente fruitore        |         |
+| eserviceName         | string       | Nome dell'e-service                                           |         |
+| producerName         | string       | Nome dell'erogatore dell'eservice                             |         |
+| subscribersCount     | number       | Numero di enti fruitori abilitati                             |         |
 
 Questi dati sono disponibili anche in formato json.

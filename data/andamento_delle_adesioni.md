@@ -11,7 +11,8 @@
 
 - andamento_delle_adesioni.csv<br>
 
-| Campo | Tipo di dati | Descrizione                                                                | Formato    |
-| ----- | ------------ | -------------------------------------------------------------------------- | ---------- |
-| date  | datetime     | Data di adesione dell'ente                                                 | YYYY-MM-dd
+| Campo | Tipo di dati | Descrizione                          | Formato    |
+| ----- | ------------ | ------------------------------------ | ---------- |
+| date  | datetime     | Data di adesione dell'ente           | YYYY-MM-dd |
+| count | number       | Numero di adesioni                   |            |
 

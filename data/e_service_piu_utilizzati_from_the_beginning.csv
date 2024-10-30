@@ -19,16 +19,16 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,1,Altre Pubbliche Amministrazioni locali,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,3.0
 0,Totale,1,Altre Pubbliche Amministrazioni locali,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,3.0
 0,Totale,1,Altre Pubbliche Amministrazioni locali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,4.0
-0,Totale,3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,342.0
-0,Totale,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,308.0
-0,Totale,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,198.0
-0,Totale,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,145.0
-0,Totale,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,106.0
-0,Totale,3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,82.0
-0,Totale,3,Comuni,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,68.0
+0,Totale,3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,344.0
+0,Totale,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,317.0
+0,Totale,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,208.0
+0,Totale,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,146.0
+0,Totale,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,116.0
+0,Totale,3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,83.0
+0,Totale,3,Comuni,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,69.0
 0,Totale,3,Comuni,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,52.0
 0,Totale,3,Comuni,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,49.0
-0,Totale,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3833.0
+0,Totale,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3835.0
 0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Servizio di collegamento imprese/PDND - Callback documenti,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",2.0
 0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WaaS Welfare as a Service trasmissione dati al SIUSS,Comune di Porto Viro,1.0
 0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WaaS Welfare as a Service trasmissione dati al SIUSS,Comune di Santa Maria La Carita',1.0
@@ -72,13 +72,13 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,10,Università e AFAM,Consultazione Attestazione ISEE,Istituto Nazionale Previdenza Sociale - INPS,2.0
 0,Totale,10,Università e AFAM,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,10.0
 0,Totale,10,Università e AFAM,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1.0
+0,Totale,10,Università e AFAM,Consultazione iscrizioni accademiche (IFS02),Conservatorio di Salerno,1.0
 0,Totale,10,Università e AFAM,Consultazione titoli accademici (IFS03),Accademia di Belle Arti di Catania,1.0
 0,Totale,10,Università e AFAM,Rettifica iscrizioni accademiche (IFS04),Universita' degli Studi di Sassari,1.0
 0,Totale,10,Università e AFAM,Consultazione offerta formativa (IFS01),Universita' degli Studi di Bari Aldo Moro,1.0
-0,Totale,10,Università e AFAM,Consultazione offerta formativa (IFS01),Accademia di Belle Arti di Palermo,1.0
-0,Totale,10,Università e AFAM,Rettifica titoli accademici (IFS05),Universita' degli Studi di Sassari,1.0
-0,Totale,10,Università e AFAM,Consultazione variazioni iscrizioni accademiche (IFS06),Universita' del Salento,1.0
-0,Totale,10,Università e AFAM,Consultazione offerta formativa (IFS01),Conservatorio di Musica U. Giordano,1.0
+0,Totale,10,Università e AFAM,Rettifica iscrizioni accademiche (IFS04),Conservatorio di Salerno,1.0
+0,Totale,10,Università e AFAM,Rettifica titoli accademici (IFS05),Conservatorio di Salerno,1.0
+0,Totale,10,Università e AFAM,Consultazione numero iscritti a un corso di studi (IFS09),Conservatorio di Salerno,1.0
 0,Totale,6,Altre Pubbliche Amministrazioni Centrali,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,3.0
 0,Totale,6,Altre Pubbliche Amministrazioni Centrali,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,2.0
 0,Totale,6,Altre Pubbliche Amministrazioni Centrali,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,1.0
@@ -103,16 +103,16 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,5,Province e Città Metropolitane,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,3.0
 0,Totale,5,Province e Città Metropolitane,ARPAL-SIMPA Dati Impianto,Regione Liguria,1.0
 0,Totale,5,Province e Città Metropolitane,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2.0
-0,Totale,0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,167.0
-0,Totale,0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,415.0
-0,Totale,0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,203.0
-0,Totale,0,Totale,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,71.0
-0,Totale,0,Totale,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,311.0
-0,Totale,0,Totale,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,107.0
-0,Totale,0,Totale,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,82.0
+0,Totale,0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,168.0
+0,Totale,0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,417.0
+0,Totale,0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,213.0
+0,Totale,0,Totale,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,72.0
+0,Totale,0,Totale,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,320.0
+0,Totale,0,Totale,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,117.0
+0,Totale,0,Totale,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,83.0
 0,Totale,0,Totale,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,52.0
 0,Totale,0,Totale,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,108.0
-0,Totale,0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3849.0
+0,Totale,0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3851.0
 1,Altre Pubbliche Amministrazioni locali,12,Pubbliche Amministrazioni Centrali,Servizio di collegamento imprese/PDND - Callback documenti,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",2.0
 1,Altre Pubbliche Amministrazioni locali,12,Pubbliche Amministrazioni Centrali,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
 1,Altre Pubbliche Amministrazioni locali,12,Pubbliche Amministrazioni Centrali,Identity Matching - Attestazione rappresentanza legale,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
@@ -260,7 +260,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 7,Regioni e Province Autonome,0,Totale,Comunicazioni Obbligatorie UNIURG Regione Piemonte,Regione Piemonte,1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,12,Pubbliche Amministrazioni Centrali,Documenti su IO - notifiche Patente,Istituto Poligrafico e Zecca dello Stato S.P.A.,1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,1,Altre Pubbliche Amministrazioni locali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,4.0
-9,Stazioni Appaltanti e Gestori di pubblici servizi,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3833.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3835.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,7,Regioni e Province Autonome,,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,9,Stazioni Appaltanti e Gestori di pubblici servizi,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,9.0
@@ -269,37 +269,37 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 9,Stazioni Appaltanti e Gestori di pubblici servizi,6,Altre Pubbliche Amministrazioni Centrali,,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,2,Aziende sanitarie locali e Strutture di ricovero,,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,5,Province e Città Metropolitane,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2.0
-9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3849.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3851.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Totale,Documenti su IO - notifiche Patente,Istituto Poligrafico e Zecca dello Stato S.P.A.,1.0
 10,Università e AFAM,12,Pubbliche Amministrazioni Centrali,,,
 10,Università e AFAM,1,Altre Pubbliche Amministrazioni locali,,,
 10,Università e AFAM,3,Comuni,,,
 10,Università e AFAM,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
 10,Università e AFAM,7,Regioni e Province Autonome,,,
-10,Università e AFAM,9,Stazioni Appaltanti e Gestori di pubblici servizi,,,
+10,Università e AFAM,9,Stazioni Appaltanti e Gestori di pubblici servizi,Consultazione offerta formativa (IFS01),Accademia di Belle Arti di Catania,1.0
 10,Università e AFAM,11,Enti privati,,,
+10,Università e AFAM,10,Università e AFAM,Consultazione iscrizioni accademiche (IFS02),Conservatorio di Salerno,1.0
 10,Università e AFAM,10,Università e AFAM,Consultazione titoli accademici (IFS03),Accademia di Belle Arti di Catania,1.0
 10,Università e AFAM,10,Università e AFAM,Rettifica iscrizioni accademiche (IFS04),Universita' degli Studi di Sassari,1.0
 10,Università e AFAM,10,Università e AFAM,Consultazione offerta formativa (IFS01),Universita' degli Studi di Bari Aldo Moro,1.0
+10,Università e AFAM,10,Università e AFAM,Rettifica iscrizioni accademiche (IFS04),Conservatorio di Salerno,1.0
+10,Università e AFAM,10,Università e AFAM,Rettifica titoli accademici (IFS05),Conservatorio di Salerno,1.0
+10,Università e AFAM,10,Università e AFAM,Consultazione numero iscritti a un corso di studi (IFS09),Conservatorio di Salerno,1.0
 10,Università e AFAM,10,Università e AFAM,Consultazione offerta formativa (IFS01),Accademia di Belle Arti di Palermo,1.0
 10,Università e AFAM,10,Università e AFAM,Rettifica titoli accademici (IFS05),Universita' degli Studi di Sassari,1.0
-10,Università e AFAM,10,Università e AFAM,Consultazione variazioni iscrizioni accademiche (IFS06),Universita' del Salento,1.0
-10,Università e AFAM,10,Università e AFAM,Consultazione offerta formativa (IFS01),Conservatorio di Musica U. Giordano,1.0
-10,Università e AFAM,10,Università e AFAM,Rettifica iscrizioni accademiche (IFS04),Accademia di Belle Arti di Catania,1.0
-10,Università e AFAM,10,Università e AFAM,Consultazione numero iscritti per fasce ISEE (IFS08),Universita' degli Studi di Sassari,1.0
-10,Università e AFAM,10,Università e AFAM,Consultazione offerta formativa (IFS01),Universita' Degli Studi di Macerata,1.0
+10,Università e AFAM,10,Università e AFAM,Consultazione variazioni titoli accademici (IFS07),Conservatorio di Salerno,1.0
 10,Università e AFAM,6,Altre Pubbliche Amministrazioni Centrali,,,
 10,Università e AFAM,2,Aziende sanitarie locali e Strutture di ricovero,,,
 10,Università e AFAM,5,Province e Città Metropolitane,,,
+10,Università e AFAM,0,Totale,Consultazione offerta formativa (IFS01),Accademia di Belle Arti di Catania,2.0
 10,Università e AFAM,0,Totale,Consultazione titoli accademici (IFS03),Accademia di Belle Arti di Catania,1.0
 10,Università e AFAM,0,Totale,Consultazione offerta formativa (IFS01),Universita' degli Studi di Bari Aldo Moro,1.0
 10,Università e AFAM,0,Totale,Consultazione offerta formativa (IFS01),Accademia di Belle Arti di Palermo,1.0
+10,Università e AFAM,0,Totale,Consultazione variazioni titoli accademici (IFS07),Conservatorio di Salerno,1.0
 10,Università e AFAM,0,Totale,Consultazione variazioni iscrizioni accademiche (IFS06),Universita' del Salento,1.0
+10,Università e AFAM,0,Totale,Consultazione numero iscritti per fasce ISEE (IFS08),Conservatorio di Salerno,1.0
 10,Università e AFAM,0,Totale,Consultazione offerta formativa (IFS01),Universita' Degli Studi di Macerata,1.0
 10,Università e AFAM,0,Totale,Consultazione variazioni titoli accademici (IFS07),Universita' degli Studi di Sassari,1.0
-10,Università e AFAM,0,Totale,Consultazione offerta formativa (IFS01),Conservatorio Statale di Musica G. Rossini,1.0
-10,Università e AFAM,0,Totale,Consultazione titoli accademici (IFS03),Universita' degli Studi di Sassari,1.0
-10,Università e AFAM,0,Totale,Consultazione offerta formativa (IFS01),Universita' del Salento,1.0
 10,Università e AFAM,0,Totale,Consultazione variazioni titoli accademici (IFS07),Accademia di Belle Arti di Catania,1.0
 12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,arch-common-service_SDG,Agenzia per L'Italia Digitale,9.0
 12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,evidence-broker_SDG,Agenzia per L'Italia Digitale,7.0
@@ -321,13 +321,13 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,3.0
 12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,3.0
 12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,2.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,342.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,308.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,198.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,145.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,106.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,82.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,68.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,344.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,317.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,208.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,146.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,116.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,83.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,69.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,52.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,49.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C024-servizioAccertamentoPaternita-approvazione_automatica,Ministero dell'Interno,46.0
@@ -397,13 +397,13 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,5,Province e Città Metropolitane,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,3.0
 12,Pubbliche Amministrazioni Centrali,5,Province e Città Metropolitane,C001–servizioNotifica,Ministero dell'Interno,1.0
 12,Pubbliche Amministrazioni Centrali,5,Province e Città Metropolitane,C015-servizioAccertamentoGeneralita,Ministero dell'Interno,1.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,167.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,415.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,203.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,71.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,311.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,107.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,82.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,168.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,417.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,213.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,72.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,320.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,117.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,83.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,52.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,49.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,108.0

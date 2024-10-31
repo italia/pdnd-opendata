@@ -6,18 +6,18 @@ id,name,count,producerName
 0,Totale,14.0,Autorita' Nazionale Anticorruzione - A.N.AC.
 0,Totale,13.0,Comune di Brescia
 0,Totale,12.0,Comune di Genova
-0,Totale,11.0,Comune di Gallarate
 0,Totale,11.0,Comune di Ancona
 0,Totale,10.0,Comune di Torino
+0,Totale,10.0,Regione Abruzzo
 1,Altre Pubbliche Amministrazioni locali,9.0,Autorita' di Sistema Portuale del Mare Adriatico Meridionale
 1,Altre Pubbliche Amministrazioni locali,8.0,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"
 1,Altre Pubbliche Amministrazioni locali,1.0,Comunita' di Montagna della Carnia
 2,Aziende sanitarie locali e Strutture di ricovero,,
 3,Comuni,13.0,Comune di Brescia
 3,Comuni,12.0,Comune di Genova
-3,Comuni,11.0,Comune di Gallarate
 3,Comuni,11.0,Comune di Ancona
 3,Comuni,10.0,Comune di Torino
+3,Comuni,8.0,Comune di Gallarate
 3,Comuni,8.0,Comune di Cortaccia sulla Strada del Vino
 3,Comuni,8.0,Comune di Olbia
 3,Comuni,8.0,Comune di Jesi
@@ -26,7 +26,7 @@ id,name,count,producerName
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,3.0,Istituto Nazionale Previdenza Sociale - INPS
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,1.0,Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro - INAIL
 5,Province e Città Metropolitane,,
-6,Altre Pubbliche Amministrazioni Centrali,,
+6,Altre Pubbliche Amministrazioni Centrali,1.0,Agenzia per le Erogazioni in Agricoltura - AGEA
 7,Regioni e Province Autonome,79.0,Regione Lazio
 7,Regioni e Province Autonome,23.0,Regione Liguria
 7,Regioni e Province Autonome,10.0,Regione Abruzzo
@@ -43,11 +43,11 @@ id,name,count,producerName
 10,Università e AFAM,9.0,Universita' Degli Studi G. d'Annunzio di Chieti
 10,Università e AFAM,9.0,Universita' degli Studi di Bari Aldo Moro
 10,Università e AFAM,9.0,Conservatorio di Salerno
-10,Università e AFAM,9.0,Universita' degli Studi di Pavia
+10,Università e AFAM,9.0,Conservatorio di Musica Gesualdo da Venosa - Potenza
+10,Università e AFAM,8.0,Universita' Politecnica delle Marche
 10,Università e AFAM,8.0,Universita' degli Studi di Napoli 'Parthenope'
 10,Università e AFAM,8.0,"Politecnico delle Arti di Bergamo ""G. Donizetti - G. Carrara"""
 10,Università e AFAM,8.0,Universita' del Salento
-10,Università e AFAM,8.0,Universita' degli Studi Magna Graecia di Catanzaro
 11,Enti privati,,
 12,Pubbliche Amministrazioni Centrali,26.0,Ministero delle infrastrutture e dei trasporti
 12,Pubbliche Amministrazioni Centrali,17.0,Istituto centrale per la digitalizzazione del patrimonio culturale - Digital Library - Ministero della Cultura

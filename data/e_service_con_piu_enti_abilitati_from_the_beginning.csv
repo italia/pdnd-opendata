@@ -10,7 +10,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Tutte,6,Altre Pubbliche Amministrazioni Centrali,APICIG,Autorita' Nazionale Anticorruzione - A.N.AC.,2.0
 0,Tutte,6,Altre Pubbliche Amministrazioni Centrali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3.0
 0,Tutte,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,496.0
-0,Tutte,3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,453.0
+0,Tutte,3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,454.0
 0,Tutte,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,308.0
 0,Tutte,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,246.0
 0,Tutte,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,174.0
@@ -115,7 +115,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Tutte,8,Scuole,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,1.0
 0,Tutte,0,Tutte,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,282.0
 0,Tutte,0,Tutte,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,83.0
-0,Tutte,0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,568.0
+0,Tutte,0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,569.0
 0,Tutte,0,Tutte,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,313.0
 0,Tutte,0,Tutte,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,500.0
 0,Tutte,0,Tutte,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,113.0
@@ -247,6 +247,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Tutte,SIUSS_RicercaRdcPdc,Istituto Nazionale Previdenza Sociale - INPS,2.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Tutte,SIUSS_RicercaPuntualeSinba,Istituto Nazionale Previdenza Sociale - INPS,2.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Tutte,Comunicazioni Obbligatorie,Istituto Nazionale Previdenza Sociale - INPS,1.0
+6,Altre Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,Consultazione visura veicolo per targa - PRA (C001),Automobile Club d'Italia,1.0
 6,Altre Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,CNF-CheckAvv,Consiglio Nazionale Forense,1.0
 6,Altre Pubbliche Amministrazioni Centrali,3,Comuni,CNF-CheckAvv,Consiglio Nazionale Forense,1.0
 6,Altre Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,CNF-CheckAvv,Consiglio Nazionale Forense,1.0
@@ -259,6 +260,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 6,Altre Pubbliche Amministrazioni Centrali,2,Aziende sanitarie locali e Strutture di ricovero,,,
 6,Altre Pubbliche Amministrazioni Centrali,5,Province e Città Metropolitane,,,
 6,Altre Pubbliche Amministrazioni Centrali,8,Scuole,,,
+6,Altre Pubbliche Amministrazioni Centrali,0,Tutte,Consultazione visura veicolo per targa - PRA (C001),Automobile Club d'Italia,1.0
 6,Altre Pubbliche Amministrazioni Centrali,0,Tutte,CNF-CheckAvv,Consiglio Nazionale Forense,3.0
 7,Regioni e Province Autonome,6,Altre Pubbliche Amministrazioni Centrali,,,
 7,Regioni e Province Autonome,3,Comuni,,,
@@ -366,7 +368,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,APICIG,Autorita' Nazionale Anticorruzione - A.N.AC.,2.0
 12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,1.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,496.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,453.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,454.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,308.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,246.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,174.0
@@ -469,7 +471,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,8,Scuole,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,1.0
 12,Pubbliche Amministrazioni Centrali,0,Tutte,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,282.0
 12,Pubbliche Amministrazioni Centrali,0,Tutte,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,83.0
-12,Pubbliche Amministrazioni Centrali,0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,568.0
+12,Pubbliche Amministrazioni Centrali,0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,569.0
 12,Pubbliche Amministrazioni Centrali,0,Tutte,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,313.0
 12,Pubbliche Amministrazioni Centrali,0,Tutte,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,500.0
 12,Pubbliche Amministrazioni Centrali,0,Tutte,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,113.0

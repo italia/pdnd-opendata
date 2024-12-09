@@ -9,7 +9,6 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,6,Altre Pubbliche Amministrazioni Centrali,C020-servizioAccertamentoResidenza,Ministero dell'Interno,1.0
 0,Totale,6,Altre Pubbliche Amministrazioni Centrali,arch-common-service_SDG,Agenzia per L'Italia Digitale,1.0
 0,Totale,6,Altre Pubbliche Amministrazioni Centrali,service-catalogue_SDG,Agenzia per L'Italia Digitale,1.0
-0,Totale,12,Pubbliche Amministrazioni Centrali,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",2.0
 0,Totale,12,Pubbliche Amministrazioni Centrali,Consultazione DURC,Istituto Nazionale Previdenza Sociale - INPS,2.0
 0,Totale,12,Pubbliche Amministrazioni Centrali,arch-common-service_SDG,Agenzia per L'Italia Digitale,10.0
 0,Totale,12,Pubbliche Amministrazioni Centrali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,7.0
@@ -18,6 +17,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,12,Pubbliche Amministrazioni Centrali,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,4.0
 0,Totale,12,Pubbliche Amministrazioni Centrali,data-service-directory_SDG,Agenzia per L'Italia Digitale,4.0
 0,Totale,12,Pubbliche Amministrazioni Centrali,C019-servizioAccertamentoEsistenzaVita,Ministero dell'Interno,3.0
+0,Totale,12,Pubbliche Amministrazioni Centrali,C020-servizioAccertamentoResidenza,Ministero dell'Interno,3.0
 0,Totale,12,Pubbliche Amministrazioni Centrali,MG - Callback Certificazione Sanzioni,Autorita' Nazionale Anticorruzione - A.N.AC.,2.0
 0,Totale,1,Altre Pubbliche Amministrazioni locali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,25.0
 0,Totale,1,Altre Pubbliche Amministrazioni locali,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,4.0
@@ -340,9 +340,9 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,4.0
 12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,data-service-directory_SDG,Agenzia per L'Italia Digitale,4.0
 12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,C019-servizioAccertamentoEsistenzaVita,Ministero dell'Interno,3.0
+12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,C020-servizioAccertamentoResidenza,Ministero dell'Interno,3.0
 12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,MG - Callback Certificazione Sanzioni,Autorita' Nazionale Anticorruzione - A.N.AC.,2.0
 12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,MG - Callback Certificazione Casellario,Autorita' Nazionale Anticorruzione - A.N.AC.,2.0
-12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,C020-servizioAccertamentoResidenza,Ministero dell'Interno,2.0
 12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,25.0
 12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,4.0
 12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,4.0

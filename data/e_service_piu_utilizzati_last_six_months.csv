@@ -1,7 +1,7 @@
 id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,143.0
 0,Totale,3,Comuni,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,56.0
-0,Totale,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3959.0
+0,Totale,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3960.0
 0,Totale,3,Comuni,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,65.0
 0,Totale,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,189.0
 0,Totale,3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,93.0
@@ -108,7 +108,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,11,Enti privati,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,12.0
 0,Totale,11,Enti privati,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,8.0
 0,Totale,0,Totale,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,144.0
-0,Totale,0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3987.0
+0,Totale,0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3988.0
 0,Totale,0,Totale,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,68.0
 0,Totale,0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,214.0
 0,Totale,0,Totale,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,93.0
@@ -147,7 +147,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 3,Comuni,3,Comuni,Aree Verdi,Comune di Cavenago di Brianza,1.0
 3,Comuni,3,Comuni,Dati storici del cittadino,Comune di Pedaso,1.0
 3,Comuni,3,Comuni,Export Contributi Economici SIUSS,Comune di Caldogno,1.0
-3,Comuni,3,Comuni,Accesso dati cartografici del Gemello digitale,Comune di Milano,3.0
+3,Comuni,3,Comuni,Accesso dati cartografici del Gemello digitale,Comune di Milano,4.0
 3,Comuni,3,Comuni,Dati storici del cittadino,Comune di Citerna,1.0
 3,Comuni,3,Comuni,Dati storici del cittadino,Comune di Isnello,1.0
 3,Comuni,3,Comuni,Dati storici del cittadino,Comune di Ortona Dei Marsi,1.0
@@ -179,7 +179,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 3,Comuni,0,Totale,Welfare as a Service per i Comuni - (WaaS per i Comuni),Comune di Bussolengo,2.0
 3,Comuni,0,Totale,WAAS-SIUSS-Alimentazione,Comune di Tertenia,2.0
 3,Comuni,0,Totale,Welfare as a Service per i Comuni - (WaaS per i Comuni),Comune di San Giovanni Rotondo,2.0
-3,Comuni,0,Totale,Accesso dati cartografici del Gemello digitale,Comune di Milano,3.0
+3,Comuni,0,Totale,Accesso dati cartografici del Gemello digitale,Comune di Milano,4.0
 3,Comuni,0,Totale,Ambito - API OGC Pratiche Edilizie,Comune di Carpi,2.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,3,Comuni,Consultazione DURC,Istituto Nazionale Previdenza Sociale - INPS,2.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,3,Comuni,Consultazione Attestazione ISEE,Istituto Nazionale Previdenza Sociale - INPS,3.0
@@ -260,7 +260,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 7,Regioni e Province Autonome,0,Totale,Comunicazioni Obbligatorie VARDATORI Regione Piemonte,Regione Piemonte,2.0
 7,Regioni e Province Autonome,0,Totale,Comunicazioni Obbligatorie UNIPI Regione Piemonte,Regione Piemonte,2.0
 7,Regioni e Province Autonome,0,Totale,Comunicazioni Obbligatorie UNILAV Regione Piemonte,Regione Piemonte,2.0
-9,Stazioni Appaltanti e Gestori di pubblici servizi,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3959.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3960.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,9,Stazioni Appaltanti e Gestori di pubblici servizi,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,18.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,9,Stazioni Appaltanti e Gestori di pubblici servizi,SEND - solo per SCP (Società a controllo pubblico),PagoPa S.p.A.,1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
@@ -272,7 +272,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 9,Stazioni Appaltanti e Gestori di pubblici servizi,2,Aziende sanitarie locali e Strutture di ricovero,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,5,Province e Città Metropolitane,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,11,Enti privati,,,
-9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3987.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3988.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Totale,SEND - solo per SCP (Società a controllo pubblico),PagoPa S.p.A.,1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Totale,Documenti su IO - notifiche Patente,Istituto Poligrafico e Zecca dello Stato S.P.A.,1.0
 10,Università e AFAM,3,Comuni,,,

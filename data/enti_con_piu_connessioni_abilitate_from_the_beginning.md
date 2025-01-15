@@ -16,7 +16,7 @@
 | id              | string       | Codice identificativo della categoria dell'ente erogatore |         |
 | name            | string       | Nome della categoria dell'ente erogatore                  |         |
 | producerName    | string       | Nome dell'ente erogatore                                  |         |
-| producerid      | string       | Codice identificativo dell'ente erogatore                 |         |
+| producerId      | string       | Codice identificativo dell'ente erogatore                 |         |
 | id              | string       | Codice identificativo della categoria dell'ente fruitore  |         |
 | name            | string       | Nome della categoria dell'ente fruitore                   |         |
 | subscriberCount | number       | Numero di connessioni                                     |         |

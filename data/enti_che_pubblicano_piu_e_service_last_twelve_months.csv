@@ -6,7 +6,7 @@ id,name,count,producerName
 0,Totale,30.0,Regione Autonoma della Sardegna
 0,Totale,28.0,Ministero del Lavoro e delle Politiche Sociali
 0,Totale,28.0,Regione Emilia-Romagna
-0,Totale,23.0,Regione Umbria
+0,Totale,24.0,Regione Umbria
 0,Totale,23.0,Ministero delle infrastrutture e dei trasporti
 0,Totale,17.0,Universita' degli Studi di Parma
 1,Altre Pubbliche Amministrazioni locali,9.0,Autorita' di Sistema Portuale del Mare Adriatico Meridionale
@@ -21,11 +21,11 @@ id,name,count,producerName
 3,Comuni,8.0,Comune di Cortaccia sulla Strada del Vino
 3,Comuni,8.0,Comune di Faenza
 3,Comuni,8.0,Comune di Arezzo
-3,Comuni,8.0,Comune di Ferrara
 3,Comuni,7.0,Comune di Ragusa
 3,Comuni,7.0,Comune di Vigevano
 3,Comuni,6.0,Comune di Campiglia Marittima
 3,Comuni,6.0,Comune di Senigallia
+3,Comuni,6.0,Comune di Foggia
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,5.0,Istituto Nazionale Previdenza Sociale - INPS
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,1.0,Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro - INAIL
 5,Province e Città Metropolitane,,
@@ -38,15 +38,16 @@ id,name,count,producerName
 7,Regioni e Province Autonome,30.0,Regione Abruzzo
 7,Regioni e Province Autonome,30.0,Regione Autonoma della Sardegna
 7,Regioni e Province Autonome,28.0,Regione Emilia-Romagna
-7,Regioni e Province Autonome,23.0,Regione Umbria
+7,Regioni e Province Autonome,24.0,Regione Umbria
 7,Regioni e Province Autonome,17.0,Regione Liguria
 7,Regioni e Province Autonome,4.0,Regione Piemonte
-7,Regioni e Province Autonome,1.0,Regione Autonoma Friuli-Venezia Giulia
+7,Regioni e Province Autonome,1.0,Provincia Autonoma di Bolzano
 8,Scuole,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,4.0,Istituto Poligrafico e Zecca dello Stato S.P.A.
 9,Stazioni Appaltanti e Gestori di pubblici servizi,2.0,PagoPa S.p.A.
 10,Università e AFAM,17.0,Universita' degli Studi di Parma
 10,Università e AFAM,16.0,Universita' degli Studi di Foggia
+10,Università e AFAM,12.0,Alma Mater Studiorum - Universita' di Bologna
 10,Università e AFAM,9.0,Universita' degli Studi di Modena e Reggio Emilia
 10,Università e AFAM,9.0,Universita' degli Studi di Salerno
 10,Università e AFAM,9.0,Universita' degli Studi di Padova
@@ -54,7 +55,6 @@ id,name,count,producerName
 10,Università e AFAM,9.0,Universita' degli Studi di Cagliari
 10,Università e AFAM,9.0,Accademia di Belle Arti di Catanzaro
 10,Università e AFAM,9.0,Universita' degli Studi della Campania - 'Luigi Vanvitelli'
-10,Università e AFAM,9.0,Universita' degli Studi di Milano - Bicocca
 11,Enti privati,,
 12,Pubbliche Amministrazioni Centrali,28.0,Ministero del Lavoro e delle Politiche Sociali
 12,Pubbliche Amministrazioni Centrali,23.0,Ministero delle infrastrutture e dei trasporti

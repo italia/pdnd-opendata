@@ -48,6 +48,8 @@
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_from_the_beginning.md"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_months.md"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_twelve_months.md"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_a_catalogo.md"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/aderenti.md"/>
 </dcatapit:Catalog>
 
     
@@ -1050,6 +1052,86 @@
   <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_twelve_months.json"/>
 </dcatapit:Dataset>
 
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_a_catalogo.md">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>PDND - Catalogo e-service</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_a_catalogo.csv</dct:landingpage>
+  <dct:description>Elenco di tutti gli e-service disponibili nel catalogo di PDND Interoperabilità</dct:description>
+  <dct:identifier>AA1D3A2:eservice_a_catalogo</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="AA1D3A2">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>AA1D3A2</dct:identifier>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_a_catalogo.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_a_catalogo.json"/>
+</dcatapit:Dataset>
+
+
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/aderenti.md">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>PDND - Aderenti</dct:title>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/aderenti.csv</dct:landingpage>
+  <dct:description>Elenco di tutti gli aderenti a PDND Interoperabilità</dct:description>
+  <dct:identifier>AA1D3A2:aderenti</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="AA1D3A2">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>AA1D3A2</dct:identifier>
+      <foaf:name>PCM - Dipartimento per la trasformazione digitale</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
+  <dcat:keyword>PDND</dcat:keyword>
+<dcat:keyword>API</dcat:keyword>
+<dcat:keyword>PNRR</dcat:keyword>
+<dcat:keyword>Interoperabilità</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/aderenti.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/aderenti.json"/>
+</dcatapit:Dataset>
+
     
 <dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_e_service_per_enti_erogatori.csv">
   <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/distribuzione_e_service_per_enti_erogatori.csv"/>
@@ -1821,6 +1903,68 @@
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
   <dct:title>PDND - E-service più utilizzati, per sessioni di scambio - ultimi 12 mesi JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+    
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_a_catalogo.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_a_catalogo.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>PDND - Catalogo e-service CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_a_catalogo.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_a_catalogo.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>PDND - Catalogo e-service JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+    
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/aderenti.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/aderenti.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>PDND - Aderenti CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/aderenti.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/aderenti.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>PDND - Aderenti JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 

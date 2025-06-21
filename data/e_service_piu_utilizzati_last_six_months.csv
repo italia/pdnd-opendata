@@ -1,14 +1,14 @@
 id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,288.0
 0,Totale,3,Comuni,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,146.0
-0,Totale,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,5146.0
-0,Totale,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,427.0
+0,Totale,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,5151.0
+0,Totale,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,429.0
 0,Totale,3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,198.0
 0,Totale,3,Comuni,C025-servizioAccertamentoMaternita-approvazione_automatica,Ministero dell'Interno,117.0
 0,Totale,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,460.0
-0,Totale,3,Comuni,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,160.0
+0,Totale,3,Comuni,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,161.0
 0,Totale,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,697.0
-0,Totale,3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,559.0
+0,Totale,3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,558.0
 0,Totale,9,Stazioni Appaltanti e Gestori di pubblici servizi,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,23.0
 0,Totale,9,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,12.0
 0,Totale,9,Stazioni Appaltanti e Gestori di pubblici servizi,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,3.0
@@ -111,14 +111,14 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,11,Enti privati,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,11.0
 0,Totale,0,Totale,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,289.0
 0,Totale,0,Totale,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,147.0
-0,Totale,0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,5190.0
-0,Totale,0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,468.0
+0,Totale,0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,5195.0
+0,Totale,0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,470.0
 0,Totale,0,Totale,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,199.0
 0,Totale,0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,467.0
-0,Totale,0,Totale,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,160.0
+0,Totale,0,Totale,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,161.0
 0,Totale,0,Totale,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,703.0
 0,Totale,0,Totale,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,176.0
-0,Totale,0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,659.0
+0,Totale,0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,658.0
 1,Altre Pubbliche Amministrazioni locali,3,Comuni,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",5.0
 1,Altre Pubbliche Amministrazioni locali,3,Comuni,CATALOGO - GESTIONE ISTANZA - BACKOFFICE,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
 1,Altre Pubbliche Amministrazioni locali,3,Comuni,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",74.0
@@ -186,6 +186,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 3,Comuni,11,Enti privati,Personale,Comune di Rapallo,1.0
 3,Comuni,11,Enti privati,Albo Pretorio,Comune di Rapallo,1.0
 3,Comuni,0,Totale,WAAS-SIUSS-Alimentazione,Comune di Sennori,2.0
+3,Comuni,0,Totale,SIUSS,Comune di Prato,2.0
 3,Comuni,0,Totale,WAAS-SIUSS-Alimentazione,Comune di Monte San Pietro,2.0
 3,Comuni,0,Totale,WAAS-SIUSS-Alimentazione,Comune di Concordia Sagittaria,2.0
 3,Comuni,0,Totale,WAAS-SIUSS-Alimentazione,Comune di Paderno Dugnano,2.0
@@ -194,7 +195,6 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 3,Comuni,0,Totale,Accesso dati cartografici del Gemello digitale,Comune di Milano,8.0
 3,Comuni,0,Totale,WAAS-SIUSS-Alimentazione,Comune di Valsamoggia,2.0
 3,Comuni,0,Totale,(NEW)Welfare as a Service per i Comuni - (WaaS per i Comuni),Comune di Bitonto,2.0
-3,Comuni,0,Totale,WAAS-SIUSS-Alimentazione,Comune di Zola Predosa,2.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,3,Comuni,waas-consultazione-pensione-sociale,Istituto Nazionale Previdenza Sociale - INPS,1.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,3,Comuni,Consultazione DURC,Istituto Nazionale Previdenza Sociale - INPS,3.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,3,Comuni,Consultazione Attestazione ISEE,Istituto Nazionale Previdenza Sociale - INPS,10.0
@@ -294,7 +294,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 7,Regioni e Province Autonome,0,Totale,RM-CO-001 Comunicazioni obbligatorie Regione Marche,Regione Marche,1.0
 7,Regioni e Province Autonome,0,Totale,Consultazione Specie Esotiche Invasive - IDT,Regione del Veneto,1.0
 7,Regioni e Province Autonome,0,Totale,Invio di notifiche su canale mail,Regione Autonoma Friuli-Venezia Giulia,1.0
-9,Stazioni Appaltanti e Gestori di pubblici servizi,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,5146.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,5151.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,9,Stazioni Appaltanti e Gestori di pubblici servizi,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,23.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,9,Stazioni Appaltanti e Gestori di pubblici servizi,SEND - solo per SCP (Società a controllo pubblico),PagoPa S.p.A.,3.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,9,Stazioni Appaltanti e Gestori di pubblici servizi,Documenti su IO - Statistiche andamento servizio,Istituto Poligrafico e Zecca dello Stato S.P.A.,1.0
@@ -307,7 +307,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 9,Stazioni Appaltanti e Gestori di pubblici servizi,2,Aziende sanitarie locali e Strutture di ricovero,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,5,Province e Città Metropolitane,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,7.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,11,Enti privati,,,
-9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,5190.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,5195.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Totale,SEND - solo per SCP (Società a controllo pubblico),PagoPa S.p.A.,3.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Totale,Documenti su IO - Statistiche andamento servizio,Istituto Poligrafico e Zecca dello Stato S.P.A.,1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Totale,Documenti su IO - notifiche Patente,Istituto Poligrafico e Zecca dello Stato S.P.A.,1.0
@@ -352,14 +352,14 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 10,Università e AFAM,0,Totale,Consultazione iscrizioni accademiche (IFS02),Universita' degli Studi di Roma La Sapienza,2.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,288.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,146.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,427.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,429.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,198.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C025-servizioAccertamentoMaternita-approvazione_automatica,Ministero dell'Interno,117.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,460.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,160.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,161.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C024-servizioAccertamentoPaternita-approvazione_automatica,Ministero dell'Interno,116.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,697.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,559.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,558.0
 12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,12.0
 12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,3.0
 12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,14.0
@@ -456,11 +456,11 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,11,Enti privati,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,11.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,289.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,147.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,468.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,470.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,199.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,C025-servizioAccertamentoMaternita-approvazione_automatica,Ministero dell'Interno,117.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,467.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,160.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,C017-servizioAccertamentoMatrimonio-approvazione_automatica,Ministero dell'Interno,161.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,703.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,176.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,659.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,658.0

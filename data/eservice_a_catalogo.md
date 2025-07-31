@@ -9,7 +9,7 @@
 
 **Reference file:**
 
-- catalogo_eservice.csv<br>
+- eservice_a_catalogo.csv<br>
 
 | Campo                    | Tipo di dati | Descrizione                                                      | Formato |
 | ------------------------ | ------------ | ---------------------------------------------------------------- | ------- |

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:locn="http://www.w3.org/ns/locn#" xmlns:hydra="http://www.w3.org/ns/hydra/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcatapit="http://dati.gov.it/onto/dcatapit#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:adms="http://www.w3.org/ns/adms#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gsp="http://www.opengis.net/ont/geosparql#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    
+<dcatapit:Catalog rdf:about="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+  <dct:title>SEND - Servizio Notifiche Digitali</dct:title>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>SEND - Servizio Notifiche Digitali</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:description>Dati aperti relativi a SEND</dct:description>
+  <dct:language>it</dct:language>
+  <foaf:homepage rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/"/>
+  <dcat:themeTaxonomy>
+    <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/data-theme">
+      <dct:title>Data Theme Vocabulary</dct:title>
+    </skos:ConceptScheme>
+  </dcat:themeTaxonomy>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-08</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-08</dct:issued>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dcat:dataset rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/notifiche_per_mese.md"/>
+<dcat:dataset rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_geografica_comuni.md"/>
+<dcat:dataset rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_ambiti_notifiche.md"/>
+</dcatapit:Catalog>
+
+    
+<dcatapit:Dataset rdf:about="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/notifiche_per_mese.md">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>SEND - Distribuzione del numero di notifiche</dct:title>
+  <dct:landingpage>https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/notifiche_per_mese.csv</dct:landingpage>
+  <dct:description>Numero di notifiche per mese ed anno suddivisi per tipologia di notifica (analogica o digitale)</dct:description>
+  <dct:identifier>5N2TR557:notifiche_per_mese</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-08</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-08</dct:issued>
+  <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
+  <dcat:keyword>SEND</dcat:keyword>
+<dcat:keyword>notifiche-digitali</dcat:keyword>
+<dcat:keyword>notifiche-a-valore-legale</dcat:keyword>
+<dcat:keyword>piattaforma-notifiche</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/notifiche_per_mese.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/notifiche_per_mese.json"/>
+</dcatapit:Dataset>
+
+
+<dcatapit:Dataset rdf:about="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_geografica_comuni.md">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>SEND - Distribuzione geografica dei Comuni su SEND</dct:title>
+  <dct:landingpage>https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_geografica_comuni.csv</dct:landingpage>
+  <dct:description>Numero di comuni attivi su SEND per ciascuna regione con profondità storica complessiva ed annuale</dct:description>
+  <dct:identifier>5N2TR557:distribuzione_geografica_comuni</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-08</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-08</dct:issued>
+  <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
+  <dcat:keyword>SEND</dcat:keyword>
+<dcat:keyword>notifiche-digitali</dcat:keyword>
+<dcat:keyword>notifiche-a-valore-legale</dcat:keyword>
+<dcat:keyword>piattaforma-notifiche</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_geografica_comuni.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_geografica_comuni.json"/>
+</dcatapit:Dataset>
+
+
+<dcatapit:Dataset rdf:about="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_ambiti_notifiche.md">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>SEND - Distribuzione dei principali ambiti di notifica</dct:title>
+  <dct:landingpage>https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_ambiti_notifiche.csv</dct:landingpage>
+  <dct:description>Numero di notifiche per ambito filtrabili per categoria di ente (specifica o complessiva)</dct:description>
+  <dct:identifier>5N2TR557:distribuzione_ambiti_notifiche</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-08</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-08</dct:issued>
+  <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
+  <dcat:keyword>SEND</dcat:keyword>
+<dcat:keyword>notifiche-digitali</dcat:keyword>
+<dcat:keyword>notifiche-a-valore-legale</dcat:keyword>
+<dcat:keyword>piattaforma-notifiche</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_ambiti_notifiche.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_ambiti_notifiche.json"/>
+</dcatapit:Dataset>
+
+    
+<dcatapit:Distribution rdf:about="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/notifiche_per_mese.csv">
+  <dcat:accessURL rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/notifiche_per_mese.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>SEND - Distribuzione del numero di notifiche CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/notifiche_per_mese.json">
+  <dcat:accessURL rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/notifiche_per_mese.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>SEND - Distribuzione del numero di notifiche JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+    
+<dcatapit:Distribution rdf:about="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_geografica_comuni.csv">
+  <dcat:accessURL rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_geografica_comuni.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>SEND - Distribuzione geografica dei Comuni su SEND CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_geografica_comuni.json">
+  <dcat:accessURL rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_geografica_comuni.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>SEND - Distribuzione geografica dei Comuni su SEND JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+    
+<dcatapit:Distribution rdf:about="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_ambiti_notifiche.csv">
+  <dcat:accessURL rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_ambiti_notifiche.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>SEND - Distribuzione dei principali ambiti di notifica CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_ambiti_notifiche.json">
+  <dcat:accessURL rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/send/data/distribuzione_ambiti_notifiche.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>SEND - Distribuzione dei principali ambiti di notifica JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+        
+<dcatapit:Organization rdf:about="https://www.pagopa.it/it/">
+  <rdf:type rdf:resource="vcard:Organization"/>
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Kind"/>
+  <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Organization"/>
+  <rdf:type rdf:resource="vcard:Kind"/>
+  <vcard:fn>PagoPA S.p.A.</vcard:fn>
+  <vcard:hasEmail rdf:resource="TBD"/>
+  <vcard:hasURL rdf:resource="https://www.pagopa.it/it/"/>
+</dcatapit:Organization>
+    
+</rdf:RDF>

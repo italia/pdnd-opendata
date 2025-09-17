@@ -20,8 +20,8 @@
       <dct:title>Data Theme Vocabulary</dct:title>
     </skos:ConceptScheme>
   </dcat:themeTaxonomy>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
   <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_e_service_per_enti_erogatori.md"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_con_piu_enti_abilitati_last_six_months.md"/>
@@ -46,7 +46,7 @@
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_last_six_months.md"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_last_twelve_months.md"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_from_the_beginning.md"/>
-<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_months.md"/>
+<dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_month.md"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_twelve_months.md"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_a_catalogo.md"/>
 <dcat:dataset rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/aderenti.md"/>
@@ -81,8 +81,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -121,8 +121,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -161,8 +161,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -201,8 +201,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -241,8 +241,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -281,8 +281,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -299,7 +299,7 @@
   <dct:license/>
   <dct:title>PDND - Distribuzione degli enti per attività</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/distribuzione_degli_enti_per_attivita.csv</dct:landingpage>
-  <dct:description>Numero di enti aderenti suddiviso in funzione dell’attività che attualmente svolgono sulla piattaforma</dct:description>
+  <dct:description>Numero di enti aderenti suddiviso in funzione dell'attività che attualmente svolgono sulla piattaforma</dct:description>
   <dct:identifier>AA1D3A2:distribuzione_degli_enti_per_attivita</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
@@ -321,8 +321,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -361,8 +361,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -401,8 +401,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -441,8 +441,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -481,8 +481,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -521,8 +521,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -561,8 +561,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -601,8 +601,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -641,8 +641,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -681,8 +681,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -721,8 +721,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -761,8 +761,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -801,8 +801,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -819,7 +819,7 @@
   <dct:license/>
   <dct:title>PDND - E-service più utilizzati, per enti fruitori attivi - inizio del servizio</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/e_service_piu_utilizzati_from_the_beginning.csv</dct:landingpage>
-  <dct:description>E-service ordinati per numero di enti che hanno attivato almeno una sessione di scambio dall'inizio del servizio</dct:description>
+  <dct:description>E-service ordinati per numero di enti che hanno attivato almeno una sessione di scambio dall"inizio del servizio</dct:description>
   <dct:identifier>AA1D3A2:e_service_piu_utilizzati_from_the_beginning</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
@@ -841,8 +841,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -881,8 +881,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -921,8 +921,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -939,7 +939,7 @@
   <dct:license/>
   <dct:title>PDND - E-service più utilizzati, per sessioni di scambio - inizio del servizio</dct:title>
   <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_from_the_beginning.csv</dct:landingpage>
-  <dct:description>E-service ordinati per numero di sessioni di scambio dall'inizio del servizio</dct:description>
+  <dct:description>E-service ordinati per numero di sessioni di scambio dall"inizio del servizio</dct:description>
   <dct:identifier>AA1D3A2:eservice_con_piu_token_staccati_from_the_beginning</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
@@ -961,8 +961,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -973,14 +973,14 @@
 </dcatapit:Dataset>
 
 
-<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_months.md">
+<dcatapit:Dataset rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_month.md">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
   <dct:title>PDND - E-service più utilizzati, per sessioni di scambio - ultimi 6 mesi</dct:title>
-  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_months.csv</dct:landingpage>
+  <dct:landingpage>https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_month.csv</dct:landingpage>
   <dct:description>E-service ordinati per numero di sessioni di scambio negli ultimi 6 mesi</dct:description>
-  <dct:identifier>AA1D3A2:eservice_con_piu_token_staccati_last_six_months</dct:identifier>
+  <dct:identifier>AA1D3A2:eservice_con_piu_token_staccati_last_six_month</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dct:rightsHolder>
@@ -1001,15 +1001,15 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
 <dcat:keyword>PNRR</dcat:keyword>
 <dcat:keyword>Interoperabilità</dcat:keyword>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_months.csv"/>
-  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_months.json"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_month.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_month.json"/>
 </dcatapit:Dataset>
 
 
@@ -1041,8 +1041,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -1081,8 +1081,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -1121,8 +1121,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://www.interop.pagopa.it/numeri"/>
   <dcat:keyword>PDND</dcat:keyword>
 <dcat:keyword>API</dcat:keyword>
@@ -1846,8 +1846,8 @@
 
 
     
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_months.csv">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_con_piu_token_staccati_last_six_months.csv"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_month.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_con_piu_token_staccati_last_six_month.csv"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -1860,8 +1860,8 @@
   <dct:title>PDND - E-service più utilizzati, per sessioni di scambio - ultimi 6 mesi CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
-<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_months.json">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_con_piu_token_staccati_last_six_months.json"/>
+<dcatapit:Distribution rdf:about="https://github.com/italia/pdnd-opendata/tree/main/data/eservice_con_piu_token_staccati_last_six_month.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/italia/pdnd-opendata/main/data/eservice_con_piu_token_staccati_last_six_month.json"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>

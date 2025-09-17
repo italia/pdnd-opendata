@@ -16,3 +16,4 @@
 | date  | datetime     | Data di adesione dell'ente           | YYYY-MM-dd |
 | count | number       | Numero di adesioni                   |            |
 
+Questi dati sono disponibili anche in formato json.

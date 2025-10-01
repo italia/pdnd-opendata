@@ -15,6 +15,7 @@ id,name,count,producerName
 1,Altre Pubbliche Amministrazioni locali,2.0,Comunita' Montana Castelli Romani - Prenestini
 1,Altre Pubbliche Amministrazioni locali,5.0,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"
 2,Aziende sanitarie locali e Strutture di ricovero,5.0,A.O.U. San Luigi Gonzaga
+3,Comuni,5.0,Comune di Prali
 3,Comuni,5.0,Comune di Treviso
 3,Comuni,5.0,Comune di Cortale
 3,Comuni,5.0,Comune di Olmedo
@@ -24,15 +25,14 @@ id,name,count,producerName
 3,Comuni,6.0,Comune di Pavia
 3,Comuni,6.0,Comune di Calvanico
 3,Comuni,6.0,Comune di Moncalieri
-3,Comuni,6.0,Comune di Casoria
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,2.0,Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro - INAIL
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,16.0,Istituto Nazionale Previdenza Sociale - INPS
 5,Province e Città Metropolitane,1.0,Provincia di Padova
 6,Altre Pubbliche Amministrazioni Centrali,1.0,Consorzio Intercomunale Dei Servizi Ed Interventi Sociali Valle del Tevere
 6,Altre Pubbliche Amministrazioni Centrali,2.0,Ispettorato Nazionale del Lavoro
 6,Altre Pubbliche Amministrazioni Centrali,5.0,Istituto Superiore per la Protezione e la Ricerca Ambientale
+7,Regioni e Province Autonome,2.0,Regione Lombardia
 7,Regioni e Province Autonome,8.0,Regione Liguria
-7,Regioni e Province Autonome,9.0,Provincia Autonoma di Bolzano
 7,Regioni e Province Autonome,11.0,Regione Calabria
 7,Regioni e Province Autonome,13.0,Regione Basilicata
 7,Regioni e Province Autonome,30.0,Regione Autonoma Valle D'Aosta
@@ -57,10 +57,10 @@ id,name,count,producerName
 11,Enti privati,,
 12,Pubbliche Amministrazioni Centrali,1.0,Autorita Garante della Concorrenza e del Mercato
 12,Pubbliche Amministrazioni Centrali,1.0,Ministero dell'istruzione e del merito
-12,Pubbliche Amministrazioni Centrali,1.0,Ministero delle infrastrutture e dei trasporti
+12,Pubbliche Amministrazioni Centrali,2.0,Autorita' Nazionale Anticorruzione - A.N.AC.
 12,Pubbliche Amministrazioni Centrali,2.0,Agenzia del Demanio
 12,Pubbliche Amministrazioni Centrali,2.0,Istituto centrale per la digitalizzazione del patrimonio culturale - Digital Library - Ministero della Cultura
-12,Pubbliche Amministrazioni Centrali,3.0,Autorita' Nazionale Anticorruzione - A.N.AC.
+12,Pubbliche Amministrazioni Centrali,3.0,Ministero delle infrastrutture e dei trasporti
 12,Pubbliche Amministrazioni Centrali,7.0,Agenzia delle Entrate
 12,Pubbliche Amministrazioni Centrali,15.0,Agenzia per L'Italia Digitale
 12,Pubbliche Amministrazioni Centrali,17.0,Ministero del Lavoro e delle Politiche Sociali

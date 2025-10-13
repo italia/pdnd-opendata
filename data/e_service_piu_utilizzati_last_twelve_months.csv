@@ -49,11 +49,11 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,1,Altre Pubbliche Amministrazioni locali,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",9.0
 0,Totale,1,Altre Pubbliche Amministrazioni locali,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,5.0
 0,Totale,1,Altre Pubbliche Amministrazioni locali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,44.0
-0,Totale,10,Università e AFAM,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2.0
 0,Totale,10,Università e AFAM,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,18.0
 0,Totale,10,Università e AFAM,Consultazione Attestazione ISEE,Istituto Nazionale Previdenza Sociale - INPS,8.0
 0,Totale,10,Università e AFAM,C009-servizioVerificaDichStatoFamiglia-approvazione_automati,Ministero dell'Interno,2.0
 0,Totale,10,Università e AFAM,ANIST - Accertamento Titoli,Ministero dell'istruzione e del merito,2.0
+0,Totale,10,Università e AFAM,Consultazione iscrizioni accademiche (IFS02),Universita Degli Studi di Milano,2.0
 0,Totale,10,Università e AFAM,Consultazione Indicatore ISEE,Istituto Nazionale Previdenza Sociale - INPS,2.0
 0,Totale,10,Università e AFAM,VCF1 - Verifica Booleana Codice Fiscale ,Agenzia delle Entrate,5.0
 0,Totale,10,Università e AFAM,Consultazione iscrizioni accademiche (IFS02),Universita' degli Studi di Roma La Sapienza,2.0
@@ -317,7 +317,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 7,Regioni e Province Autonome,0,Totale,Ricerca listini impianti e erogazione carburanti,Regione Autonoma Friuli-Venezia Giulia,1.0
 7,Regioni e Province Autonome,0,Totale,Consultazione movimenti turistici,Regione Autonoma Friuli-Venezia Giulia,1.0
 7,Regioni e Province Autonome,0,Totale,SACER - Recupero Stato Conservazione Unità Documentaria,Regione Emilia-Romagna,1.0
-7,Regioni e Province Autonome,0,Totale,Spese per missione - rendiconto,Regione Autonoma della Sardegna,1.0
+7,Regioni e Province Autonome,0,Totale,Consultazione Tribunali,Regione Toscana,1.0
 7,Regioni e Province Autonome,0,Totale,RM-CO-001 Comunicazioni obbligatorie Regione Marche,Regione Marche,2.0
 7,Regioni e Province Autonome,0,Totale,ComObblWS,Regione Toscana,2.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,6065.0
@@ -355,10 +355,10 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 10,Università e AFAM,1,Altre Pubbliche Amministrazioni locali,Rettifica titoli accademici (IFS05),Universita' del Salento,1.0
 10,Università e AFAM,10,Università e AFAM,Consultazione variazioni iscrizioni accademiche (IFS06),Universita Degli Studi di Milano,1.0
 10,Università e AFAM,10,Università e AFAM,Consultazione titoli accademici (IFS03),Accademia di Belle Arti di Catania,1.0
+10,Università e AFAM,10,Università e AFAM,Consultazione titoli accademici (IFS03),Universita Degli Studi di Milano,2.0
+10,Università e AFAM,10,Università e AFAM,Consultazione iscrizioni accademiche (IFS02),Universita Degli Studi di Milano,2.0
 10,Università e AFAM,10,Università e AFAM,Rettifica iscrizioni accademiche (IFS04),Universita' degli Studi di Palermo,1.0
 10,Università e AFAM,10,Università e AFAM,Consultazione iscrizioni accademiche (IFS02),Universita' degli Studi di Sassari,2.0
-10,Università e AFAM,10,Università e AFAM,Consultazione variazioni titoli accademici (IFS07),Universita Degli Studi di Genova,1.0
-10,Università e AFAM,10,Università e AFAM,Consultazione offerta formativa (IFS01),Conservatorio Statale di Musica G. Frescobaldi,1.0
 10,Università e AFAM,10,Università e AFAM,Rettifica iscrizioni accademiche (IFS04),Universita' degli Studi di Sassari,1.0
 10,Università e AFAM,10,Università e AFAM,Consultazione iscrizioni accademiche (IFS02),Conservatorio di Salerno,1.0
 10,Università e AFAM,10,Università e AFAM,Consultazione iscrizioni accademiche (IFS02),Universita' degli Studi di Roma La Sapienza,2.0
@@ -378,7 +378,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 10,Università e AFAM,0,Totale,Rettifica titoli accademici (IFS05),Universita' Politecnica delle Marche,2.0
 10,Università e AFAM,0,Totale,Consultazione offerta formativa (IFS01),Universita' del Salento,2.0
 10,Università e AFAM,0,Totale,Consultazione offerta formativa (IFS01),Universita' degli Studi di Parma,2.0
-10,Università e AFAM,0,Totale,Consultazione offerta formativa (IFS01),Universita' Politecnica delle Marche,2.0
+10,Università e AFAM,0,Totale,Consultazione titoli accademici (IFS03),Universita Degli Studi di Milano,2.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,393.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,198.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,604.0

@@ -1970,7 +1970,7 @@
 
 
         
-<dcatapit:Organization rdf:about="https://innovazione.gov.it">
+<dcatapit:Organization rdf:about="https://www.interop.pagopa.it/numeri">
   <rdf:type rdf:resource="vcard:Organization"/>
   <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
   <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Kind"/>
@@ -1978,7 +1978,7 @@
   <rdf:type rdf:resource="vcard:Kind"/>
   <vcard:fn>PCM - Dipartimento per la trasformazione digitale</vcard:fn>
   <vcard:hasEmail rdf:resource="opendata@pagopa.it"/>
-  <vcard:hasURL rdf:resource="https://innovazione.gov.it"/>
+  <vcard:hasURL rdf:resource="https://www.interop.pagopa.it/numeri"/>
 </dcatapit:Organization>
     
 </rdf:RDF>

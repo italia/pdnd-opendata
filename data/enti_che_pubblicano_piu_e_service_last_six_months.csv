@@ -1,7 +1,7 @@
 id,name,count,producerName
 0,Totale,8.0,Conservatorio di Musica Arrigo Pedrollo di Vicenza
+0,Totale,9.0,Regione Autonoma Friuli-Venezia Giulia
 0,Totale,10.0,Conservatorio di Musica Giuseppe Verdi di Milano
-0,Totale,10.0,Regione Autonoma Friuli-Venezia Giulia
 0,Totale,18.0,Regione Autonoma Valle D'Aosta
 0,Totale,22.0,Regione Molise
 0,Totale,24.0,Istituto Nazionale Previdenza Sociale - INPS
@@ -11,11 +11,10 @@ id,name,count,producerName
 0,Totale,38.0,Ministero del Lavoro e delle Politiche Sociali
 1,Altre Pubbliche Amministrazioni locali,1.0,Itaca- Istituto per L'Innovazione e Trasparenza Degli Appalti e La Compatibilita Ambientale
 1,Altre Pubbliche Amministrazioni locali,1.0,Azienda Speciale per I Servizi Sociali del Comune di Montesilvano
-1,Altre Pubbliche Amministrazioni locali,1.0,Unione Dei Comuni Delle Terre del Sole
 1,Altre Pubbliche Amministrazioni locali,2.0,Comunita' Montana Castelli Romani - Prenestini
+1,Altre Pubbliche Amministrazioni locali,3.0,Unione Dei Comuni Delle Terre del Sole
 1,Altre Pubbliche Amministrazioni locali,5.0,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"
 2,Aziende sanitarie locali e Strutture di ricovero,5.0,A.O.U. San Luigi Gonzaga
-3,Comuni,5.0,Comune di Rimini
 3,Comuni,5.0,Comune di Potenza
 3,Comuni,5.0,Comune di Prali
 3,Comuni,5.0,Comune di Treviso
@@ -23,6 +22,7 @@ id,name,count,producerName
 3,Comuni,5.0,Comune di Olmedo
 3,Comuni,6.0,Comune di Venezia
 3,Comuni,6.0,Comune di Pavia
+3,Comuni,6.0,Comune di Rimini
 3,Comuni,6.0,Comune di Calvanico
 3,Comuni,6.0,Comune di Moncalieri
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,2.0,Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro - INAIL
@@ -35,7 +35,7 @@ id,name,count,producerName
 7,Regioni e Province Autonome,2.0,Provincia Autonoma di Trento
 7,Regioni e Province Autonome,2.0,Regione Lombardia
 7,Regioni e Province Autonome,4.0,Regione Liguria
-7,Regioni e Province Autonome,10.0,Regione Autonoma Friuli-Venezia Giulia
+7,Regioni e Province Autonome,9.0,Regione Autonoma Friuli-Venezia Giulia
 7,Regioni e Province Autonome,18.0,Regione Autonoma Valle D'Aosta
 7,Regioni e Province Autonome,22.0,Regione Molise
 7,Regioni e Province Autonome,27.0,Regione Basilicata

@@ -4,11 +4,11 @@ id,name,count,producerName
 0,Totale,10.0,Conservatorio di Musica Giuseppe Verdi di Milano
 0,Totale,12.0,Regione Autonoma Friuli-Venezia Giulia
 0,Totale,24.0,Dipartimento della Funzione Pubblica
-0,Totale,25.0,Istituto Nazionale Previdenza Sociale - INPS
 0,Totale,27.0,Regione Basilicata
-0,Totale,31.0,Regione Campania
-0,Totale,37.0,Regione Puglia
-0,Totale,38.0,Ministero del Lavoro e delle Politiche Sociali
+0,Totale,31.0,Istituto Nazionale Previdenza Sociale - INPS
+0,Totale,34.0,Regione Puglia
+0,Totale,35.0,Regione Campania
+0,Totale,42.0,Ministero del Lavoro e delle Politiche Sociali
 1,Altre Pubbliche Amministrazioni locali,1.0,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"
 1,Altre Pubbliche Amministrazioni locali,2.0,Comunita' Montana Castelli Romani - Prenestini
 1,Altre Pubbliche Amministrazioni locali,3.0,Unione Dei Comuni Delle Terre del Sole
@@ -27,9 +27,10 @@ id,name,count,producerName
 3,Comuni,7.0,Comune di Potenza
 3,Comuni,7.0,Comune di Latina
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,2.0,Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro - INAIL
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,25.0,Istituto Nazionale Previdenza Sociale - INPS
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,31.0,Istituto Nazionale Previdenza Sociale - INPS
 5,Province e Città Metropolitane,1.0,Provincia di Padova
 5,Province e Città Metropolitane,1.0,Citta' Metropolitana di Genova
+6,Altre Pubbliche Amministrazioni Centrali,1.0,Ispettorato Nazionale del Lavoro
 6,Altre Pubbliche Amministrazioni Centrali,4.0,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri
 6,Altre Pubbliche Amministrazioni Centrali,5.0,Agenzia per le Erogazioni in Agricoltura - AGEA
 6,Altre Pubbliche Amministrazioni Centrali,5.0,Istituto Superiore per la Protezione e la Ricerca Ambientale
@@ -41,8 +42,8 @@ id,name,count,producerName
 7,Regioni e Province Autonome,4.0,Regione Lombardia
 7,Regioni e Province Autonome,12.0,Regione Autonoma Friuli-Venezia Giulia
 7,Regioni e Province Autonome,27.0,Regione Basilicata
-7,Regioni e Province Autonome,31.0,Regione Campania
-7,Regioni e Province Autonome,37.0,Regione Puglia
+7,Regioni e Province Autonome,34.0,Regione Puglia
+7,Regioni e Province Autonome,35.0,Regione Campania
 8,Scuole,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,,
 10,Università e AFAM,7.0,Conservatorio Statale di Musica Cesare Pollini
@@ -54,9 +55,10 @@ id,name,count,producerName
 12,Pubbliche Amministrazioni Centrali,1.0,Agenzia delle Entrate
 12,Pubbliche Amministrazioni Centrali,1.0,Ministero dell'istruzione e del merito
 12,Pubbliche Amministrazioni Centrali,1.0,Agenzia delle Dogane e dei Monopoli
-12,Pubbliche Amministrazioni Centrali,1.0,Ministero dell'Interno
+12,Pubbliche Amministrazioni Centrali,1.0,MINISTERO DELL'UNIVERSITA' E DELLA RICERCA
 12,Pubbliche Amministrazioni Centrali,2.0,Istituto centrale per la digitalizzazione del patrimonio culturale - Digital Library - Ministero della Cultura
 12,Pubbliche Amministrazioni Centrali,3.0,Autorita' Nazionale Anticorruzione - A.N.AC.
 12,Pubbliche Amministrazioni Centrali,3.0,Ministero delle infrastrutture e dei trasporti
+12,Pubbliche Amministrazioni Centrali,3.0,Ministero dell'Interno
 12,Pubbliche Amministrazioni Centrali,24.0,Dipartimento della Funzione Pubblica
-12,Pubbliche Amministrazioni Centrali,38.0,Ministero del Lavoro e delle Politiche Sociali
+12,Pubbliche Amministrazioni Centrali,42.0,Ministero del Lavoro e delle Politiche Sociali

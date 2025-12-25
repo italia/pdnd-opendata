@@ -1,12 +1,12 @@
 id,name,count,producerName
-0,Totale,7.0,Conservatorio Statale di Musica Cesare Pollini
 0,Totale,8.0,Conservatorio di Musica Arrigo Pedrollo di Vicenza
 0,Totale,9.0,Conservatorio Statale di Musica Guido Cantelli
+0,Totale,10.0,Istituto Superiore per la Protezione e la Ricerca Ambientale
 0,Totale,12.0,Regione Autonoma Friuli-Venezia Giulia
 0,Totale,24.0,Dipartimento della Funzione Pubblica
 0,Totale,27.0,Regione Basilicata
-0,Totale,31.0,Regione Marche
 0,Totale,31.0,Istituto Nazionale Previdenza Sociale - INPS
+0,Totale,35.0,Regione Marche
 0,Totale,35.0,Regione Campania
 0,Totale,42.0,Ministero del Lavoro e delle Politiche Sociali
 1,Altre Pubbliche Amministrazioni locali,1.0,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"
@@ -16,9 +16,9 @@ id,name,count,producerName
 2,Aziende sanitarie locali e Strutture di ricovero,2.0,Azienda Sanitaria Provinciale di Vibo Valentia
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Socio Sanitaria Territoriale di Mantova
 2,Aziende sanitarie locali e Strutture di ricovero,5.0,A.O.U. San Luigi Gonzaga
+3,Comuni,5.0,Comune di Olmedo
 3,Comuni,6.0,Comune di Carinaro
 3,Comuni,6.0,Comune di Venezia
-3,Comuni,6.0,Comune di Rimini
 3,Comuni,6.0,Comune di Castelnuovo del Garda
 3,Comuni,6.0,Comune di Calvanico
 3,Comuni,6.0,Comune di Moncalieri
@@ -29,11 +29,12 @@ id,name,count,producerName
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,2.0,Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro - INAIL
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,31.0,Istituto Nazionale Previdenza Sociale - INPS
 5,Province e Città Metropolitane,1.0,Provincia di Padova
+5,Province e Città Metropolitane,1.0,Citta' Metropolitana di Milano
 5,Province e Città Metropolitane,1.0,Citta' Metropolitana di Genova
 6,Altre Pubbliche Amministrazioni Centrali,1.0,Ispettorato Nazionale del Lavoro
 6,Altre Pubbliche Amministrazioni Centrali,4.0,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri
 6,Altre Pubbliche Amministrazioni Centrali,5.0,Agenzia per le Erogazioni in Agricoltura - AGEA
-6,Altre Pubbliche Amministrazioni Centrali,5.0,Istituto Superiore per la Protezione e la Ricerca Ambientale
+6,Altre Pubbliche Amministrazioni Centrali,10.0,Istituto Superiore per la Protezione e la Ricerca Ambientale
 7,Regioni e Province Autonome,1.0,Regione Toscana
 7,Regioni e Province Autonome,2.0,Regione Autonoma Valle D'Aosta
 7,Regioni e Province Autonome,2.0,Provincia Autonoma di Trento
@@ -41,8 +42,8 @@ id,name,count,producerName
 7,Regioni e Province Autonome,4.0,Regione Lombardia
 7,Regioni e Province Autonome,12.0,Regione Autonoma Friuli-Venezia Giulia
 7,Regioni e Province Autonome,27.0,Regione Basilicata
-7,Regioni e Province Autonome,31.0,Regione Marche
 7,Regioni e Province Autonome,35.0,Regione Campania
+7,Regioni e Province Autonome,35.0,Regione Marche
 8,Scuole,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,3.0,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A."""
 10,Università e AFAM,7.0,Conservatorio Statale di Musica Cesare Pollini

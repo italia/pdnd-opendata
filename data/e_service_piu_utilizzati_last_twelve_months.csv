@@ -10,7 +10,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,12,Pubbliche Amministrazioni Centrali,RGS - SIBI - Invio disposizioni - ricezione,Ministero dell'Economia e delle Finanze,5.0
 0,Totale,12,Pubbliche Amministrazioni Centrali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,10.0
 0,Totale,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,462.0
-0,Totale,3,Comuni,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,1429.0
+0,Totale,3,Comuni,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,1433.0
 0,Totale,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,6524.0
 0,Totale,3,Comuni,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,348.0
 0,Totale,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,739.0
@@ -29,16 +29,6 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,9,Stazioni Appaltanti e Gestori di pubblici servizi,C007–ServizioVerificaDichEsistenzaVita-approvazione_automati,Ministero dell'Interno,9.0
 0,Totale,9,Stazioni Appaltanti e Gestori di pubblici servizi,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,11.0
 0,Totale,9,Stazioni Appaltanti e Gestori di pubblici servizi,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,31.0
-0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Lettura dati dal PNS,Ispettorato Nazionale del Lavoro,2.0
-0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WaaS Welfare as a Service trasmissione dati al SIUSS,Comune di Porto Viro,1.0
-0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WAAS SIUSS Alimentazione,Comune di Marcon,1.0
-0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Servizio di collegamento imprese/PDND - Callback documenti,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",2.0
-0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WAAS-SIUSS-Alimentazione,Comune di Ranica,1.0
-0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,ANIS - Consultazione Iscrizioni [IFS02],MINISTERO DELL'UNIVERSITA' E DELLA RICERCA,1.0
-0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WAAS SIUSS Alimentazione,Comune di Teglio Veneto,1.0
-0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Invio dati al PNS,Ispettorato Nazionale del Lavoro,2.0
-0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Welfare as a Service per i Comuni - (WaaS per i Comuni),Comune di Fano,1.0
-0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WAAS SIUSS Alimentazione,Comune di Marostica,1.0
 0,Totale,2,Aziende sanitarie locali e Strutture di ricovero,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3.0
 0,Totale,2,Aziende sanitarie locali e Strutture di ricovero,C020-servizioAccertamentoResidenza,Ministero dell'Interno,2.0
 0,Totale,2,Aziende sanitarie locali e Strutture di ricovero,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,4.0
@@ -49,6 +39,16 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,2,Aziende sanitarie locali e Strutture di ricovero,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,1.0
 0,Totale,2,Aziende sanitarie locali e Strutture di ricovero,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,8.0
 0,Totale,2,Aziende sanitarie locali e Strutture di ricovero,C006-servizioVerificaDichCittadinanza-approvazione_automatic,Ministero dell'Interno,3.0
+0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Lettura dati dal PNS,Ispettorato Nazionale del Lavoro,2.0
+0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WaaS Welfare as a Service trasmissione dati al SIUSS,Comune di Porto Viro,1.0
+0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WAAS SIUSS Alimentazione,Comune di Marcon,1.0
+0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Servizio di collegamento imprese/PDND - Callback documenti,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",2.0
+0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WAAS-SIUSS-Alimentazione,Comune di Ranica,1.0
+0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,ANIS - Consultazione Iscrizioni [IFS02],MINISTERO DELL'UNIVERSITA' E DELLA RICERCA,1.0
+0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WAAS SIUSS Alimentazione,Comune di Teglio Veneto,1.0
+0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Invio dati al PNS,Ispettorato Nazionale del Lavoro,2.0
+0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Welfare as a Service per i Comuni - (WaaS per i Comuni),Comune di Fano,1.0
+0,Totale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WAAS SIUSS Alimentazione,Comune di Marostica,1.0
 0,Totale,1,Altre Pubbliche Amministrazioni locali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,16.0
 0,Totale,1,Altre Pubbliche Amministrazioni locali,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,10.0
 0,Totale,1,Altre Pubbliche Amministrazioni locali,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,6.0
@@ -103,7 +103,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,11,Enti privati,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,16.0
 0,Totale,11,Enti privati,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,18.0
 0,Totale,11,Enti privati,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,19.0
-0,Totale,11,Enti privati,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,81.0
+0,Totale,11,Enti privati,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,82.0
 0,Totale,11,Enti privati,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,14.0
 0,Totale,11,Enti privati,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,18.0
 0,Totale,11,Enti privati,PCP - Pianificazione appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,13.0
@@ -111,7 +111,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,11,Enti privati,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,14.0
 0,Totale,8,Scuole,ANIS - Consultazione Titoli [IFS03],MINISTERO DELL'UNIVERSITA' E DELLA RICERCA,1.0
 0,Totale,0,Totale,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,464.0
-0,Totale,0,Totale,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,1429.0
+0,Totale,0,Totale,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,1433.0
 0,Totale,0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,6596.0
 0,Totale,0,Totale,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,348.0
 0,Totale,0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,814.0
@@ -135,10 +135,10 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 1,Altre Pubbliche Amministrazioni locali,9,Stazioni Appaltanti e Gestori di pubblici servizi,CATALOGO - METADATI,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
 1,Altre Pubbliche Amministrazioni locali,9,Stazioni Appaltanti e Gestori di pubblici servizi,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",3.0
 1,Altre Pubbliche Amministrazioni locali,9,Stazioni Appaltanti e Gestori di pubblici servizi,CATALOGO - GESTIONE ISTANZA - ENTI TERZI,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
+1,Altre Pubbliche Amministrazioni locali,2,Aziende sanitarie locali e Strutture di ricovero,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
 1,Altre Pubbliche Amministrazioni locali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Servizio di collegamento imprese/PDND - Callback documenti,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",2.0
 1,Altre Pubbliche Amministrazioni locali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Welfare as a Service per i Comuni - (WaaS per i Comuni),Azienda Speciale per I Servizi Sociali del Comune di Montesilvano,1.0
 1,Altre Pubbliche Amministrazioni locali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
-1,Altre Pubbliche Amministrazioni locali,2,Aziende sanitarie locali e Strutture di ricovero,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
 1,Altre Pubbliche Amministrazioni locali,1,Altre Pubbliche Amministrazioni locali,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",3.0
 1,Altre Pubbliche Amministrazioni locali,1,Altre Pubbliche Amministrazioni locali,SGDBI,Itaca- Istituto per L'Innovazione e Trasparenza Degli Appalti e La Compatibilita Ambientale,1.0
 1,Altre Pubbliche Amministrazioni locali,1,Altre Pubbliche Amministrazioni locali,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",11.0
@@ -151,11 +151,11 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 1,Altre Pubbliche Amministrazioni locali,5,Province e Città Metropolitane,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
 1,Altre Pubbliche Amministrazioni locali,11,Enti privati,,,
 1,Altre Pubbliche Amministrazioni locali,8,Scuole,,,
+1,Altre Pubbliche Amministrazioni locali,0,Totale,I1G - SSU BO to ET,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
 1,Altre Pubbliche Amministrazioni locali,0,Totale,Servizio di collegamento imprese/PDND - Callback documenti,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",4.0
 1,Altre Pubbliche Amministrazioni locali,0,Totale,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",55.0
 1,Altre Pubbliche Amministrazioni locali,0,Totale,CATALOGO - METADATI,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
 1,Altre Pubbliche Amministrazioni locali,0,Totale,Ricezione CO,Agenzia Regionale per Le Politiche Attive del Lavoro - Arpal Umbria,1.0
-1,Altre Pubbliche Amministrazioni locali,0,Totale,CATALOGO - GESTIONE ISTANZA - BACKOFFICE,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
 1,Altre Pubbliche Amministrazioni locali,0,Totale,SGDBI,Itaca- Istituto per L'Innovazione e Trasparenza Degli Appalti e La Compatibilita Ambientale,1.0
 1,Altre Pubbliche Amministrazioni locali,0,Totale,Welfare as a Service per i Comuni - (WaaS per i Comuni),Azienda Speciale per I Servizi Sociali del Comune di Montesilvano,1.0
 1,Altre Pubbliche Amministrazioni locali,0,Totale,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",255.0
@@ -164,9 +164,9 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 2,Aziende sanitarie locali e Strutture di ricovero,12,Pubbliche Amministrazioni Centrali,,,
 2,Aziende sanitarie locali e Strutture di ricovero,3,Comuni,,,
 2,Aziende sanitarie locali e Strutture di ricovero,9,Stazioni Appaltanti e Gestori di pubblici servizi,,,
-2,Aziende sanitarie locali e Strutture di ricovero,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
 2,Aziende sanitarie locali e Strutture di ricovero,2,Aziende sanitarie locali e Strutture di ricovero,Tempi attesa pronto soccorso,Azienda Sanitaria Provinciale di Vibo Valentia,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,2,Aziende sanitarie locali e Strutture di ricovero,Posti letto per reparto,Azienda Sanitaria Provinciale di Vibo Valentia,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
 2,Aziende sanitarie locali e Strutture di ricovero,1,Altre Pubbliche Amministrazioni locali,,,
 2,Aziende sanitarie locali e Strutture di ricovero,10,Università e AFAM,,,
 2,Aziende sanitarie locali e Strutture di ricovero,7,Regioni e Province Autonome,,,
@@ -192,6 +192,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 3,Comuni,9,Stazioni Appaltanti e Gestori di pubblici servizi,Dichiarazioni TARI,Comune di Anzio,1.0
 3,Comuni,9,Stazioni Appaltanti e Gestori di pubblici servizi,Autorizzazioni Imposta Comunale sulla Pubblicità,Comune di Anzio,1.0
 3,Comuni,9,Stazioni Appaltanti e Gestori di pubblici servizi,Concessioni occupazioni suolo pubblico,Comune di Anzio,1.0
+3,Comuni,2,Aziende sanitarie locali e Strutture di ricovero,,,
 3,Comuni,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WaaS Welfare as a Service trasmissione dati al SIUSS,Comune di Porto Viro,1.0
 3,Comuni,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WAAS SIUSS Alimentazione,Comune di Marcon,1.0
 3,Comuni,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WAAS-SIUSS-Alimentazione,Comune di Sasso Marconi,1.0
@@ -202,7 +203,6 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 3,Comuni,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WAAS SIUSS Alimentazione,Comune di Teglio Veneto,1.0
 3,Comuni,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Welfare as a Service per i Comuni - (WaaS per i Comuni),Comune di Fano,1.0
 3,Comuni,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WAAS SIUSS Alimentazione,Comune di Marostica,1.0
-3,Comuni,2,Aziende sanitarie locali e Strutture di ricovero,,,
 3,Comuni,1,Altre Pubbliche Amministrazioni locali,,,
 3,Comuni,10,Università e AFAM,,,
 3,Comuni,7,Regioni e Province Autonome,dati-mercatali-comune-torino,Comune di Torino,1.0
@@ -211,7 +211,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 3,Comuni,11,Enti privati,Personale,Comune di Rapallo,1.0
 3,Comuni,11,Enti privati,Albo Pretorio,Comune di Rapallo,1.0
 3,Comuni,8,Scuole,,,
-3,Comuni,0,Totale,WAAS-SIUSS-Alimentazione,Comune di Sennori,2.0
+3,Comuni,0,Totale,SIUSS,Comune di Prato,2.0
 3,Comuni,0,Totale,WAAS-SIUSS-Alimentazione,Comune di Concordia Sagittaria,2.0
 3,Comuni,0,Totale,WAAS-SIUSS-Alimentazione,Comune di Paderno Dugnano,2.0
 3,Comuni,0,Totale,WAAS-SIUSS-Alimentazione,Comune di Erula,2.0
@@ -242,8 +242,8 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,3,Comuni,waas-consultazione-pensione-cittadinanza,Istituto Nazionale Previdenza Sociale - INPS,2.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,3,Comuni,Consultazione Indicatore Residenti ISEE,Istituto Nazionale Previdenza Sociale - INPS,27.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,9,Stazioni Appaltanti e Gestori di pubblici servizi,EDCperITWALLET,Istituto Nazionale Previdenza Sociale - INPS,1.0
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,2,Aziende sanitarie locali e Strutture di ricovero,,,
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,1,Altre Pubbliche Amministrazioni locali,Consultazione Attestazione ISEE,Istituto Nazionale Previdenza Sociale - INPS,2.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,1,Altre Pubbliche Amministrazioni locali,Richiesta Certificato del Debito,Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro - INAIL,1.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,1,Altre Pubbliche Amministrazioni locali,Richieste CDC,Istituto Nazionale Previdenza Sociale - INPS,1.0
@@ -265,8 +265,8 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Totale,Consultazione Indicatore ISEE,Istituto Nazionale Previdenza Sociale - INPS,15.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Totale,waas-consultazione-assegno-mensile,Istituto Nazionale Previdenza Sociale - INPS,2.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Totale,waas-consultazione-assegno-sociale,Istituto Nazionale Previdenza Sociale - INPS,2.0
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Totale,waas-consultazione-reddito-cittadinanza,Istituto Nazionale Previdenza Sociale - INPS,2.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Totale,Consultazione Attestazione Residenti ISEE,Istituto Nazionale Previdenza Sociale - INPS,108.0
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Totale,waas-consultazione-pensione-cittadinanza,Istituto Nazionale Previdenza Sociale - INPS,2.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Totale,Consultazione Indicatore Residenti ISEE,Istituto Nazionale Previdenza Sociale - INPS,27.0
 6,Altre Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,Lettura dati dal PNS,Ispettorato Nazionale del Lavoro,1.0
 6,Altre Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,Rendis,Istituto Superiore per la Protezione e la Ricerca Ambientale,1.0
@@ -275,11 +275,11 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 6,Altre Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,Invio dati al PNS,Ispettorato Nazionale del Lavoro,2.0
 6,Altre Pubbliche Amministrazioni Centrali,3,Comuni,,,
 6,Altre Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,,,
+6,Altre Pubbliche Amministrazioni Centrali,2,Aziende sanitarie locali e Strutture di ricovero,,,
 6,Altre Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Lettura dati dal PNS,Ispettorato Nazionale del Lavoro,2.0
 6,Altre Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Ottieni Ultima Scheda di Validazione,Agenzia per le Erogazioni in Agricoltura - AGEA,1.0
 6,Altre Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Welfare as a Service per i Comuni - (WaaS per i Comuni),Consorzio Intercomunale Dei Servizi Ed Interventi Sociali Valle del Tevere,1.0
 6,Altre Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Invio dati al PNS,Ispettorato Nazionale del Lavoro,2.0
-6,Altre Pubbliche Amministrazioni Centrali,2,Aziende sanitarie locali e Strutture di ricovero,,,
 6,Altre Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,,,
 6,Altre Pubbliche Amministrazioni Centrali,10,Università e AFAM,,,
 6,Altre Pubbliche Amministrazioni Centrali,7,Regioni e Province Autonome,,,
@@ -319,8 +319,8 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 7,Regioni e Province Autonome,3,Comuni,ICEF indicatore famiglia con nucleo,Provincia Autonoma di Trento,1.0
 7,Regioni e Province Autonome,3,Comuni,RL-Sigmater Consultazione UIU,Regione Liguria,1.0
 7,Regioni e Province Autonome,9,Stazioni Appaltanti e Gestori di pubblici servizi,,,
-7,Regioni e Province Autonome,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
 7,Regioni e Province Autonome,2,Aziende sanitarie locali e Strutture di ricovero,,,
+7,Regioni e Province Autonome,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
 7,Regioni e Province Autonome,1,Altre Pubbliche Amministrazioni locali,,,
 7,Regioni e Province Autonome,10,Università e AFAM,,,
 7,Regioni e Province Autonome,7,Regioni e Province Autonome,Consultazione pubblicazioni tipologia tempestività pagamenti,Regione Molise,1.0
@@ -356,8 +356,8 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 9,Stazioni Appaltanti e Gestori di pubblici servizi,9,Stazioni Appaltanti e Gestori di pubblici servizi,Pubblicazione mappe infrastrutturali (WMS) - SINFI,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A.""",1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,9,Stazioni Appaltanti e Gestori di pubblici servizi,Conferimento dati infrastrutturali - SINFI,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A.""",1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,9,Stazioni Appaltanti e Gestori di pubblici servizi,Documenti su IO - Statistiche andamento servizio,Istituto Poligrafico e Zecca dello Stato S.P.A.,1.0
-9,Stazioni Appaltanti e Gestori di pubblici servizi,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,2,Aziende sanitarie locali e Strutture di ricovero,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,1,Altre Pubbliche Amministrazioni locali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,16.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,10,Università e AFAM,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,2.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,7,Regioni e Province Autonome,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,5.0
@@ -384,8 +384,8 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 10,Università e AFAM,12,Pubbliche Amministrazioni Centrali,Consultazione titoli accademici (IFS03),Conservatorio Statale di Musica Paganini di Genova,1.0
 10,Università e AFAM,3,Comuni,,,
 10,Università e AFAM,9,Stazioni Appaltanti e Gestori di pubblici servizi,,,
-10,Università e AFAM,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
 10,Università e AFAM,2,Aziende sanitarie locali e Strutture di ricovero,,,
+10,Università e AFAM,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
 10,Università e AFAM,1,Altre Pubbliche Amministrazioni locali,Consultazione offerta formativa (IFS01),Universita' degli Studi di Trento,1.0
 10,Università e AFAM,1,Altre Pubbliche Amministrazioni locali,Rettifica titoli accademici (IFS05),Universita' degli Studi di Bari Aldo Moro,1.0
 10,Università e AFAM,1,Altre Pubbliche Amministrazioni locali,Consultazione offerta formativa (IFS01),CONSERVATORIO DI MUSICA S. CECILIA di Roma,1.0
@@ -432,7 +432,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,RGS - SIBI - Invio disposizioni - ricezione,Ministero dell'Economia e delle Finanze,5.0
 12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,10.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,462.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,1429.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,1433.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,348.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,739.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,424.0
@@ -451,16 +451,6 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,11.0
 12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,9.0
 12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,31.0
-12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,C019-servizioAccertamentoEsistenzaVita,Ministero dell'Interno,1.0
-12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,C016-servizioAccertamentoDichDecesso,Ministero dell'Interno,1.0
-12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Consultazione comunicazioni - Unipiattaforme,Ministero del Lavoro e delle Politiche Sociali,1.0
-12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Consultazione decreti CIGS – Omnia,Ministero del Lavoro e delle Politiche Sociali,1.0
-12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,evidence-broker_SDG,Agenzia per L'Italia Digitale,1.0
-12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,ANIS - Consultazione Iscrizioni [IFS02],MINISTERO DELL'UNIVERSITA' E DELLA RICERCA,1.0
-12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,C021-servizioAccertamentoStatoFamiglia,Ministero dell'Interno,1.0
-12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,ElabMassivaVerificaDichEsistenzaInVita,Ministero dell'Interno,1.0
-12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Consultazione comunicazioni - Lavoratore autonomo,Ministero del Lavoro e delle Politiche Sociali,1.0
-12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1.0
 12,Pubbliche Amministrazioni Centrali,2,Aziende sanitarie locali e Strutture di ricovero,C019-servizioAccertamentoEsistenzaVita,Ministero dell'Interno,1.0
 12,Pubbliche Amministrazioni Centrali,2,Aziende sanitarie locali e Strutture di ricovero,C016-servizioAccertamentoDichDecesso,Ministero dell'Interno,1.0
 12,Pubbliche Amministrazioni Centrali,2,Aziende sanitarie locali e Strutture di ricovero,C020-servizioAccertamentoResidenza,Ministero dell'Interno,2.0
@@ -471,6 +461,16 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,2,Aziende sanitarie locali e Strutture di ricovero,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,1.0
 12,Pubbliche Amministrazioni Centrali,2,Aziende sanitarie locali e Strutture di ricovero,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,8.0
 12,Pubbliche Amministrazioni Centrali,2,Aziende sanitarie locali e Strutture di ricovero,C006-servizioVerificaDichCittadinanza-approvazione_automatic,Ministero dell'Interno,3.0
+12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,C019-servizioAccertamentoEsistenzaVita,Ministero dell'Interno,1.0
+12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,C016-servizioAccertamentoDichDecesso,Ministero dell'Interno,1.0
+12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Consultazione comunicazioni - Unipiattaforme,Ministero del Lavoro e delle Politiche Sociali,1.0
+12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Consultazione decreti CIGS – Omnia,Ministero del Lavoro e delle Politiche Sociali,1.0
+12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,evidence-broker_SDG,Agenzia per L'Italia Digitale,1.0
+12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,ANIS - Consultazione Iscrizioni [IFS02],MINISTERO DELL'UNIVERSITA' E DELLA RICERCA,1.0
+12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,C021-servizioAccertamentoStatoFamiglia,Ministero dell'Interno,1.0
+12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,ElabMassivaVerificaDichEsistenzaInVita,Ministero dell'Interno,1.0
+12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Consultazione comunicazioni - Lavoratore autonomo,Ministero del Lavoro e delle Politiche Sociali,1.0
+12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1.0
 12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,10.0
 12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,6.0
 12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,6.0
@@ -525,7 +525,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,11,Enti privati,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,16.0
 12,Pubbliche Amministrazioni Centrali,11,Enti privati,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,18.0
 12,Pubbliche Amministrazioni Centrali,11,Enti privati,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,19.0
-12,Pubbliche Amministrazioni Centrali,11,Enti privati,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,81.0
+12,Pubbliche Amministrazioni Centrali,11,Enti privati,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,82.0
 12,Pubbliche Amministrazioni Centrali,11,Enti privati,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,14.0
 12,Pubbliche Amministrazioni Centrali,11,Enti privati,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,18.0
 12,Pubbliche Amministrazioni Centrali,11,Enti privati,PCP - Pianificazione appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,13.0
@@ -533,12 +533,12 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,11,Enti privati,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,14.0
 12,Pubbliche Amministrazioni Centrali,8,Scuole,ANIS - Consultazione Titoli [IFS03],MINISTERO DELL'UNIVERSITA' E DELLA RICERCA,1.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,464.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,1429.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,1433.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,348.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,814.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,425.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,770.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,374.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1139.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,304.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,305.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,934.0

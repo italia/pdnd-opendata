@@ -5,10 +5,10 @@ id,name,count,producerName
 0,Totale,12.0,Regione Autonoma Friuli-Venezia Giulia
 0,Totale,13.0,Regione Siciliana
 0,Totale,13.0,Ministero del Lavoro e delle Politiche Sociali
-0,Totale,21.0,Regione Basilicata
+0,Totale,20.0,Regione Basilicata
 0,Totale,35.0,Regione Campania
 0,Totale,35.0,Regione Marche
-0,Totale,42.0,Istituto Nazionale Previdenza Sociale - INPS
+0,Totale,43.0,Istituto Nazionale Previdenza Sociale - INPS
 1,Altre Pubbliche Amministrazioni locali,1.0,Consorzio B.I.M. Piave di Treviso
 1,Altre Pubbliche Amministrazioni locali,1.0,Intercent-er Agenzia Regionale per Lo Sviluppo Dei Mercati Telematici
 1,Altre Pubbliche Amministrazioni locali,1.0,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"
@@ -30,12 +30,13 @@ id,name,count,producerName
 3,Comuni,7.0,Comune di San Vincenzo
 3,Comuni,8.0,Comune di Terzigno
 3,Comuni,9.0,Comune di San Giorgio a Cremano
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,42.0,Istituto Nazionale Previdenza Sociale - INPS
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,43.0,Istituto Nazionale Previdenza Sociale - INPS
 5,Province e Città Metropolitane,1.0,Provincia di Arezzo
 5,Province e Città Metropolitane,1.0,Provincia di Padova
 5,Province e Città Metropolitane,1.0,Provincia di Rovigo
 5,Province e Città Metropolitane,1.0,Provincia di Parma
 5,Province e Città Metropolitane,1.0,Citta' Metropolitana di Milano
+5,Province e Città Metropolitane,1.0,Provincia di Mantova
 5,Province e Città Metropolitane,1.0,Provincia di Monza e della Brianza
 5,Province e Città Metropolitane,1.0,Provincia di Modena
 5,Province e Città Metropolitane,1.0,Citta' Metropolitana di Venezia
@@ -46,16 +47,16 @@ id,name,count,producerName
 6,Altre Pubbliche Amministrazioni Centrali,5.0,Istituto Superiore per la Protezione e la Ricerca Ambientale
 7,Regioni e Province Autonome,2.0,Regione Autonoma Valle D'Aosta
 7,Regioni e Province Autonome,2.0,Provincia Autonoma di Trento
-7,Regioni e Province Autonome,4.0,Regione Lombardia
+7,Regioni e Province Autonome,2.0,Regione Lombardia
 7,Regioni e Province Autonome,6.0,Regione Toscana
 7,Regioni e Province Autonome,6.0,Regione Emilia-Romagna
 7,Regioni e Province Autonome,12.0,Regione Autonoma Friuli-Venezia Giulia
 7,Regioni e Province Autonome,13.0,Regione Siciliana
-7,Regioni e Province Autonome,21.0,Regione Basilicata
+7,Regioni e Province Autonome,20.0,Regione Basilicata
 7,Regioni e Province Autonome,35.0,Regione Campania
 7,Regioni e Province Autonome,35.0,Regione Marche
 8,Scuole,,
-9,Stazioni Appaltanti e Gestori di pubblici servizi,,
+9,Stazioni Appaltanti e Gestori di pubblici servizi,3.0,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A."""
 10,Università e AFAM,8.0,Conservatorio di Musica Arrigo Pedrollo di Vicenza
 10,Università e AFAM,9.0,Conservatorio Statale di Musica Guido Cantelli
 11,Enti privati,,

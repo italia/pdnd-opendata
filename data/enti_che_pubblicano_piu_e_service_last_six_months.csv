@@ -1,11 +1,11 @@
 id,name,count,producerName
-0,Totale,8.0,Conservatorio di Musica Arrigo Pedrollo di Vicenza
+0,Totale,8.0,Comune di Terzigno
 0,Totale,9.0,Conservatorio Statale di Musica Guido Cantelli
 0,Totale,9.0,Comune di San Giorgio a Cremano
 0,Totale,12.0,Regione Autonoma Friuli-Venezia Giulia
-0,Totale,13.0,Regione Siciliana
 0,Totale,13.0,Ministero del Lavoro e delle Politiche Sociali
-0,Totale,20.0,Regione Basilicata
+0,Totale,13.0,Regione Siciliana
+0,Totale,21.0,Regione Basilicata
 0,Totale,35.0,Regione Campania
 0,Totale,35.0,Regione Marche
 0,Totale,43.0,Istituto Nazionale Previdenza Sociale - INPS
@@ -13,6 +13,7 @@ id,name,count,producerName
 1,Altre Pubbliche Amministrazioni locali,1.0,Intercent-er Agenzia Regionale per Lo Sviluppo Dei Mercati Telematici
 1,Altre Pubbliche Amministrazioni locali,1.0,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"
 1,Altre Pubbliche Amministrazioni locali,3.0,Unione Dei Comuni Delle Terre del Sole
+1,Altre Pubbliche Amministrazioni locali,4.0,Comunita' Montana dei Laghi Bergamaschi
 2,Aziende sanitarie locali e Strutture di ricovero,2.0,Azienda Sanitaria Friuli Occidentale
 2,Aziende sanitarie locali e Strutture di ricovero,2.0,Azienda Sanitaria Locale BT di Andria
 2,Aziende sanitarie locali e Strutture di ricovero,2.0,Azienda Sanitaria Universitaria Giuliano Isontina
@@ -20,10 +21,10 @@ id,name,count,producerName
 2,Aziende sanitarie locali e Strutture di ricovero,2.0,Azienda Sanitaria Universitaria Friuli Centrale
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Socio Sanitaria Territoriale di Mantova
 2,Aziende sanitarie locali e Strutture di ricovero,5.0,A.O.U. San Luigi Gonzaga
-3,Comuni,6.0,Comune di Bologna
 3,Comuni,6.0,Comune di Mattinata
 3,Comuni,6.0,Comune di Airola
 3,Comuni,6.0,Comune di Afragola
+3,Comuni,7.0,Comune di Venezia
 3,Comuni,7.0,Comune di Potenza
 3,Comuni,7.0,Comune di Latina
 3,Comuni,7.0,Comune di Benevento
@@ -31,11 +32,11 @@ id,name,count,producerName
 3,Comuni,8.0,Comune di Terzigno
 3,Comuni,9.0,Comune di San Giorgio a Cremano
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,43.0,Istituto Nazionale Previdenza Sociale - INPS
-5,Province e Città Metropolitane,1.0,Provincia di Padova
 5,Province e Città Metropolitane,1.0,Provincia di Rovigo
 5,Province e Città Metropolitane,1.0,Provincia di Vicenza
 5,Province e Città Metropolitane,1.0,Provincia di Parma
 5,Province e Città Metropolitane,1.0,Citta' Metropolitana di Milano
+5,Province e Città Metropolitane,1.0,Provincia di Brescia
 5,Province e Città Metropolitane,1.0,Provincia di Mantova
 5,Province e Città Metropolitane,1.0,Provincia di Monza e della Brianza
 5,Province e Città Metropolitane,1.0,Provincia di Modena
@@ -52,7 +53,7 @@ id,name,count,producerName
 7,Regioni e Province Autonome,6.0,Regione Emilia-Romagna
 7,Regioni e Province Autonome,12.0,Regione Autonoma Friuli-Venezia Giulia
 7,Regioni e Province Autonome,13.0,Regione Siciliana
-7,Regioni e Province Autonome,20.0,Regione Basilicata
+7,Regioni e Province Autonome,21.0,Regione Basilicata
 7,Regioni e Province Autonome,35.0,Regione Campania
 7,Regioni e Province Autonome,35.0,Regione Marche
 8,Scuole,,
@@ -60,10 +61,10 @@ id,name,count,producerName
 10,Università e AFAM,8.0,Conservatorio di Musica Arrigo Pedrollo di Vicenza
 10,Università e AFAM,9.0,Conservatorio Statale di Musica Guido Cantelli
 11,Enti privati,,
-12,Pubbliche Amministrazioni Centrali,1.0,Autorita' Nazionale Anticorruzione - A.N.AC.
 12,Pubbliche Amministrazioni Centrali,1.0,Agenzia delle Entrate
 12,Pubbliche Amministrazioni Centrali,1.0,Agenzia delle Dogane e dei Monopoli
 12,Pubbliche Amministrazioni Centrali,1.0,MINISTERO DELL'UNIVERSITA' E DELLA RICERCA
+12,Pubbliche Amministrazioni Centrali,2.0,Autorita' Nazionale Anticorruzione - A.N.AC.
 12,Pubbliche Amministrazioni Centrali,2.0,Ministero dell'istruzione e del merito
 12,Pubbliche Amministrazioni Centrali,2.0,Ministero delle infrastrutture e dei trasporti
 12,Pubbliche Amministrazioni Centrali,2.0,Istituto centrale per la digitalizzazione del patrimonio culturale - Digital Library - Ministero della Cultura

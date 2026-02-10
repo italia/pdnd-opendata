@@ -173,9 +173,9 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 1,Altre Pubbliche Amministrazioni locali,0,Tutte,CATALOGO - GESTIONE ISTANZA - REGISTRO IMPRESE,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
 1,Altre Pubbliche Amministrazioni locali,0,Tutte,Welfare as a Service per i Comuni - (WaaS per i Comuni),Consorzio Intercomunale Dei Servizi Ed Interventi Sociali Valle del Tevere,2.0
 1,Altre Pubbliche Amministrazioni locali,0,Tutte,CATALOGO - METADATI,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",8.0
-1,Altre Pubbliche Amministrazioni locali,0,Tutte,I1G - SSU BO to RI,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
+1,Altre Pubbliche Amministrazioni locali,0,Tutte,SSU_SUAP_BO_TO_FO,Comunita' Montana dei Laghi Bergamaschi,1.0
 1,Altre Pubbliche Amministrazioni locali,0,Tutte,I1G - SSU BO to ET,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",4.0
-1,Altre Pubbliche Amministrazioni locali,0,Tutte,Welfare as a Service per i Comuni - (WaaS per i Comuni),Unione Dei Comuni Delle Terre del Sole,1.0
+1,Altre Pubbliche Amministrazioni locali,0,Tutte,SMP-IPA-REST,Intercent-er Agenzia Regionale per Lo Sviluppo Dei Mercati Telematici,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,6,Altre Pubbliche Amministrazioni Centrali,,,
 2,Aziende sanitarie locali e Strutture di ricovero,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
 2,Aziende sanitarie locali e Strutture di ricovero,12,Pubbliche Amministrazioni Centrali,,,
@@ -236,16 +236,16 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 3,Comuni,9,Stazioni Appaltanti e Gestori di pubblici servizi,"Versamenti F24 IMU, TARI, TASI",Comune di Anzio,1.0
 3,Comuni,9,Stazioni Appaltanti e Gestori di pubblici servizi,Concessioni occupazioni suolo pubblico,Comune di Anzio,1.0
 3,Comuni,10,Università e AFAM,,,
-3,Comuni,0,Tutte,SSU_SUAP_ET_TO_BO,Comune di Lungavilla,1.0
-3,Comuni,0,Tutte,Suap fo/bo Soriano nel Cimino,Comune di Soriano nel Cimino,1.0
-3,Comuni,0,Tutte,SSU_SUAP_ET_TO_BO,Comune di Aprica,1.0
+3,Comuni,0,Tutte,SSU_SUAP_ET_TO_BO,Comune di Arqua' Polesine,1.0
+3,Comuni,0,Tutte,SSU_SUAP_BO_TO_RI,Comune di Sarzana,1.0
+3,Comuni,0,Tutte,SSU_SUAP_BO_TO_RI,Comune di Poggio a Caiano,1.0
 3,Comuni,0,Tutte,Aree Verdi,Comune di Lurano,3.0
 3,Comuni,0,Tutte,Abitazione principale e pertinenza,Comune di Lecco,3.0
 3,Comuni,0,Tutte,Welfare as a Service per i Comuni - (WaaS per i Comuni),Comune di Fano,2.0
 3,Comuni,0,Tutte,WAAS-SIUSS-Alimentazione,Comune di Erula,2.0
-3,Comuni,0,Tutte,Dati storici del cittadino,Comune di Terlizzi,1.0
+3,Comuni,0,Tutte,Estratto conto incassi/pagamenti,Comune di Forino,1.0
+3,Comuni,0,Tutte,Dati territoriali di base,Comune di Arzano,1.0
 3,Comuni,0,Tutte,WAAS-SIUSS-Alimentazione,Comune di Deliceto,2.0
-3,Comuni,0,Tutte,WAAS SIUSS Alimentazione,Comune di Calto,1.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,6,Altre Pubbliche Amministrazioni Centrali,,,
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,waas-aggregati-assegno-unico,Istituto Nazionale Previdenza Sociale - INPS,1.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,waas-aggregati-convitti,Istituto Nazionale Previdenza Sociale - INPS,1.0
@@ -320,15 +320,15 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 5,Province e Città Metropolitane,9,Stazioni Appaltanti e Gestori di pubblici servizi,,,
 5,Province e Città Metropolitane,10,Università e AFAM,,,
 5,Province e Città Metropolitane,0,Tutte,SERVIZIO SUAP ET PROVINCIA DI VERCELLI,Provincia di Vercelli,1.0
+5,Province e Città Metropolitane,0,Tutte,SERVIZIO SUAP ET Provincia di Ravenna,Provincia di Ravenna,1.0
 5,Province e Città Metropolitane,0,Tutte,SSU_SUAP_ET_TO_BO,Provincia di Lecco,1.0
-5,Province e Città Metropolitane,0,Tutte,SSU_SUAP_ET_TO_BO,Citta' Metropolitana di Venezia,1.0
+5,Province e Città Metropolitane,0,Tutte,PROD - ET to BO,Provincia di Modena,1.0
 5,Province e Città Metropolitane,0,Tutte,SUAP BACK OFFICE ENTI TERZI Autoscuole,Provincia di Arezzo,2.0
-5,Province e Città Metropolitane,0,Tutte,SUAP ET Provincia di Ferrara,Provincia di Ferrara,1.0
+5,Province e Città Metropolitane,0,Tutte,SSU_SUAP_ET_TO_BO,Provincia di Monza e della Brianza,1.0
 5,Province e Città Metropolitane,0,Tutte,SUAP ET - Libero Consorzio Comunale di Siracusa,Libero Consorzio Comunale di Siracusa,1.0
-5,Province e Città Metropolitane,0,Tutte,PROD - ET to BO,Provincia di Brescia,1.0
-5,Province e Città Metropolitane,0,Tutte,PROD - ET to BO,Citta' Metropolitana di Venezia,1.0
 5,Province e Città Metropolitane,0,Tutte,SSU_SUAP_ET_TO_BO,Provincia di Brescia,1.0
 5,Province e Città Metropolitane,0,Tutte,SERVIZIO SUAP ET PROVINCIA DI TREVISO,Provincia di Treviso,1.0
+5,Province e Città Metropolitane,0,Tutte,ET to BO Inlinea,Citta' Metropolitana di Milano,1.0
 6,Altre Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,GESTIONE ANAGRAFICHE MEDICI,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri,50.0
 6,Altre Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,GESTIONE ANAGRAFICHE ODONTOIATRI,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri,49.0
 6,Altre Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,Qualità dell'aria,Istituto Superiore per la Protezione e la Ricerca Ambientale,1.0
@@ -354,11 +354,11 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 6,Altre Pubbliche Amministrazioni Centrali,10,Università e AFAM,,,
 6,Altre Pubbliche Amministrazioni Centrali,0,Tutte,GESTIONE ANAGRAFICHE MEDICI,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri,50.0
 6,Altre Pubbliche Amministrazioni Centrali,0,Tutte,GESTIONE ANAGRAFICHE ODONTOIATRI,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri,49.0
-6,Altre Pubbliche Amministrazioni Centrali,0,Tutte,Qualità dell'aria,Istituto Superiore per la Protezione e la Ricerca Ambientale,1.0
 6,Altre Pubbliche Amministrazioni Centrali,0,Tutte,Rete Ondametrica Nazionale,Istituto Superiore per la Protezione e la Ricerca Ambientale,1.0
-6,Altre Pubbliche Amministrazioni Centrali,0,Tutte,Ottieni Dati Terreni Fascicolo Aziendale,Agenzia per le Erogazioni in Agricoltura - AGEA,1.0
-6,Altre Pubbliche Amministrazioni Centrali,0,Tutte,Verifica iscrizione medico (FMED-01),Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri,1.0
-6,Altre Pubbliche Amministrazioni Centrali,0,Tutte,Pollini,Istituto Superiore per la Protezione e la Ricerca Ambientale,1.0
+6,Altre Pubbliche Amministrazioni Centrali,0,Tutte,Invio incidenti stradali,Istituto Nazionale di Statistica - ISTAT,1.0
+6,Altre Pubbliche Amministrazioni Centrali,0,Tutte,Rete Mareografica Nazionale,Istituto Superiore per la Protezione e la Ricerca Ambientale,1.0
+6,Altre Pubbliche Amministrazioni Centrali,0,Tutte,Pesticidi,Istituto Superiore per la Protezione e la Ricerca Ambientale,1.0
+6,Altre Pubbliche Amministrazioni Centrali,0,Tutte,Ottieni Ultima Scheda di Validazione,Agenzia per le Erogazioni in Agricoltura - AGEA,1.0
 6,Altre Pubbliche Amministrazioni Centrali,0,Tutte,Consultazione visura veicolo per targa - PRA (C001),Automobile Club d'Italia,2.0
 6,Altre Pubbliche Amministrazioni Centrali,0,Tutte,CNF-CheckAvv,Consiglio Nazionale Forense,2.0
 6,Altre Pubbliche Amministrazioni Centrali,0,Tutte,Abilitazioni Servizi Lavoro MLPS,Ispettorato Nazionale del Lavoro,1.0
@@ -406,14 +406,14 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 7,Regioni e Province Autonome,10,Università e AFAM,,,
 7,Regioni e Province Autonome,0,Tutte,[RVE] BackOffice SUAP to Enti Terzi,Regione del Veneto,2.0
 7,Regioni e Province Autonome,0,Tutte,ICEF indicatore famiglia con nucleo,Provincia Autonoma di Trento,2.0
-7,Regioni e Province Autonome,0,Tutte,Opere Consolidamento,Provincia Autonoma di Trento,1.0
+7,Regioni e Province Autonome,0,Tutte,RL-Sigmater Consultazione Trascrizioni,Regione Liguria,1.0
 7,Regioni e Province Autonome,0,Tutte,RC027 - Consultazione rilevazioni idrogeologiche,Regione Campania,2.0
-7,Regioni e Province Autonome,0,Tutte,Rilevato Arginale,Provincia Autonoma di Trento,1.0
-7,Regioni e Province Autonome,0,Tutte,Consultazione situazioni assistenziali degli assistiti,Regione Siciliana,1.0
-7,Regioni e Province Autonome,0,Tutte,RC032 - Nomi delle strutture ricettive,Regione Campania,1.0
-7,Regioni e Province Autonome,0,Tutte,Consultazione microzonazione sismica,Regione Siciliana,1.0
-7,Regioni e Province Autonome,0,Tutte,RC023 - Consultazione incendi microdiscariche abusive,Regione Campania,1.0
-7,Regioni e Province Autonome,0,Tutte,RC006 - Consultazione centraline atmosferiche,Regione Campania,1.0
+7,Regioni e Province Autonome,0,Tutte,Tombinatura,Provincia Autonoma di Trento,1.0
+7,Regioni e Province Autonome,0,Tutte,RC033 - Numero posti letto strutture ricettive,Regione Campania,1.0
+7,Regioni e Province Autonome,0,Tutte,RC025 - Consultazione comuni GAL-STS,Regione Campania,1.0
+7,Regioni e Province Autonome,0,Tutte,RC019 - Consultazione stato opere d'arte complessivo,Regione Campania,1.0
+7,Regioni e Province Autonome,0,Tutte,Consultazione accessi SOVRACUP suddivisi per provincia,Regione Siciliana,1.0
+7,Regioni e Province Autonome,0,Tutte,RC002 - Consultazione Catalogo dei Servizi Digitali,Regione Campania,1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,6,Altre Pubbliche Amministrazioni Centrali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,4.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,12,Pubbliche Amministrazioni Centrali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,1.0
@@ -468,14 +468,14 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 10,Università e AFAM,10,Università e AFAM,Consultazione iscrizioni accademiche (IFS02),Universita' degli Studi dell 'Insubria,1.0
 10,Università e AFAM,0,Tutte,Consultazione titoli accademici (IFS03),Universita' degli Studi di Milano - Bicocca,7.0
 10,Università e AFAM,0,Tutte,Consultazione iscrizioni accademiche (IFS02),Universita' degli Studi di Milano - Bicocca,2.0
-10,Università e AFAM,0,Tutte,Consultazione titoli accademici (IFS03),Conservatorio Statale di Musica di Piacenza,1.0
-10,Università e AFAM,0,Tutte,Consultazione variazioni iscrizioni accademiche (IFS06),Conservatorio di Musica 'Francesco Cilea' di Reggio Calabria,1.0
-10,Università e AFAM,0,Tutte,Consultazione variazioni iscrizioni accademiche (IFS06),Conservatorio di Musica 'Tito Schipa' di Lecce,1.0
-10,Università e AFAM,0,Tutte,Consultazione variazioni iscrizioni accademiche (IFS06),Conservatorio di Musica San Pietro a Majella di Napoli,1.0
-10,Università e AFAM,0,Tutte,Consultazione iscrizioni accademiche (IFS02),Accademia di Belle Arti Reggio Calabria,1.0
-10,Università e AFAM,0,Tutte,Consultazione variazioni iscrizioni accademiche (IFS06),Conservatorio Statale di Musica G. Frescobaldi,1.0
-10,Università e AFAM,0,Tutte,Consultazione iscrizioni accademiche (IFS02),Conservatorio di Musica G.B.Pergolesi,1.0
-10,Università e AFAM,0,Tutte,Consultazione iscrizioni accademiche (IFS02),Conservatorio di Musica Giuseppe Tartini di Trieste,1.0
+10,Università e AFAM,0,Tutte,Consultazione variazioni titoli accademici (IFS07),Conservatorio di Salerno,1.0
+10,Università e AFAM,0,Tutte,Consultazione variazioni titoli accademici (IFS07),Conservatorio di Musica Giacomo Puccini,1.0
+10,Università e AFAM,0,Tutte,Consultazione variazioni titoli accademici (IFS07),Istituto Superiore per Le Industrie Artistiche di Firenze,1.0
+10,Università e AFAM,0,Tutte,Consultazione variazioni iscrizioni accademiche (IFS06),Accademia di Belle Arti di Roma,1.0
+10,Università e AFAM,0,Tutte,Consultazione variazioni iscrizioni accademiche (IFS06),Accademia di Belle Arti di Urbino,1.0
+10,Università e AFAM,0,Tutte,Consultazione variazioni iscrizioni accademiche (IFS06),Accademia di Belle Arti Reggio Calabria,1.0
+10,Università e AFAM,0,Tutte,Consultazione variazioni iscrizioni accademiche (IFS06),Conservatorio Musica Vibo Valentia,1.0
+10,Università e AFAM,0,Tutte,Consultazione iscrizioni accademiche (IFS02),CONSERVATORIO DI MUSICA LUISA D'ANNUNZIO,1.0
 12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,8.0
 12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,5.0
 12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,ElabMassivaAccertIdUnicoNazionale,Ministero dell'Interno,5.0

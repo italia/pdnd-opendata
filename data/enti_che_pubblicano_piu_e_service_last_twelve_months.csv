@@ -1,6 +1,6 @@
 id,name,count,producerName
+0,Totale,28.0,Regione Basilicata
 0,Totale,32.0,Regione Autonoma Valle D'Aosta
-0,Totale,32.0,Regione Emilia-Romagna
 0,Totale,34.0,Regione Molise
 0,Totale,35.0,Regione Campania
 0,Totale,36.0,Regione Marche
@@ -8,7 +8,7 @@ id,name,count,producerName
 0,Totale,37.0,Regione Toscana
 0,Totale,38.0,Regione Piemonte
 0,Totale,39.0,Regione Autonoma Friuli-Venezia Giulia
-0,Totale,47.0,Istituto Nazionale Previdenza Sociale - INPS
+0,Totale,45.0,Istituto Nazionale Previdenza Sociale - INPS
 1,Altre Pubbliche Amministrazioni locali,1.0,Agenzia Regionale per la Protezione dell'Ambiente della Calabria
 1,Altre Pubbliche Amministrazioni locali,1.0,Itaca- Istituto per L'Innovazione e Trasparenza Degli Appalti e La Compatibilita Ambientale
 1,Altre Pubbliche Amministrazioni locali,1.0,"Unione dei Comuni Valli del Reno, Lavino e Samoggia"
@@ -40,7 +40,7 @@ id,name,count,producerName
 3,Comuni,8.0,Comune di Benevento
 3,Comuni,9.0,Comune di San Giorgio a Cremano
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,2.0,Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro - INAIL
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,47.0,Istituto Nazionale Previdenza Sociale - INPS
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,45.0,Istituto Nazionale Previdenza Sociale - INPS
 5,Province e Città Metropolitane,1.0,Libero Consorzio Comunale di Siracusa
 5,Province e Città Metropolitane,1.0,Provincia di Como
 5,Province e Città Metropolitane,1.0,Provincia di Ferrara
@@ -56,9 +56,9 @@ id,name,count,producerName
 6,Altre Pubbliche Amministrazioni Centrali,4.0,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri
 6,Altre Pubbliche Amministrazioni Centrali,6.0,Agenzia per le Erogazioni in Agricoltura - AGEA
 6,Altre Pubbliche Amministrazioni Centrali,10.0,Istituto Superiore per la Protezione e la Ricerca Ambientale
+7,Regioni e Province Autonome,27.0,Regione Emilia-Romagna
 7,Regioni e Province Autonome,28.0,Regione Basilicata
 7,Regioni e Province Autonome,32.0,Regione Autonoma Valle D'Aosta
-7,Regioni e Province Autonome,32.0,Regione Emilia-Romagna
 7,Regioni e Province Autonome,34.0,Regione Molise
 7,Regioni e Province Autonome,35.0,Regione Campania
 7,Regioni e Province Autonome,36.0,Regione Marche
@@ -68,7 +68,7 @@ id,name,count,producerName
 7,Regioni e Province Autonome,39.0,Regione Autonoma Friuli-Venezia Giulia
 8,Scuole,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,1.0,MEDIO CHIAMPO SPA
-9,Stazioni Appaltanti e Gestori di pubblici servizi,3.0,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A."""
+9,Stazioni Appaltanti e Gestori di pubblici servizi,4.0,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A."""
 9,Stazioni Appaltanti e Gestori di pubblici servizi,11.0,Molise Dati Societa' Informatica Molisana Spa
 10,Università e AFAM,7.0,Conservatorio Statale di Musica di Piacenza
 10,Università e AFAM,8.0,"Conservatorio Statale di Musica ""P.I. Tchaikovsky"""

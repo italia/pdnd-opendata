@@ -1,8 +1,8 @@
 id,name,count,producerName
-0,Totale,8.0,Conservatorio di Musica Arrigo Pedrollo di Vicenza
+0,Totale,8.0,Comune di Terzigno
+0,Totale,8.0,Universita' degli Studi di Napoli Federico II
 0,Totale,9.0,Conservatorio Statale di Musica Guido Cantelli
 0,Totale,9.0,Comune di San Giorgio a Cremano
-0,Totale,12.0,Regione Autonoma Friuli-Venezia Giulia
 0,Totale,13.0,Regione Siciliana
 0,Totale,16.0,Ministero del Lavoro e delle Politiche Sociali
 0,Totale,21.0,Regione Basilicata
@@ -32,11 +32,11 @@ id,name,count,producerName
 3,Comuni,6.0,Comune di Airola
 3,Comuni,6.0,Comune di Afragola
 3,Comuni,7.0,Comune di Venezia
-3,Comuni,7.0,Comune di Catania
 3,Comuni,7.0,Comune di Potenza
 3,Comuni,7.0,Comune di Latina
 3,Comuni,7.0,Comune di Benevento
 3,Comuni,7.0,Comune di San Vincenzo
+3,Comuni,8.0,Comune di Catania
 3,Comuni,8.0,Comune di Terzigno
 3,Comuni,9.0,Comune di San Giorgio a Cremano
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,43.0,Istituto Nazionale Previdenza Sociale - INPS
@@ -58,20 +58,22 @@ id,name,count,producerName
 7,Regioni e Province Autonome,2.0,Regione Autonoma Valle D'Aosta
 7,Regioni e Province Autonome,2.0,Provincia Autonoma di Trento
 7,Regioni e Province Autonome,2.0,Regione Lombardia
+7,Regioni e Province Autonome,6.0,Regione Autonoma Friuli-Venezia Giulia
 7,Regioni e Province Autonome,6.0,Regione Emilia-Romagna
 7,Regioni e Province Autonome,7.0,Regione Toscana
-7,Regioni e Province Autonome,12.0,Regione Autonoma Friuli-Venezia Giulia
 7,Regioni e Province Autonome,13.0,Regione Siciliana
 7,Regioni e Province Autonome,21.0,Regione Basilicata
 7,Regioni e Province Autonome,35.0,Regione Campania
 7,Regioni e Province Autonome,35.0,Regione Marche
 8,Scuole,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,4.0,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A."""
+10,Università e AFAM,7.0,"Accademia di Belle Arti Statale ""Ligustica"""
 10,Università e AFAM,8.0,Conservatorio di Musica Arrigo Pedrollo di Vicenza
 10,Università e AFAM,8.0,Universita' degli Studi di Napoli Federico II
 10,Università e AFAM,9.0,Conservatorio Statale di Musica Guido Cantelli
 11,Enti privati,,
 12,Pubbliche Amministrazioni Centrali,1.0,Agenzia delle Entrate
+12,Pubbliche Amministrazioni Centrali,1.0,Dipartimento dei Vigili del Fuoco - Ufficio del Capo Dipartimento
 12,Pubbliche Amministrazioni Centrali,1.0,Agenzia delle Dogane e dei Monopoli
 12,Pubbliche Amministrazioni Centrali,2.0,Autorita' Nazionale Anticorruzione - A.N.AC.
 12,Pubbliche Amministrazioni Centrali,2.0,Ministero dell'istruzione e del merito

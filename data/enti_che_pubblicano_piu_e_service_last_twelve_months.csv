@@ -19,16 +19,17 @@ id,name,count,producerName
 1,Altre Pubbliche Amministrazioni locali,2.0,Consorzio B.I.M. Piave di Treviso
 1,Altre Pubbliche Amministrazioni locali,3.0,Unione Dei Comuni Delle Terre del Sole
 1,Altre Pubbliche Amministrazioni locali,6.0,Comunita' Montana dei Laghi Bergamaschi
-2,Aziende sanitarie locali e Strutture di ricovero,2.0,Azienda Sanitaria Territoriale di Fermo
-2,Aziende sanitarie locali e Strutture di ricovero,2.0,Fondazione Toscana Gabriele Monasterio per La Ricerca Medica e di Sanita Pubblica
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Socio Sanitaria Territoriale di Mantova
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Unita' Sanitaria Locale Toscana Sud Est
+2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Sanitaria di Potenza ASP
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,"Azienda Ospedaliero-Universitaria Policlinico ""G. Rodolico-San Marco"" di Catania"
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Sanitaria dell'Alto Adige - Suedtiroler Sanitaetsbetrieb
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Unita' Sanitaria Locale Toscana Centro
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Sanitaria Locale Napoli 1 Centro
+2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Sanitaria Locale di Matera
 2,Aziende sanitarie locali e Strutture di ricovero,5.0,A.O.U. San Luigi Gonzaga
 2,Aziende sanitarie locali e Strutture di ricovero,6.0,Azienda Sanitaria Locale 2 Lanciano Vasto Chieti
+3,Comuni,7.0,Comune di Forio
 3,Comuni,7.0,Comune di Pavia
 3,Comuni,7.0,Comune di Potenza
 3,Comuni,7.0,Comune di Latina
@@ -38,7 +39,6 @@ id,name,count,producerName
 3,Comuni,8.0,Comune di Terzigno
 3,Comuni,8.0,Comune di Benevento
 3,Comuni,9.0,Comune di San Giorgio a Cremano
-3,Comuni,12.0,Comune di Casoria
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,2.0,Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro - INAIL
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,42.0,Istituto Nazionale Previdenza Sociale - INPS
 5,Province e Città Metropolitane,1.0,Provincia di Como
@@ -54,6 +54,8 @@ id,name,count,producerName
 6,Altre Pubbliche Amministrazioni Centrali,1.0,Istituto Nazionale di Statistica - ISTAT
 6,Altre Pubbliche Amministrazioni Centrali,3.0,Ispettorato Nazionale del Lavoro
 6,Altre Pubbliche Amministrazioni Centrali,4.0,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri
+6,Altre Pubbliche Amministrazioni Centrali,4.0,Federazione Ordini Farmacisti Italiani
+6,Altre Pubbliche Amministrazioni Centrali,4.0,FEDERAZIONE NAZIONALE ORDINI DELLA PROFESSIONE DI OSTETRICA
 6,Altre Pubbliche Amministrazioni Centrali,6.0,Agenzia per le Erogazioni in Agricoltura - AGEA
 6,Altre Pubbliche Amministrazioni Centrali,10.0,Istituto Superiore per la Protezione e la Ricerca Ambientale
 7,Regioni e Province Autonome,14.0,Regione Liguria
@@ -68,6 +70,7 @@ id,name,count,producerName
 7,Regioni e Province Autonome,44.0,Regione Autonoma Friuli-Venezia Giulia
 8,Scuole,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,1.0,MEDIO CHIAMPO SPA
+9,Stazioni Appaltanti e Gestori di pubblici servizi,1.0,SOCIETA' ACQUA LODIGIANA S.R.L. O PIU' BREVEMENTE S.A.L. S.R.L.
 9,Stazioni Appaltanti e Gestori di pubblici servizi,4.0,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A."""
 9,Stazioni Appaltanti e Gestori di pubblici servizi,11.0,Molise Dati Societa' Informatica Molisana Spa
 10,Università e AFAM,7.0,Conservatorio di Musica N.Piccinni
@@ -85,7 +88,7 @@ id,name,count,producerName
 12,Pubbliche Amministrazioni Centrali,2.0,Agenzia per L'Italia Digitale
 12,Pubbliche Amministrazioni Centrali,2.0,Ministero dell'Interno
 12,Pubbliche Amministrazioni Centrali,3.0,Ministero delle infrastrutture e dei trasporti
-12,Pubbliche Amministrazioni Centrali,5.0,Autorita' Nazionale Anticorruzione - A.N.AC.
+12,Pubbliche Amministrazioni Centrali,4.0,Autorita' Nazionale Anticorruzione - A.N.AC.
 12,Pubbliche Amministrazioni Centrali,5.0,MINISTERO DELL'UNIVERSITA' E DELLA RICERCA
 12,Pubbliche Amministrazioni Centrali,7.0,Agenzia delle Entrate
 12,Pubbliche Amministrazioni Centrali,7.0,Ministero dell'istruzione e del merito

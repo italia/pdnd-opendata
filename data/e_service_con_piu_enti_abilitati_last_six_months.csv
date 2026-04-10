@@ -19,16 +19,16 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Tutte,4,Enti Nazionali di Previdenza ed Assistenza Sociale,SIUSS - ETICA SOLUZIONI,Comune di Picerno,1.0
 0,Tutte,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WAAS SIUSS Alimentazione v2,Comune di Morrovalle,1.0
 0,Tutte,4,Enti Nazionali di Previdenza ed Assistenza Sociale,DL78PF - Interrogazione soggetti Persona Fisica per le PPAA,Agenzia delle Entrate,1.0
-0,Tutte,12,Pubbliche Amministrazioni Centrali,Qualità dell'aria,Istituto Superiore per la Protezione e la Ricerca Ambientale,1.0
 0,Tutte,12,Pubbliche Amministrazioni Centrali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,3.0
 0,Tutte,12,Pubbliche Amministrazioni Centrali,ANIS - Consultazione Titoli [IFS03],MINISTERO DELL'UNIVERSITA' E DELLA RICERCA,3.0
 0,Tutte,12,Pubbliche Amministrazioni Centrali,APICIG2,Autorita' Nazionale Anticorruzione - A.N.AC.,2.0
 0,Tutte,12,Pubbliche Amministrazioni Centrali,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,2.0
-0,Tutte,12,Pubbliche Amministrazioni Centrali,C015-servizioAccertamentoGeneralita,Ministero dell'Interno,2.0
-0,Tutte,12,Pubbliche Amministrazioni Centrali,Consultazione variazioni iscrizioni accademiche (IFS06),Conservatorio Statale di Musica Antonio Buzzolla di Adria,1.0
-0,Tutte,12,Pubbliche Amministrazioni Centrali,Consultazione iscrizioni accademiche (IFS02),Conservatorio di Salerno,1.0
-0,Tutte,12,Pubbliche Amministrazioni Centrali,Consultazione titoli accademici (IFS03),Conservatorio Statale di Musica Paganini di Genova,1.0
-0,Tutte,12,Pubbliche Amministrazioni Centrali,Consultazione variazioni titoli accademici (IFS07),Conservatorio di Musica 'Tito Schipa' di Lecce,1.0
+0,Tutte,12,Pubbliche Amministrazioni Centrali,DL78PF - Interrogazione soggetti Persona Fisica per le PPAA,Agenzia delle Entrate,2.0
+0,Tutte,12,Pubbliche Amministrazioni Centrali,RICERCA_Variazioni anagrafica degli ENTI-IPA_30,Agenzia per L'Italia Digitale,2.0
+0,Tutte,12,Pubbliche Amministrazioni Centrali,RICERCA_Variazioni delle PEC degli Enti-IPA_25,Agenzia per L'Italia Digitale,2.0
+0,Tutte,12,Pubbliche Amministrazioni Centrali,RICERCA_PEC di un ENTE-IPA_07,Agenzia per L'Italia Digitale,2.0
+0,Tutte,12,Pubbliche Amministrazioni Centrali,RICERCA_PEC di una UO-IPA_08,Agenzia per L'Italia Digitale,2.0
+0,Tutte,12,Pubbliche Amministrazioni Centrali,RICERCA_Elenco anagrafiche delle UO-IPA_39,Agenzia per L'Italia Digitale,2.0
 0,Tutte,7,Regioni e Province Autonome,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",8.0
 0,Tutte,7,Regioni e Province Autonome,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,7.0
 0,Tutte,7,Regioni e Province Autonome,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,7.0
@@ -39,15 +39,15 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Tutte,7,Regioni e Province Autonome,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,5.0
 0,Tutte,7,Regioni e Province Autonome,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,5.0
 0,Tutte,7,Regioni e Province Autonome,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,4.0
-0,Tutte,1,Altre Pubbliche Amministrazioni locali,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",8.0
+0,Tutte,1,Altre Pubbliche Amministrazioni locali,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",7.0
 0,Tutte,1,Altre Pubbliche Amministrazioni locali,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",7.0
-0,Tutte,1,Altre Pubbliche Amministrazioni locali,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,14.0
-0,Tutte,1,Altre Pubbliche Amministrazioni locali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,14.0
+0,Tutte,1,Altre Pubbliche Amministrazioni locali,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,15.0
+0,Tutte,1,Altre Pubbliche Amministrazioni locali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,13.0
 0,Tutte,1,Altre Pubbliche Amministrazioni locali,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,6.0
+0,Tutte,1,Altre Pubbliche Amministrazioni locali,C009-servizioVerificaDichStatoFamiglia-approvazione_automati,Ministero dell'Interno,5.0
 0,Tutte,1,Altre Pubbliche Amministrazioni locali,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,5.0
 0,Tutte,1,Altre Pubbliche Amministrazioni locali,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,5.0
 0,Tutte,1,Altre Pubbliche Amministrazioni locali,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,5.0
-0,Tutte,1,Altre Pubbliche Amministrazioni locali,C009-servizioVerificaDichStatoFamiglia-approvazione_automati,Ministero dell'Interno,4.0
 0,Tutte,1,Altre Pubbliche Amministrazioni locali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,21.0
 0,Tutte,2,Aziende sanitarie locali e Strutture di ricovero,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",3.0
 0,Tutte,2,Aziende sanitarie locali e Strutture di ricovero,Elenco prestazioni disponibili,Azienda Ospedaliera San Carlo di Potenza,1.0
@@ -59,16 +59,16 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Tutte,2,Aziende sanitarie locali e Strutture di ricovero,Esistenza immobile per identificativo catastale,Agenzia delle Entrate,1.0
 0,Tutte,2,Aziende sanitarie locali e Strutture di ricovero,C004-servizioVerificaDichDecesso-approvazione_automatica,Ministero dell'Interno,1.0
 0,Tutte,2,Aziende sanitarie locali e Strutture di ricovero,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3.0
-0,Tutte,3,Comuni,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",345.0
-0,Tutte,3,Comuni,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,4834.0
-0,Tutte,3,Comuni,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,2964.0
-0,Tutte,3,Comuni,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,2381.0
-0,Tutte,3,Comuni,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,2275.0
-0,Tutte,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,463.0
-0,Tutte,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,405.0
-0,Tutte,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,378.0
-0,Tutte,3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,289.0
-0,Tutte,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,777.0
+0,Tutte,3,Comuni,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",344.0
+0,Tutte,3,Comuni,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,4835.0
+0,Tutte,3,Comuni,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,2970.0
+0,Tutte,3,Comuni,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,2379.0
+0,Tutte,3,Comuni,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,2280.0
+0,Tutte,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,465.0
+0,Tutte,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,408.0
+0,Tutte,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,383.0
+0,Tutte,3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,293.0
+0,Tutte,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,766.0
 0,Tutte,11,Enti privati,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",3.0
 0,Tutte,11,Enti privati,PCP – CodeList,Autorita' Nazionale Anticorruzione - A.N.AC.,9.0
 0,Tutte,11,Enti privati,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,9.0
@@ -82,7 +82,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Tutte,5,Province e Città Metropolitane,CATALOGO - GESTIONE ISTANZA - ENTI TERZI,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",21.0
 0,Tutte,5,Province e Città Metropolitane,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",12.0
 0,Tutte,5,Province e Città Metropolitane,CATALOGO - METADATI,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",3.0
-0,Tutte,5,Province e Città Metropolitane,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,8.0
+0,Tutte,5,Province e Città Metropolitane,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,9.0
 0,Tutte,5,Province e Città Metropolitane,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,8.0
 0,Tutte,5,Province e Città Metropolitane,C007–ServizioVerificaDichEsistenzaVita-approvazione_automati,Ministero dell'Interno,5.0
 0,Tutte,5,Province e Città Metropolitane,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,3.0
@@ -101,14 +101,14 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Tutte,8,Scuole,Consultazione titoli accademici (IFS03),Universita' degli Studi di Verona,1.0
 0,Tutte,9,Stazioni Appaltanti e Gestori di pubblici servizi,C007–ServizioVerificaDichEsistenzaVita-approvazione_automati,Ministero dell'Interno,18.0
 0,Tutte,9,Stazioni Appaltanti e Gestori di pubblici servizi,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,17.0
-0,Tutte,9,Stazioni Appaltanti e Gestori di pubblici servizi,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,13.0
-0,Tutte,9,Stazioni Appaltanti e Gestori di pubblici servizi,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,13.0
+0,Tutte,9,Stazioni Appaltanti e Gestori di pubblici servizi,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,12.0
+0,Tutte,9,Stazioni Appaltanti e Gestori di pubblici servizi,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,12.0
 0,Tutte,9,Stazioni Appaltanti e Gestori di pubblici servizi,C004-servizioVerificaDichDecesso-approvazione_automatica,Ministero dell'Interno,7.0
-0,Tutte,9,Stazioni Appaltanti e Gestori di pubblici servizi,C009-servizioVerificaDichStatoFamiglia-approvazione_automati,Ministero dell'Interno,7.0
 0,Tutte,9,Stazioni Appaltanti e Gestori di pubblici servizi,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,7.0
+0,Tutte,9,Stazioni Appaltanti e Gestori di pubblici servizi,C009-servizioVerificaDichStatoFamiglia-approvazione_automati,Ministero dell'Interno,6.0
 0,Tutte,9,Stazioni Appaltanti e Gestori di pubblici servizi,ElabMassivaVerificaDichEsistenzaInVita,Ministero dell'Interno,6.0
 0,Tutte,9,Stazioni Appaltanti e Gestori di pubblici servizi,C006-servizioVerificaDichCittadinanza-approvazione_automatic,Ministero dell'Interno,5.0
-0,Tutte,9,Stazioni Appaltanti e Gestori di pubblici servizi,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,9.0
+0,Tutte,9,Stazioni Appaltanti e Gestori di pubblici servizi,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,8.0
 0,Tutte,10,Università e AFAM,Consultazione Attestazione ISEE,Istituto Nazionale Previdenza Sociale - INPS,28.0
 0,Tutte,10,Università e AFAM,Consultazione Indicatore ISEE,Istituto Nazionale Previdenza Sociale - INPS,5.0
 0,Tutte,10,Università e AFAM,Consultazione Attestazione ISEE Operatori,Istituto Nazionale Previdenza Sociale - INPS,3.0
@@ -119,16 +119,16 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Tutte,10,Università e AFAM,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,2.0
 0,Tutte,10,Università e AFAM,ANIST - Accertamento Titoli,Ministero dell'istruzione e del merito,2.0
 0,Tutte,10,Università e AFAM,C031-servizioVerificaIdUnicoNazionale-approvazione_automatic,Ministero dell'Interno,2.0
-0,Tutte,0,Tutte,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",381.0
-0,Tutte,0,Tutte,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,465.0
-0,Tutte,0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,304.0
-0,Tutte,0,Tutte,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,476.0
-0,Tutte,0,Tutte,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,388.0
-0,Tutte,0,Tutte,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,4834.0
-0,Tutte,0,Tutte,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,2964.0
-0,Tutte,0,Tutte,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,2381.0
-0,Tutte,0,Tutte,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,2275.0
-0,Tutte,0,Tutte,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,824.0
+0,Tutte,0,Tutte,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",380.0
+0,Tutte,0,Tutte,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,469.0
+0,Tutte,0,Tutte,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,479.0
+0,Tutte,0,Tutte,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,393.0
+0,Tutte,0,Tutte,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,305.0
+0,Tutte,0,Tutte,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,4835.0
+0,Tutte,0,Tutte,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,2970.0
+0,Tutte,0,Tutte,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,2379.0
+0,Tutte,0,Tutte,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,2280.0
+0,Tutte,0,Tutte,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,811.0
 1,Altre Pubbliche Amministrazioni locali,6,Altre Pubbliche Amministrazioni Centrali,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
 1,Altre Pubbliche Amministrazioni locali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Welfare as a Service per i Comuni - (WaaS per i Comuni),Unione Dei Comuni Delle Terre del Sole,1.0
 1,Altre Pubbliche Amministrazioni locali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Welfare as a Service per i Comuni - (WaaS per i Comuni),Consorzio Intercomunale Dei Servizi Ed Interventi Sociali Valle del Tevere,1.0
@@ -144,7 +144,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 1,Altre Pubbliche Amministrazioni locali,7,Regioni e Province Autonome,CATALOGO - GESTIONE ISTANZA - BACKOFFICE,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
 1,Altre Pubbliche Amministrazioni locali,7,Regioni e Province Autonome,I1G - SSU BO to ET,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
 1,Altre Pubbliche Amministrazioni locali,7,Regioni e Province Autonome,Servizi ComUnica a Front-Office SUAP,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
-1,Altre Pubbliche Amministrazioni locali,1,Altre Pubbliche Amministrazioni locali,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",8.0
+1,Altre Pubbliche Amministrazioni locali,1,Altre Pubbliche Amministrazioni locali,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",7.0
 1,Altre Pubbliche Amministrazioni locali,1,Altre Pubbliche Amministrazioni locali,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",7.0
 1,Altre Pubbliche Amministrazioni locali,1,Altre Pubbliche Amministrazioni locali,CATALOGO - GESTIONE ISTANZA - FRONTOFFICE,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",2.0
 1,Altre Pubbliche Amministrazioni locali,1,Altre Pubbliche Amministrazioni locali,CATALOGO - GESTIONE ISTANZA - ENTI TERZI,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",2.0
@@ -156,8 +156,8 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 1,Altre Pubbliche Amministrazioni locali,1,Altre Pubbliche Amministrazioni locali,SSU_SUAP_BO_TO_ET,Comunita' Montana dei Laghi Bergamaschi,1.0
 1,Altre Pubbliche Amministrazioni locali,2,Aziende sanitarie locali e Strutture di ricovero,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",3.0
 1,Altre Pubbliche Amministrazioni locali,2,Aziende sanitarie locali e Strutture di ricovero,CATALOGO - GESTIONE ISTANZA - ENTI TERZI,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
-1,Altre Pubbliche Amministrazioni locali,3,Comuni,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",345.0
-1,Altre Pubbliche Amministrazioni locali,3,Comuni,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",213.0
+1,Altre Pubbliche Amministrazioni locali,3,Comuni,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",344.0
+1,Altre Pubbliche Amministrazioni locali,3,Comuni,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",218.0
 1,Altre Pubbliche Amministrazioni locali,3,Comuni,CATALOGO - GESTIONE ISTANZA - ENTI TERZI,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",11.0
 1,Altre Pubbliche Amministrazioni locali,3,Comuni,Accreditamento BIM TV Enti-Terzi - Suite di Black-Box-Test,Consorzio B.I.M. Piave di Treviso,3.0
 1,Altre Pubbliche Amministrazioni locali,3,Comuni,CATALOGO - METADATI,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",2.0
@@ -175,8 +175,8 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 1,Altre Pubbliche Amministrazioni locali,9,Stazioni Appaltanti e Gestori di pubblici servizi,CATALOGO - METADATI,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
 1,Altre Pubbliche Amministrazioni locali,9,Stazioni Appaltanti e Gestori di pubblici servizi,I1G - SSU BO to ET,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",1.0
 1,Altre Pubbliche Amministrazioni locali,10,Università e AFAM,,,
-1,Altre Pubbliche Amministrazioni locali,0,Tutte,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",228.0
-1,Altre Pubbliche Amministrazioni locali,0,Tutte,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",381.0
+1,Altre Pubbliche Amministrazioni locali,0,Tutte,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",232.0
+1,Altre Pubbliche Amministrazioni locali,0,Tutte,ACCREDITAMENTO SUAP ED ENTI-TERZI - SUITE DI BLACK-BOX-TEST,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",380.0
 1,Altre Pubbliche Amministrazioni locali,0,Tutte,CATALOGO - GESTIONE ISTANZA - FRONTOFFICE,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",3.0
 1,Altre Pubbliche Amministrazioni locali,0,Tutte,CATALOGO - GESTIONE ISTANZA - ENTI TERZI,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",39.0
 1,Altre Pubbliche Amministrazioni locali,0,Tutte,CATALOGO - METADATI,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",10.0
@@ -207,11 +207,11 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 2,Aziende sanitarie locali e Strutture di ricovero,8,Scuole,,,
 2,Aziende sanitarie locali e Strutture di ricovero,9,Stazioni Appaltanti e Gestori di pubblici servizi,,,
 2,Aziende sanitarie locali e Strutture di ricovero,10,Università e AFAM,,,
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,SSU_SUAP_ET_TO_BO,Azienda Sanitaria Locale VCO,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Lista Defibrillatori,Azienda USL della Valle d'Aosta,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Caregiver COT per Assistito,Azienda Sanitaria Territoriale di Fermo,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Contatti PUA di un Assistito,AZIENDA SANITARIA TERRITORIALE DI PESARO E URBINO,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Elenco prestazioni disponibili,IRCCS CROB,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Consultazione centri vaccinali,Azienda Sanitaria Provinciale di Agrigento,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Contatti PUA di un Assistito,AZIENDA SANITARIA TERRITORIALE DI ANCONA,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Situazione posti letto,IRCCS CROB,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Posti letto per reparto,Azienda Sanitaria Provinciale di Vibo Valentia,1.0
@@ -294,8 +294,8 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,1,Altre Pubbliche Amministrazioni locali,Consultazione Attestazione Residenti ISEE,Istituto Nazionale Previdenza Sociale - INPS,1.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,1,Altre Pubbliche Amministrazioni locali,Consultazione Indicatore ISEE,Istituto Nazionale Previdenza Sociale - INPS,1.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,2,Aziende sanitarie locali e Strutture di ricovero,waas-aggregati-residenze-sanitarie-assistenziali,Istituto Nazionale Previdenza Sociale - INPS,1.0
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,3,Comuni,Consultazione Attestazione Residenti ISEE,Istituto Nazionale Previdenza Sociale - INPS,225.0
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,3,Comuni,Consultazione Indicatore Residenti ISEE,Istituto Nazionale Previdenza Sociale - INPS,119.0
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,3,Comuni,Consultazione Attestazione Residenti ISEE,Istituto Nazionale Previdenza Sociale - INPS,227.0
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,3,Comuni,Consultazione Indicatore Residenti ISEE,Istituto Nazionale Previdenza Sociale - INPS,121.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,3,Comuni,Consultazione Attestazione ISEE Operatori,Istituto Nazionale Previdenza Sociale - INPS,30.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,3,Comuni,Consultazione Indicatore Nucleo Riscontro ISEE,Istituto Nazionale Previdenza Sociale - INPS,19.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,3,Comuni,Consultazione Attestazione ISEE,Istituto Nazionale Previdenza Sociale - INPS,14.0
@@ -314,9 +314,9 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,10,Università e AFAM,Consultazione Indicatore ISEE Operatori,Istituto Nazionale Previdenza Sociale - INPS,1.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Tutte,Consultazione Attestazione ISEE Operatori,Istituto Nazionale Previdenza Sociale - INPS,36.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Tutte,Consultazione Indicatore ISEE Operatori,Istituto Nazionale Previdenza Sociale - INPS,12.0
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Tutte,Consultazione Attestazione Residenti ISEE,Istituto Nazionale Previdenza Sociale - INPS,226.0
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Tutte,Consultazione Attestazione Residenti ISEE,Istituto Nazionale Previdenza Sociale - INPS,228.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Tutte,Consultazione Indicatore ISEE,Istituto Nazionale Previdenza Sociale - INPS,13.0
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Tutte,Consultazione Indicatore Residenti ISEE,Istituto Nazionale Previdenza Sociale - INPS,119.0
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Tutte,Consultazione Indicatore Residenti ISEE,Istituto Nazionale Previdenza Sociale - INPS,121.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Tutte,Consultazione Indicatore Nucleo Riscontro ISEE,Istituto Nazionale Previdenza Sociale - INPS,19.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Tutte,Consultazione Attestazione ISEE,Istituto Nazionale Previdenza Sociale - INPS,46.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,0,Tutte,Consultazione Indicatore Riscontro ISEE,Istituto Nazionale Previdenza Sociale - INPS,6.0
@@ -417,9 +417,9 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 7,Regioni e Province Autonome,1,Altre Pubbliche Amministrazioni locali,RM-SSU-02 Back Office SUAP Regione Marche Registro Imprese,Regione Marche,1.0
 7,Regioni e Province Autonome,1,Altre Pubbliche Amministrazioni locali,RM-SSU-04 Ente Terzo Regione Marche Back Office,Regione Marche,1.0
 7,Regioni e Province Autonome,2,Aziende sanitarie locali e Strutture di ricovero,,,
-7,Regioni e Province Autonome,3,Comuni,ICEF indicatore famiglia con nucleo,Provincia Autonoma di Trento,2.0
 7,Regioni e Province Autonome,3,Comuni,ICEF indicatore famiglia senza nucleo,Provincia Autonoma di Trento,1.0
 7,Regioni e Province Autonome,3,Comuni,RL-Sigmater Consultazione UIU,Regione Liguria,1.0
+7,Regioni e Province Autonome,3,Comuni,ICEF indicatore famiglia con nucleo,Provincia Autonoma di Trento,1.0
 7,Regioni e Province Autonome,3,Comuni,RL-Sigmater Consultazione Terreni,Regione Liguria,1.0
 7,Regioni e Province Autonome,3,Comuni,RL-Sigmater Consultazione Soggetti,Regione Liguria,1.0
 7,Regioni e Province Autonome,11,Enti privati,,,
@@ -428,8 +428,8 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 7,Regioni e Province Autonome,9,Stazioni Appaltanti e Gestori di pubblici servizi,,,
 7,Regioni e Province Autonome,10,Università e AFAM,,,
 7,Regioni e Province Autonome,0,Tutte,[RVE] BackOffice SUAP to Enti Terzi,Regione del Veneto,2.0
-7,Regioni e Province Autonome,0,Tutte,ICEF indicatore famiglia con nucleo,Provincia Autonoma di Trento,2.0
 7,Regioni e Province Autonome,0,Tutte,ICEF indicatore famiglia senza nucleo,Provincia Autonoma di Trento,1.0
+7,Regioni e Province Autonome,0,Tutte,Opere Consolidamento,Provincia Autonoma di Trento,1.0
 7,Regioni e Province Autonome,0,Tutte,RC027 - Consultazione rilevazioni idrogeologiche,Regione Campania,2.0
 7,Regioni e Province Autonome,0,Tutte,RC026 - Consultazione contaminanti Campania trasparente,Regione Campania,1.0
 7,Regioni e Province Autonome,0,Tutte,RC020 - Consultazione ultime ispezioni e verifiche di opere,Regione Campania,1.0
@@ -439,24 +439,24 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 7,Regioni e Province Autonome,0,Tutte,RC021 - Consultazione beni confiscati,Regione Campania,1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,6,Altre Pubbliche Amministrazioni Centrali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
-9,Stazioni Appaltanti e Gestori di pubblici servizi,12,Pubbliche Amministrazioni Centrali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,1.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,12,Pubbliche Amministrazioni Centrali,,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,7,Regioni e Province Autonome,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,1,Altre Pubbliche Amministrazioni locali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,21.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,2,Aziende sanitarie locali e Strutture di ricovero,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,3.0
-9,Stazioni Appaltanti e Gestori di pubblici servizi,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,777.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,766.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,3,Comuni,Pubblicazione mappe infrastrutturali (WMS) - SINFI,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A.""",3.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,3,Comuni,Consultazione statistiche infrastrutturali - SINFI,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A.""",1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,11,Enti privati,,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,5,Province e Città Metropolitane,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,8.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,8,Scuole,,,
-9,Stazioni Appaltanti e Gestori di pubblici servizi,9,Stazioni Appaltanti e Gestori di pubblici servizi,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,9.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,9,Stazioni Appaltanti e Gestori di pubblici servizi,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,8.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,9,Stazioni Appaltanti e Gestori di pubblici servizi,SEND - solo per SCP (Società a controllo pubblico),PagoPa S.p.A.,3.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,9,Stazioni Appaltanti e Gestori di pubblici servizi,Scambio documentazione e informazioni sugli scavi - SINFI,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A.""",1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,9,Stazioni Appaltanti e Gestori di pubblici servizi,Conferimento dati infrastrutturali - SINFI,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A.""",1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,9,Stazioni Appaltanti e Gestori di pubblici servizi,Pubblicazione mappe infrastrutturali (WMS) - SINFI,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A.""",1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,9,Stazioni Appaltanti e Gestori di pubblici servizi,Consultazione statistiche infrastrutturali - SINFI,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A.""",1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,10,Università e AFAM,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,1.0
-9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Tutte,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,824.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Tutte,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,811.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Tutte,Pubblicazione mappe infrastrutturali (WMS) - SINFI,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A.""",4.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Tutte,Consultazione statistiche infrastrutturali - SINFI,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A.""",2.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Tutte,SEND - solo per SCP (Società a controllo pubblico),PagoPa S.p.A.,3.0
@@ -495,26 +495,26 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 10,Università e AFAM,8,Scuole,Consultazione titoli accademici (IFS03),Universita' degli Studi di Verona,1.0
 10,Università e AFAM,8,Scuole,Consultazione iscrizioni accademiche (IFS02),Universita' degli Studi di Milano - Bicocca,1.0
 10,Università e AFAM,9,Stazioni Appaltanti e Gestori di pubblici servizi,,,
-10,Università e AFAM,10,Università e AFAM,Consultazione titoli accademici (IFS03),Universita' degli Studi di Perugia,1.0
-10,Università e AFAM,10,Università e AFAM,Consultazione iscrizioni accademiche (IFS02),Universita' degli Studi di Siena,1.0
-10,Università e AFAM,10,Università e AFAM,Consultazione titoli accademici (IFS03),Universita' degli Studi di Verona,1.0
 10,Università e AFAM,10,Università e AFAM,Consultazione titoli accademici (IFS03),Alma Mater Studiorum - Universita' di Bologna,1.0
 10,Università e AFAM,10,Università e AFAM,Consultazione titoli accademici (IFS03),Universita' degli Studi di Roma La Sapienza,1.0
 10,Università e AFAM,10,Università e AFAM,Consultazione titoli accademici (IFS03),UNIVERSITA' DEGLI STUDI DI BRESCIA,1.0
 10,Università e AFAM,10,Università e AFAM,Consultazione iscrizioni accademiche (IFS02),UNIVERSITA' DEGLI STUDI DI BRESCIA,1.0
-10,Università e AFAM,10,Università e AFAM,Consultazione titoli accademici (IFS03),Universita' degli Studi di Milano - Bicocca,1.0
 10,Università e AFAM,10,Università e AFAM,Consultazione iscrizioni accademiche (IFS02),Universita' degli Studi di Torino,1.0
 10,Università e AFAM,10,Università e AFAM,Consultazione titoli accademici (IFS03),Universita' degli Studi di Bergamo,1.0
-10,Università e AFAM,0,Tutte,Consultazione titoli accademici (IFS03),Universita' degli Studi di Milano - Bicocca,11.0
+10,Università e AFAM,10,Università e AFAM,Consultazione titoli accademici (IFS03),Universita' degli Studi di Pavia,1.0
+10,Università e AFAM,10,Università e AFAM,Consultazione iscrizioni accademiche (IFS02),Istituto Universitario di Studi Superiori di Pavia,1.0
+10,Università e AFAM,10,Università e AFAM,Consultazione iscrizioni accademiche (IFS02),Politecnico di Milano,1.0
+10,Università e AFAM,10,Università e AFAM,Consultazione iscrizioni accademiche (IFS02),Universita' degli Studi di Bergamo,1.0
+10,Università e AFAM,0,Tutte,Consultazione titoli accademici (IFS03),Universita' degli Studi di Milano - Bicocca,10.0
 10,Università e AFAM,0,Tutte,Consultazione titoli accademici (IFS03),Universita' degli Studi di Roma La Sapienza,2.0
-10,Università e AFAM,0,Tutte,Consultazione iscrizioni accademiche (IFS02),Universita' Iuav di Venezia,2.0
 10,Università e AFAM,0,Tutte,Consultazione variazioni iscrizioni accademiche (IFS06),Accademia Nazionale di Danza,1.0
+10,Università e AFAM,0,Tutte,Consultazione variazioni iscrizioni accademiche (IFS06),Conservatorio di Musica 'Tito Schipa' di Lecce,1.0
 10,Università e AFAM,0,Tutte,Consultazione variazioni titoli accademici (IFS07),Conservatorio Statale di Musica E.F. Dall'Abaco di Verona,1.0
 10,Università e AFAM,0,Tutte,Consultazione iscrizioni accademiche (IFS02),Accademia Nazionale di Danza,1.0
 10,Università e AFAM,0,Tutte,Consultazione iscrizioni accademiche (IFS02),Accademia di Belle Arti Reggio Calabria,1.0
+10,Università e AFAM,0,Tutte,Consultazione titoli accademici (IFS03),Istituto Superiore per Le Industrie Artistiche di Roma,1.0
 10,Università e AFAM,0,Tutte,Consultazione titoli accademici (IFS03),Universita' degli Studi di Torino,3.0
-10,Università e AFAM,0,Tutte,Consultazione titoli accademici (IFS03),Universita' degli Studi di Verona,2.0
-10,Università e AFAM,0,Tutte,Consultazione iscrizioni accademiche (IFS02),Universita' degli Studi di Milano - Bicocca,2.0
+10,Università e AFAM,0,Tutte,Consultazione iscrizioni accademiche (IFS02),Universita' degli Studi di Milano - Bicocca,1.0
 12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,9.0
 12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,ElabMassivaAccertIdUnicoNazionale,Ministero dell'Interno,8.0
 12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,4.0
@@ -527,16 +527,17 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1.0
 12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,DL78PF - Interrogazione soggetti Persona Fisica per le PPAA,Agenzia delle Entrate,1.0
 12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Upload massivo AOO-UO - IPA Area Riservata Ente,Agenzia per L'Italia Digitale,1.0
+12,Pubbliche Amministrazioni Centrali,4,Enti Nazionali di Previdenza ed Assistenza Sociale,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1.0
 12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,3.0
 12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,ANIS - Consultazione Titoli [IFS03],MINISTERO DELL'UNIVERSITA' E DELLA RICERCA,3.0
 12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,APICIG2,Autorita' Nazionale Anticorruzione - A.N.AC.,2.0
 12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,2.0
-12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,C015-servizioAccertamentoGeneralita,Ministero dell'Interno,2.0
-12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,C029-servizioAccertamentoDatiAnagrafici,Ministero dell'Interno,1.0
-12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,Consultazione Avvisi OIV – inPA,Dipartimento della Funzione Pubblica,1.0
-12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,Consultazione Bandi apprendistato – inPA,Dipartimento della Funzione Pubblica,1.0
-12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,Consultazione dati per Scelte PA/Sede – inPA,Dipartimento della Funzione Pubblica,1.0
-12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,DGMOT-Inforest_Veicoli,Ministero delle infrastrutture e dei trasporti,1.0
+12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,DL78PF - Interrogazione soggetti Persona Fisica per le PPAA,Agenzia delle Entrate,2.0
+12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,RICERCA_Variazioni anagrafica degli ENTI-IPA_30,Agenzia per L'Italia Digitale,2.0
+12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,RICERCA_Variazioni delle PEC degli Enti-IPA_25,Agenzia per L'Italia Digitale,2.0
+12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,RICERCA_PEC di un ENTE-IPA_07,Agenzia per L'Italia Digitale,2.0
+12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,RICERCA_PEC di una UO-IPA_08,Agenzia per L'Italia Digitale,2.0
+12,Pubbliche Amministrazioni Centrali,12,Pubbliche Amministrazioni Centrali,RICERCA_Elenco anagrafiche delle UO-IPA_39,Agenzia per L'Italia Digitale,2.0
 12,Pubbliche Amministrazioni Centrali,7,Regioni e Province Autonome,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,7.0
 12,Pubbliche Amministrazioni Centrali,7,Regioni e Province Autonome,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,7.0
 12,Pubbliche Amministrazioni Centrali,7,Regioni e Province Autonome,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,5.0
@@ -547,16 +548,16 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,7,Regioni e Province Autonome,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,5.0
 12,Pubbliche Amministrazioni Centrali,7,Regioni e Province Autonome,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,4.0
 12,Pubbliche Amministrazioni Centrali,7,Regioni e Province Autonome,ANIST - Accertamento Frequenze,Ministero dell'istruzione e del merito,4.0
-12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,14.0
-12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,14.0
+12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,15.0
+12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,13.0
 12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,6.0
+12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,C009-servizioVerificaDichStatoFamiglia-approvazione_automati,Ministero dell'Interno,5.0
 12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,5.0
 12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,5.0
 12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,5.0
-12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,C009-servizioVerificaDichStatoFamiglia-approvazione_automati,Ministero dell'Interno,4.0
-12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,3.0
-12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,C004-servizioVerificaDichDecesso-approvazione_automatica,Ministero dell'Interno,3.0
-12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,PCP - FVPQOE,Autorita' Nazionale Anticorruzione - A.N.AC.,3.0
+12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,4.0
+12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,C004-servizioVerificaDichDecesso-approvazione_automatica,Ministero dell'Interno,4.0
+12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,C007–ServizioVerificaDichEsistenzaVita-approvazione_automati,Ministero dell'Interno,4.0
 12,Pubbliche Amministrazioni Centrali,2,Aziende sanitarie locali e Strutture di ricovero,C009-servizioVerificaDichStatoFamiglia-approvazione_automati,Ministero dell'Interno,3.0
 12,Pubbliche Amministrazioni Centrali,2,Aziende sanitarie locali e Strutture di ricovero,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,2.0
 12,Pubbliche Amministrazioni Centrali,2,Aziende sanitarie locali e Strutture di ricovero,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,2.0
@@ -567,16 +568,16 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,2,Aziende sanitarie locali e Strutture di ricovero,Stato qualificazione Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,1.0
 12,Pubbliche Amministrazioni Centrali,2,Aziende sanitarie locali e Strutture di ricovero,C007–ServizioVerificaDichEsistenzaVita-approvazione_automati,Ministero dell'Interno,1.0
 12,Pubbliche Amministrazioni Centrali,2,Aziende sanitarie locali e Strutture di ricovero,ANIS - Verifica Titolo,MINISTERO DELL'UNIVERSITA' E DELLA RICERCA,1.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,4834.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,2964.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,2381.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,2275.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,463.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,405.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,378.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,289.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,278.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,271.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,4835.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,2970.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,2379.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,2280.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,465.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,408.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,383.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,293.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,281.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,274.0
 12,Pubbliche Amministrazioni Centrali,11,Enti privati,PCP – CodeList,Autorita' Nazionale Anticorruzione - A.N.AC.,9.0
 12,Pubbliche Amministrazioni Centrali,11,Enti privati,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,9.0
 12,Pubbliche Amministrazioni Centrali,11,Enti privati,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,9.0
@@ -587,7 +588,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,11,Enti privati,PCP - FVPQOE,Autorita' Nazionale Anticorruzione - A.N.AC.,3.0
 12,Pubbliche Amministrazioni Centrali,11,Enti privati,PCP - FVPQ,Autorita' Nazionale Anticorruzione - A.N.AC.,3.0
 12,Pubbliche Amministrazioni Centrali,11,Enti privati,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,1.0
-12,Pubbliche Amministrazioni Centrali,5,Province e Città Metropolitane,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,8.0
+12,Pubbliche Amministrazioni Centrali,5,Province e Città Metropolitane,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,9.0
 12,Pubbliche Amministrazioni Centrali,5,Province e Città Metropolitane,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,8.0
 12,Pubbliche Amministrazioni Centrali,5,Province e Città Metropolitane,C007–ServizioVerificaDichEsistenzaVita-approvazione_automati,Ministero dell'Interno,5.0
 12,Pubbliche Amministrazioni Centrali,5,Province e Città Metropolitane,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,3.0
@@ -608,11 +609,11 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,8,Scuole,ElabMassivaAccertIdUnicoNazionale,Ministero dell'Interno,1.0
 12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,C007–ServizioVerificaDichEsistenzaVita-approvazione_automati,Ministero dell'Interno,18.0
 12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,17.0
-12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,13.0
-12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,13.0
+12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,12.0
+12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,12.0
 12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,C004-servizioVerificaDichDecesso-approvazione_automatica,Ministero dell'Interno,7.0
-12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,C009-servizioVerificaDichStatoFamiglia-approvazione_automati,Ministero dell'Interno,7.0
 12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,7.0
+12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,C009-servizioVerificaDichStatoFamiglia-approvazione_automati,Ministero dell'Interno,6.0
 12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,ElabMassivaVerificaDichEsistenzaInVita,Ministero dell'Interno,6.0
 12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,C006-servizioVerificaDichCittadinanza-approvazione_automatic,Ministero dell'Interno,5.0
 12,Pubbliche Amministrazioni Centrali,9,Stazioni Appaltanti e Gestori di pubblici servizi,PCP - FVPQOE,Autorita' Nazionale Anticorruzione - A.N.AC.,4.0
@@ -626,13 +627,13 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,10,Università e AFAM,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,2.0
 12,Pubbliche Amministrazioni Centrali,10,Università e AFAM,C004-servizioVerificaDichDecesso-approvazione_automatica,Ministero dell'Interno,1.0
 12,Pubbliche Amministrazioni Centrali,10,Università e AFAM,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1.0
-12,Pubbliche Amministrazioni Centrali,0,Tutte,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,465.0
-12,Pubbliche Amministrazioni Centrali,0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,304.0
-12,Pubbliche Amministrazioni Centrali,0,Tutte,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,476.0
-12,Pubbliche Amministrazioni Centrali,0,Tutte,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,388.0
-12,Pubbliche Amministrazioni Centrali,0,Tutte,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,283.0
-12,Pubbliche Amministrazioni Centrali,0,Tutte,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,301.0
-12,Pubbliche Amministrazioni Centrali,0,Tutte,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,4834.0
-12,Pubbliche Amministrazioni Centrali,0,Tutte,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,2964.0
-12,Pubbliche Amministrazioni Centrali,0,Tutte,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,2381.0
-12,Pubbliche Amministrazioni Centrali,0,Tutte,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,2275.0
+12,Pubbliche Amministrazioni Centrali,0,Tutte,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,469.0
+12,Pubbliche Amministrazioni Centrali,0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,301.0
+12,Pubbliche Amministrazioni Centrali,0,Tutte,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,479.0
+12,Pubbliche Amministrazioni Centrali,0,Tutte,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,393.0
+12,Pubbliche Amministrazioni Centrali,0,Tutte,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,286.0
+12,Pubbliche Amministrazioni Centrali,0,Tutte,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,305.0
+12,Pubbliche Amministrazioni Centrali,0,Tutte,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,4835.0
+12,Pubbliche Amministrazioni Centrali,0,Tutte,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,2970.0
+12,Pubbliche Amministrazioni Centrali,0,Tutte,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,2379.0
+12,Pubbliche Amministrazioni Centrali,0,Tutte,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,2280.0

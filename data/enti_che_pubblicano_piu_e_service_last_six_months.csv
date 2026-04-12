@@ -1,6 +1,6 @@
 id,name,count,producerName
-0,Totale,8.0,Conservatorio di Musica Arrigo Pedrollo di Vicenza
 0,Totale,8.0,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri
+0,Totale,8.0,Universita' degli Studi di Napoli Federico II
 0,Totale,9.0,Conservatorio Statale di Musica Guido Cantelli
 0,Totale,11.0,Regione Autonoma Friuli-Venezia Giulia
 0,Totale,13.0,Agenzia del Demanio
@@ -19,15 +19,15 @@ id,name,count,producerName
 1,Altre Pubbliche Amministrazioni locali,2.0,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"
 1,Altre Pubbliche Amministrazioni locali,3.0,Unione Dei Comuni Delle Terre del Sole
 1,Altre Pubbliche Amministrazioni locali,6.0,Comunita' Montana dei Laghi Bergamaschi
+2,Aziende sanitarie locali e Strutture di ricovero,2.0,Azienda Sanitaria Territoriale di Fermo
+2,Aziende sanitarie locali e Strutture di ricovero,2.0,Azienda Sanitaria Locale di Matera
 2,Aziende sanitarie locali e Strutture di ricovero,2.0,Fondazione Toscana Gabriele Monasterio per La Ricerca Medica e di Sanita Pubblica
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Socio Sanitaria Territoriale di Mantova
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Unita' Sanitaria Locale Toscana Sud Est
-2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Sanitaria di Potenza ASP
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,"Azienda Ospedaliero-Universitaria Policlinico ""G. Rodolico-San Marco"" di Catania"
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Sanitaria dell'Alto Adige - Suedtiroler Sanitaetsbetrieb
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Unita' Sanitaria Locale Toscana Centro
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Sanitaria Locale Napoli 1 Centro
-2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Sanitaria Locale di Matera
 2,Aziende sanitarie locali e Strutture di ricovero,6.0,Azienda Sanitaria Locale 2 Lanciano Vasto Chieti
 3,Comuni,6.0,Comune di Mattinata
 3,Comuni,6.0,Comune di Casoria
@@ -69,7 +69,7 @@ id,name,count,producerName
 7,Regioni e Province Autonome,35.0,Regione Marche
 8,Scuole,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,1.0,SOCIETA' ACQUA LODIGIANA S.R.L. O PIU' BREVEMENTE S.A.L. S.R.L.
-9,Stazioni Appaltanti e Gestori di pubblici servizi,4.0,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A."""
+9,Stazioni Appaltanti e Gestori di pubblici servizi,7.0,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A."""
 10,Università e AFAM,7.0,"Accademia di Belle Arti Statale ""Ligustica"""
 10,Università e AFAM,8.0,Conservatorio di Musica Arrigo Pedrollo di Vicenza
 10,Università e AFAM,8.0,Universita' degli Studi di Napoli Federico II
@@ -78,9 +78,9 @@ id,name,count,producerName
 12,Pubbliche Amministrazioni Centrali,1.0,Ministero della Giustizia
 12,Pubbliche Amministrazioni Centrali,1.0,Dipartimento per la trasformazione digitale
 12,Pubbliche Amministrazioni Centrali,1.0,Dipartimento dei Vigili del Fuoco - Ufficio del Capo Dipartimento
-12,Pubbliche Amministrazioni Centrali,2.0,Autorita' Nazionale Anticorruzione - A.N.AC.
 12,Pubbliche Amministrazioni Centrali,2.0,Agenzia per L'Italia Digitale
 12,Pubbliche Amministrazioni Centrali,2.0,Ministero dell'Interno
+12,Pubbliche Amministrazioni Centrali,3.0,Autorita' Nazionale Anticorruzione - A.N.AC.
 12,Pubbliche Amministrazioni Centrali,5.0,MINISTERO DELL'UNIVERSITA' E DELLA RICERCA
 12,Pubbliche Amministrazioni Centrali,6.0,Ministero dell'istruzione e del merito
 12,Pubbliche Amministrazioni Centrali,13.0,Agenzia del Demanio

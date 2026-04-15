@@ -1,14 +1,14 @@
 id,name,count,producerName
 0,Totale,28.0,Regione Basilicata
 0,Totale,32.0,Regione Autonoma Valle D'Aosta
-0,Totale,35.0,Regione Campania
 0,Totale,35.0,Regione Piemonte
+0,Totale,35.0,Regione Campania
 0,Totale,36.0,Regione Marche
 0,Totale,37.0,Regione Puglia
 0,Totale,37.0,Ministero del Lavoro e delle Politiche Sociali
-0,Totale,38.0,Regione Molise
-0,Totale,42.0,Istituto Nazionale Previdenza Sociale - INPS
 0,Totale,44.0,Regione Autonoma Friuli-Venezia Giulia
+0,Totale,46.0,Regione Molise
+0,Totale,50.0,Istituto Nazionale Previdenza Sociale - INPS
 1,Altre Pubbliche Amministrazioni locali,1.0,Itaca- Istituto per L'Innovazione e Trasparenza Degli Appalti e La Compatibilita Ambientale
 1,Altre Pubbliche Amministrazioni locali,1.0,"Unione dei Comuni Valli del Reno, Lavino e Samoggia"
 1,Altre Pubbliche Amministrazioni locali,1.0,Azienda Speciale per I Servizi Sociali del Comune di Montesilvano
@@ -40,7 +40,7 @@ id,name,count,producerName
 3,Comuni,8.0,Comune di Terzigno
 3,Comuni,9.0,Comune di San Giorgio a Cremano
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,2.0,Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro - INAIL
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,42.0,Istituto Nazionale Previdenza Sociale - INPS
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,50.0,Istituto Nazionale Previdenza Sociale - INPS
 5,Province e Città Metropolitane,1.0,Provincia di Como
 5,Province e Città Metropolitane,1.0,Provincia di Ferrara
 5,Province e Città Metropolitane,1.0,Citta' Metropolitana di Genova
@@ -51,7 +51,6 @@ id,name,count,producerName
 5,Province e Città Metropolitane,2.0,Citta' Metropolitana di Milano
 5,Province e Città Metropolitane,2.0,Provincia di Modena
 5,Province e Città Metropolitane,2.0,Citta' Metropolitana di Venezia
-6,Altre Pubbliche Amministrazioni Centrali,1.0,Federazione Nazionale Ordini Professioni Infermieristiche (FNOPI)
 6,Altre Pubbliche Amministrazioni Centrali,1.0,Istituto Nazionale di Statistica - ISTAT
 6,Altre Pubbliche Amministrazioni Centrali,3.0,Ispettorato Nazionale del Lavoro
 6,Altre Pubbliche Amministrazioni Centrali,4.0,"Federazione Nazionale Ordini dei Tecnici Sanitari di Radiologia Medica e delle Professioni Sanitarie Tecniche, della riabilitazione e della prevenzione"
@@ -59,7 +58,7 @@ id,name,count,producerName
 6,Altre Pubbliche Amministrazioni Centrali,6.0,Agenzia per le Erogazioni in Agricoltura - AGEA
 6,Altre Pubbliche Amministrazioni Centrali,8.0,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri
 6,Altre Pubbliche Amministrazioni Centrali,13.0,Istituto Superiore per la Protezione e la Ricerca Ambientale
-7,Regioni e Province Autonome,11.0,Regione Calabria
+7,Regioni e Province Autonome,10.0,Regione Liguria
 7,Regioni e Province Autonome,13.0,Regione Siciliana
 7,Regioni e Province Autonome,28.0,Regione Basilicata
 7,Regioni e Province Autonome,32.0,Regione Autonoma Valle D'Aosta
@@ -67,8 +66,8 @@ id,name,count,producerName
 7,Regioni e Province Autonome,35.0,Regione Piemonte
 7,Regioni e Province Autonome,36.0,Regione Marche
 7,Regioni e Province Autonome,37.0,Regione Puglia
-7,Regioni e Province Autonome,38.0,Regione Molise
 7,Regioni e Province Autonome,44.0,Regione Autonoma Friuli-Venezia Giulia
+7,Regioni e Province Autonome,46.0,Regione Molise
 8,Scuole,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,1.0,MEDIO CHIAMPO SPA
 9,Stazioni Appaltanti e Gestori di pubblici servizi,1.0,SOCIETA' ACQUA LODIGIANA S.R.L. O PIU' BREVEMENTE S.A.L. S.R.L.

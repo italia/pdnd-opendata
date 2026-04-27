@@ -13,9 +13,9 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Tutte,3,Comuni,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,3043.0
 0,Tutte,3,Comuni,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,2494.0
 0,Tutte,3,Comuni,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,2332.0
-0,Tutte,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1586.0
-0,Tutte,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,1235.0
-0,Tutte,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,1191.0
+0,Tutte,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1587.0
+0,Tutte,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,1236.0
+0,Tutte,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,1192.0
 0,Tutte,3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1150.0
 0,Tutte,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,820.0
 0,Tutte,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,6843.0
@@ -119,10 +119,10 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Tutte,10,Università e AFAM,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,6.0
 0,Tutte,10,Università e AFAM,C009-servizioVerificaDichStatoFamiglia-approvazione_automati,Ministero dell'Interno,6.0
 0,Tutte,10,Università e AFAM,ANIS - Consultazione Iscrizioni [IFS02],MINISTERO DELL'UNIVERSITA' E DELLA RICERCA,5.0
-0,Tutte,0,Tutte,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,1412.0
+0,Tutte,0,Tutte,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,1413.0
 0,Tutte,0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1368.0
-0,Tutte,0,Tutte,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,1220.0
-0,Tutte,0,Tutte,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1628.0
+0,Tutte,0,Tutte,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,1221.0
+0,Tutte,0,Tutte,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1629.0
 0,Tutte,0,Tutte,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,834.0
 0,Tutte,0,Tutte,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,5010.0
 0,Tutte,0,Tutte,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,3043.0
@@ -216,16 +216,16 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 2,Aziende sanitarie locali e Strutture di ricovero,8,Scuole,,,
 2,Aziende sanitarie locali e Strutture di ricovero,9,Stazioni Appaltanti e Gestori di pubblici servizi,,,
 2,Aziende sanitarie locali e Strutture di ricovero,10,Università e AFAM,,,
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,SUAP ET ASL 2 ABRUZZO,Azienda Sanitaria Locale 2 Lanciano Vasto Chieti,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Elenco prestazioni disponibili,Azienda Ospedaliera San Carlo di Potenza,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Caregiver COT per Assistito,AZIENDA SANITARIA TERRITORIALE DI ASCOLI PICENO,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Caregiver COT per Assistito,AZIENDA SANITARIA TERRITORIALE DI ANCONA,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Situazione posti letto,Azienda Sanitaria Locale di Matera,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Caregiver COT per Assistito,AZIENDA SANITARIA TERRITORIALE DI MACERATA,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Contatti PUA di un Assistito,AZIENDA SANITARIA TERRITORIALE DI PESARO E URBINO,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Consultazione presidi ospedalieri,Azienda Sanitaria Provinciale di Agrigento,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Elenco prestazioni disponibili,Azienda Sanitaria di Potenza ASP,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Contatti PUA di un Assistito,Azienda Sanitaria Territoriale di Fermo,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,SSU_SUAP_ET_TO_BO,Azienda Sanitaria Locale VCO,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Attese Pronto Soccorso,Azienda USL della Valle d'Aosta,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Situazione posti letto,Azienda Sanitaria di Potenza ASP,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Lista Defibrillatori,Azienda USL della Valle d'Aosta,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Elenco prestazioni offerte,Azienda Ospedaliera Sant'Anna e San Sebastiano di Caserta,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Elenco prestazioni disponibili,IRCCS CROB,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Consultazione centri vaccinali,Azienda Sanitaria Provinciale di Agrigento,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Contatti PUA di un Assistito,AZIENDA SANITARIA TERRITORIALE DI ANCONA,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Situazione posti letto,IRCCS CROB,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Tempi attesa pronto soccorso,Azienda Sanitaria Provinciale di Vibo Valentia,1.0
 3,Comuni,6,Altre Pubbliche Amministrazioni Centrali,Scheda anagrafica,Comune di Quartu Sant'Elena,1.0
 3,Comuni,6,Altre Pubbliche Amministrazioni Centrali,Scheda anagrafica,Comune di Brescia,1.0
 3,Comuni,6,Altre Pubbliche Amministrazioni Centrali,Consultazione dei dati anagrafici delle persone fisiche,Comune di Catania,1.0
@@ -292,7 +292,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 3,Comuni,0,Tutte,Abitazione principale e pertinenza,Comune di Lecco,6.0
 3,Comuni,0,Tutte,Punti di interesse,Comune di Brogliano,5.0
 3,Comuni,0,Tutte,Indici di efficacia ed efficienza finanziaria e demografica,Comune di Rivoli Veronese,4.0
-3,Comuni,0,Tutte,Punti di interesse,Comune di Trevenzuolo,4.0
+3,Comuni,0,Tutte,Punti di interesse,Comune di Ospitale di Cadore,4.0
 3,Comuni,0,Tutte,Indici di efficacia ed efficienza finanziaria e demografica,Comune di Ospitale di Cadore,4.0
 3,Comuni,0,Tutte,Consultazione dati sensori IOT,Comune di Trevenzuolo,4.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,6,Altre Pubbliche Amministrazioni Centrali,,,
@@ -389,16 +389,16 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 5,Province e Città Metropolitane,8,Scuole,,,
 5,Province e Città Metropolitane,9,Stazioni Appaltanti e Gestori di pubblici servizi,,,
 5,Province e Città Metropolitane,10,Università e AFAM,,,
-5,Province e Città Metropolitane,0,Tutte,SERVIZIO SUAP ET PROVINCIA DI NOVARA,Provincia di Novara,1.0
-5,Province e Città Metropolitane,0,Tutte,SSU_SUAP_ET_TO_BO,Citta' Metropolitana di Venezia,1.0
+5,Province e Città Metropolitane,0,Tutte,SUAP ET CITTA METROPOLITANA BOLOGNA,Citta' Metropolitana di Bologna,1.0
 5,Province e Città Metropolitane,0,Tutte,SUAP BACK OFFICE ENTI TERZI Autoscuole,Provincia di Arezzo,2.0
-5,Province e Città Metropolitane,0,Tutte,SSU_SUAP_ET_TO_BO,Provincia di Salerno,1.0
-5,Province e Città Metropolitane,0,Tutte,SERVIZIO SUAP ET PROVINCIA DI PISTOIA,Provincia di Pistoia,1.0
-5,Province e Città Metropolitane,0,Tutte,SUAP ET PROVINCIA DI PIACENZA,Provincia di Piacenza,1.0
-5,Province e Città Metropolitane,0,Tutte,SSU_SUAP_ET_TO_BO,Provincia di Lodi,1.0
-5,Province e Città Metropolitane,0,Tutte,PROD - ET to BO,Citta' Metropolitana di Venezia,1.0
-5,Province e Città Metropolitane,0,Tutte,SERVIZIO SUAP ET PROVINCIA DI TREVISO,Provincia di Treviso,1.0
-5,Province e Città Metropolitane,0,Tutte,SUAP ET- PROVINCIA DI ORISTANO,Provincia di Oristano,1.0
+5,Province e Città Metropolitane,0,Tutte,SUAP ET Provincia di Ferrara,Provincia di Ferrara,1.0
+5,Province e Città Metropolitane,0,Tutte,SUAP ET PROVINCIA VCO,Provincia del Verbano Cusio Ossola,1.0
+5,Province e Città Metropolitane,0,Tutte,SERVIZIO SUAP ET PROVINCIA DI REGGIO EMILIA,Provincia di Reggio Emilia,1.0
+5,Province e Città Metropolitane,0,Tutte,SUAP ET Provincia di Livorno,Provincia di Livorno,1.0
+5,Province e Città Metropolitane,0,Tutte,SUAP ET Provincia di Pisa,Provincia di Pisa,1.0
+5,Province e Città Metropolitane,0,Tutte,PROD - ET to BO,Provincia di Brescia,1.0
+5,Province e Città Metropolitane,0,Tutte,SSU_SUAP_ET_TO_BO,Citta' Metropolitana di Napoli,1.0
+5,Province e Città Metropolitane,0,Tutte,SSU_SUAP_ET_TO_BO,Provincia di Brescia,1.0
 6,Altre Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,GESTIONE ANAGRAFICHE MEDICI,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri,107.0
 6,Altre Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,GESTIONE ANAGRAFICHE ODONTOIATRI,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri,107.0
 6,Altre Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,IT Wallet API - CNOP (HEALTH-PROFESSIONS-AS),Consiglio Nazionale dell'Ordine degli Psicologi,1.0
@@ -490,15 +490,15 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 7,Regioni e Province Autonome,9,Stazioni Appaltanti e Gestori di pubblici servizi,Informazioni relative agli allevamenti presenti in Abruzzo,Regione Abruzzo,1.0
 7,Regioni e Province Autonome,9,Stazioni Appaltanti e Gestori di pubblici servizi,Consultazione bandi della Regione Abruzzo,Regione Abruzzo,1.0
 7,Regioni e Province Autonome,10,Università e AFAM,,,
-7,Regioni e Province Autonome,0,Tutte,Consultazione Interventi di Dissesto - ISPRARVE,Regione del Veneto,2.0
-7,Regioni e Province Autonome,0,Tutte,Consultazione Atti di Dissesto - ISPRARVE,Regione del Veneto,2.0
 7,Regioni e Province Autonome,0,Tutte,[RVE] BackOffice SUAP to Enti Terzi,Regione del Veneto,2.0
 7,Regioni e Province Autonome,0,Tutte,RL-Sigmater Consultazione UIU,Regione Liguria,2.0
 7,Regioni e Province Autonome,0,Tutte,RL-Sigmater Consultazione Terreni,Regione Liguria,2.0
 7,Regioni e Province Autonome,0,Tutte,RL-Sigmater Consultazione Soggetti,Regione Liguria,3.0
+7,Regioni e Province Autonome,0,Tutte,Comunicazioni Obbligatorie UNILAV Regione Piemonte,Regione Piemonte,2.0
+7,Regioni e Province Autonome,0,Tutte,Comunicazioni Obbligatorie UNIPI Regione Piemonte,Regione Piemonte,2.0
 7,Regioni e Province Autonome,0,Tutte,RC027 - Consultazione rilevazioni idrogeologiche,Regione Campania,2.0
 7,Regioni e Province Autonome,0,Tutte,RM-CO-001 Comunicazioni obbligatorie Regione Marche,Regione Marche,2.0
-7,Regioni e Province Autonome,0,Tutte,Comunicazioni Obbligatorie VARDATORI Regione Piemonte,Regione Piemonte,2.0
+7,Regioni e Province Autonome,0,Tutte,Comunicazioni Obbligatorie UNISOMM Regione Piemonte,Regione Piemonte,2.0
 7,Regioni e Province Autonome,0,Tutte,ComObblWS,Regione Toscana,2.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,6,Altre Pubbliche Amministrazioni Centrali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,9.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,6843.0
@@ -532,9 +532,9 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Tutte,LoginPa - Dati Soggetti,GEROPA SRL,1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Tutte,SEND - solo per SCP (Società a controllo pubblico),PagoPa S.p.A.,9.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Tutte,Documenti su IO - notifiche Patente,Istituto Poligrafico e Zecca dello Stato S.P.A.,1.0
-9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Tutte,Scambio documentazione e informazioni sugli scavi - SINFI,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A.""",1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Tutte,Documenti su IO - Statistiche andamento servizio,Istituto Poligrafico e Zecca dello Stato S.P.A.,1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Tutte,Conferimento dati infrastrutturali - SINFI,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A.""",1.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Tutte,Consultazione edifici Broadband Ready - SINFI,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A.""",1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,0,Tutte,Gestione e consultazione foto georeferenziate - SINFI,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A.""",1.0
 10,Università e AFAM,6,Altre Pubbliche Amministrazioni Centrali,Consultazione titoli accademici (IFS03),Universita' degli Studi di Milano - Bicocca,3.0
 10,Università e AFAM,6,Altre Pubbliche Amministrazioni Centrali,Consultazione titoli accademici (IFS03),Universita' degli Studi di Verona,1.0
@@ -588,11 +588,11 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 10,Università e AFAM,0,Tutte,Consultazione titoli accademici (IFS03),Universita' degli Studi di Milano - Bicocca,13.0
 10,Università e AFAM,0,Tutte,Consultazione titoli accademici (IFS03),Universita' degli Studi di Verona,4.0
 10,Università e AFAM,0,Tutte,Consultazione titoli accademici (IFS03),Universita' degli Studi di Roma La Sapienza,4.0
-10,Università e AFAM,0,Tutte,Consultazione titoli accademici (IFS03),Universita' degli Studi di Firenze,3.0
 10,Università e AFAM,0,Tutte,Consultazione iscrizioni accademiche (IFS02),Universita' Iuav di Venezia,3.0
 10,Università e AFAM,0,Tutte,Consultazione iscrizioni accademiche (IFS02),Universita' degli Studi di Milano - Bicocca,4.0
-10,Università e AFAM,0,Tutte,Consultazione titoli accademici (IFS03),Universita' degli Studi di Sassari,3.0
+10,Università e AFAM,0,Tutte,Consultazione titoli accademici (IFS03),Universita' Politecnica delle Marche,3.0
 10,Università e AFAM,0,Tutte,Consultazione iscrizioni accademiche (IFS02),Universita' degli Studi di Bari Aldo Moro,3.0
+10,Università e AFAM,0,Tutte,Consultazione titoli accademici (IFS03),Universita' degli Studi di Bari Aldo Moro,3.0
 10,Università e AFAM,0,Tutte,Consultazione iscrizioni accademiche (IFS02),Universita' degli Studi di Sassari,4.0
 10,Università e AFAM,0,Tutte,Consultazione titoli accademici (IFS03),Universita' degli Studi di Torino,5.0
 12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,17.0
@@ -609,9 +609,9 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,3043.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,2494.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,2332.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1586.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,1235.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,1191.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1587.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,1236.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,1192.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1150.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,820.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,794.0
@@ -715,10 +715,10 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,10,Università e AFAM,ANIS - Consultazione Iscrizioni [IFS02],MINISTERO DELL'UNIVERSITA' E DELLA RICERCA,5.0
 12,Pubbliche Amministrazioni Centrali,10,Università e AFAM,C004-servizioVerificaDichDecesso-approvazione_automatica,Ministero dell'Interno,4.0
 12,Pubbliche Amministrazioni Centrali,10,Università e AFAM,C007–ServizioVerificaDichEsistenzaVita-approvazione_automati,Ministero dell'Interno,4.0
-12,Pubbliche Amministrazioni Centrali,0,Tutte,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,1412.0
+12,Pubbliche Amministrazioni Centrali,0,Tutte,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,1413.0
 12,Pubbliche Amministrazioni Centrali,0,Tutte,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1368.0
-12,Pubbliche Amministrazioni Centrali,0,Tutte,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,1220.0
-12,Pubbliche Amministrazioni Centrali,0,Tutte,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1628.0
+12,Pubbliche Amministrazioni Centrali,0,Tutte,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,1221.0
+12,Pubbliche Amministrazioni Centrali,0,Tutte,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1629.0
 12,Pubbliche Amministrazioni Centrali,0,Tutte,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,819.0
 12,Pubbliche Amministrazioni Centrali,0,Tutte,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,834.0
 12,Pubbliche Amministrazioni Centrali,0,Tutte,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,5010.0

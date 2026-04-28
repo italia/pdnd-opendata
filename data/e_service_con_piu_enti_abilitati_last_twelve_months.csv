@@ -209,15 +209,15 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 2,Aziende sanitarie locali e Strutture di ricovero,8,Scuole,,,
 2,Aziende sanitarie locali e Strutture di ricovero,9,Stazioni Appaltanti e Gestori di pubblici servizi,,,
 2,Aziende sanitarie locali e Strutture di ricovero,10,Università e AFAM,,,
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Attese Pronto Soccorso,Azienda USL della Valle d'Aosta,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Caregiver COT per Assistito,AZIENDA SANITARIA TERRITORIALE DI ASCOLI PICENO,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Lista Defibrillatori,Azienda USL della Valle d'Aosta,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Caregiver COT per Assistito,AZIENDA SANITARIA TERRITORIALE DI ANCONA,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Situazione posti letto,Azienda Sanitaria Locale di Matera,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Caregiver COT per Assistito,Azienda Sanitaria Territoriale di Fermo,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Contatti PUA di un Assistito,AZIENDA SANITARIA TERRITORIALE DI PESARO E URBINO,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Consultazione centri vaccinali,Azienda Sanitaria Provinciale di Agrigento,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Elenco prestazioni disponibili,Azienda Sanitaria di Potenza ASP,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Posti letto per reparto,Azienda Sanitaria Provinciale di Vibo Valentia,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Contatti PUA di un Assistito,AZIENDA SANITARIA TERRITORIALE DI MACERATA,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Consultazione ambulatori e prestazioni,Azienda Sanitaria Provinciale di Agrigento,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Contatti PUA di un Assistito,AZIENDA SANITARIA TERRITORIALE DI ASCOLI PICENO,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Caregiver COT per Assistito,AZIENDA SANITARIA TERRITORIALE DI PESARO E URBINO,1.0
 3,Comuni,6,Altre Pubbliche Amministrazioni Centrali,Scheda anagrafica,Comune di Quartu Sant'Elena,1.0
 3,Comuni,6,Altre Pubbliche Amministrazioni Centrali,Consultazione dei dati anagrafici delle persone fisiche,Comune di Catania,1.0
@@ -273,13 +273,13 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 3,Comuni,0,Tutte,Abitazione principale e pertinenza,Comune di Lecco,5.0
 3,Comuni,0,Tutte,Aree Verdi,Comune di Lurano,3.0
 3,Comuni,0,Tutte,Interoperabilità protocollo AOO,Comune di Trecenta,3.0
-3,Comuni,0,Tutte,Interoperabilità protocollo AOO,Comune di Paese,2.0
-3,Comuni,0,Tutte,Welfare as a Service per i Comuni - (WaaS per i Comuni),Comune di Fano,2.0
 3,Comuni,0,Tutte,WAAS-SIUSS-Alimentazione,Comune di Erula,2.0
-3,Comuni,0,Tutte,Consultazione dei dati anagrafici delle persone fisiche,Comune di Nuoro,2.0
 3,Comuni,0,Tutte,WAAS-SIUSS-Alimentazione,Comune di Maracalagonis,2.0
-3,Comuni,0,Tutte,SIUSS,Comune di Treviso,2.0
-3,Comuni,0,Tutte,WAAS-SIUSS-Alimentazione,Comune di Concordia Sagittaria,2.0
+3,Comuni,0,Tutte,WAAS-SIUSS-Alimentazione,Comune di Sanluri,2.0
+3,Comuni,0,Tutte,WAAS SIUSS Alimentazione,Comune di Treviso,2.0
+3,Comuni,0,Tutte,Dati storici del cittadino,Comune di Montebelluna,2.0
+3,Comuni,0,Tutte,WAAS-SIUSS-Alimentazione,Comune di Aprilia,2.0
+3,Comuni,0,Tutte,WAAS-SIUSS-Alimentazione,Comune di Deliceto,2.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,6,Altre Pubbliche Amministrazioni Centrali,,,
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,waas-aggregati-assegno-unico,Istituto Nazionale Previdenza Sociale - INPS,1.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,waas-aggregati-convitti,Istituto Nazionale Previdenza Sociale - INPS,1.0
@@ -366,13 +366,13 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 5,Province e Città Metropolitane,9,Stazioni Appaltanti e Gestori di pubblici servizi,,,
 5,Province e Città Metropolitane,10,Università e AFAM,,,
 5,Province e Città Metropolitane,0,Tutte,ET to BO GEO.works,Citta' Metropolitana di Milano,1.0
-5,Province e Città Metropolitane,0,Tutte,SSU_SUAP_ET_TO_BO,Citta' Metropolitana di Venezia,1.0
 5,Province e Città Metropolitane,0,Tutte,PROD - ET to BO,Provincia di Modena,1.0
 5,Province e Città Metropolitane,0,Tutte,SUAP BACK OFFICE ENTI TERZI Autoscuole,Provincia di Arezzo,2.0
 5,Province e Città Metropolitane,0,Tutte,SUAP ET PROVINCIA DI PIACENZA,Provincia di Piacenza,1.0
-5,Province e Città Metropolitane,0,Tutte,SUAP ET Provincia di Pisa,Provincia di Pisa,1.0
 5,Province e Città Metropolitane,0,Tutte,SUAP BACK OFFICE  ENTI TERZI,Provincia di Padova,1.0
-5,Province e Città Metropolitane,0,Tutte,PROD - ET to BO,Provincia di Brescia,1.0
+5,Province e Città Metropolitane,0,Tutte,SSU_SUAP_ET_TO_BO,Citta' Metropolitana di Napoli,1.0
+5,Province e Città Metropolitane,0,Tutte,SSU_SUAP_ET_TO_BO,Provincia di Brescia,1.0
+5,Province e Città Metropolitane,0,Tutte,SERVIZIO SUAP ET PROVINCIA DI TREVISO,Provincia di Treviso,1.0
 5,Province e Città Metropolitane,0,Tutte,SUAP ET- PROVINCIA DI ORISTANO,Provincia di Oristano,1.0
 5,Province e Città Metropolitane,0,Tutte,ET to BO Inlinea,Citta' Metropolitana di Milano,1.0
 6,Altre Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,GESTIONE ANAGRAFICHE MEDICI,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri,107.0

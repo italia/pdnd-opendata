@@ -1,18 +1,18 @@
 id,name,count,producerName
 0,Totale,15.0,Regione Abruzzo
 0,Totale,16.0,Regione Puglia
-0,Totale,16.0,Regione Basilicata
-0,Totale,16.0,Accademia Belle Arti di Napoli
 0,Totale,16.0,Regione Calabria
+0,Totale,16.0,Accademia Belle Arti di Napoli
+0,Totale,16.0,Regione Basilicata
 0,Totale,19.0,Regione Campania
 0,Totale,22.0,Regione Toscana
 0,Totale,22.0,Ministero del Lavoro e delle Politiche Sociali
 0,Totale,27.0,Istituto Nazionale Previdenza Sociale - INPS
 0,Totale,34.0,Regione Marche
-1,Altre Pubbliche Amministrazioni locali,1.0,Agenzia Regionale per la Prevenzione e Protezione Ambientale del Veneto
 1,Altre Pubbliche Amministrazioni locali,1.0,COMUNITA' MONTANA VALTELLINA DI TIRANO
 1,Altre Pubbliche Amministrazioni locali,1.0,Unione di Comuni Montani Appennino Pistoiese
 1,Altre Pubbliche Amministrazioni locali,1.0,Agenzia Regionale per la Protezione dell'Ambiente della Calabria
+1,Altre Pubbliche Amministrazioni locali,1.0,Consorzio di Gestione Amp Torre del Cerrano
 1,Altre Pubbliche Amministrazioni locali,1.0,Intercent-er Agenzia Regionale per Lo Sviluppo Dei Mercati Telematici
 1,Altre Pubbliche Amministrazioni locali,1.0,A.I.P.E.S. Associazione Intercomunale per Esercizio Sociale - Consorzio per I Servizi alla Persona
 1,Altre Pubbliche Amministrazioni locali,1.0,Unione Terre di Castelli
@@ -29,6 +29,7 @@ id,name,count,producerName
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Unita' Sanitaria Locale Toscana Centro
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Sanitaria Locale Napoli 1 Centro
 2,Aziende sanitarie locali e Strutture di ricovero,6.0,Azienda Sanitaria Locale 2 Lanciano Vasto Chieti
+3,Comuni,6.0,Comune di Carlentini
 3,Comuni,6.0,Comune di Alife
 3,Comuni,6.0,Comune di Bologna
 3,Comuni,6.0,Comune di Mattinata
@@ -36,7 +37,6 @@ id,name,count,producerName
 3,Comuni,6.0,Comune di Airola
 3,Comuni,6.0,Comune di San Giorgio a Cremano
 3,Comuni,7.0,Comune di Camporotondo Etneo
-3,Comuni,7.0,Comune di Latina
 3,Comuni,7.0,Comune di San Vincenzo
 3,Comuni,8.0,Comune di Catania
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,27.0,Istituto Nazionale Previdenza Sociale - INPS
@@ -60,7 +60,7 @@ id,name,count,producerName
 6,Altre Pubbliche Amministrazioni Centrali,4.0,FEDERAZIONE NAZIONALE ORDINI DELLA PROFESSIONE DI OSTETRICA
 6,Altre Pubbliche Amministrazioni Centrali,8.0,Istituto Superiore per la Protezione e la Ricerca Ambientale
 6,Altre Pubbliche Amministrazioni Centrali,9.0,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri
-7,Regioni e Province Autonome,8.0,Regione Umbria
+7,Regioni e Province Autonome,13.0,Regione Umbria
 7,Regioni e Province Autonome,13.0,Regione Siciliana
 7,Regioni e Province Autonome,15.0,Regione Molise
 7,Regioni e Province Autonome,15.0,Regione Abruzzo

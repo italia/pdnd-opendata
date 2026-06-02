@@ -182,11 +182,11 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 1,Altre Pubbliche Amministrazioni locali,0,Tutte,CATALOGO - GESTIONE ISTANZA - FRONTOFFICE,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",4.0
 1,Altre Pubbliche Amministrazioni locali,0,Tutte,CATALOGO - GESTIONE ISTANZA - ENTI TERZI,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",42.0
 1,Altre Pubbliche Amministrazioni locali,0,Tutte,CATALOGO - METADATI,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",11.0
-1,Altre Pubbliche Amministrazioni locali,0,Tutte,Welfare as a Service per i Comuni - (WaaS per i Comuni),Consorzio Intercomunale Dei Servizi Ed Interventi Sociali Valle del Tevere,2.0
 1,Altre Pubbliche Amministrazioni locali,0,Tutte,CATALOGO - GESTIONE ISTANZA - BACKOFFICE,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",3.0
 1,Altre Pubbliche Amministrazioni locali,0,Tutte,Servizi ComUnica a Front-Office SUAP,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",3.0
 1,Altre Pubbliche Amministrazioni locali,0,Tutte,I1G - SSU BO to ET,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",6.0
 1,Altre Pubbliche Amministrazioni locali,0,Tutte,Accreditamento BIM TV Enti-Terzi - Suite di Black-Box-Test,Consorzio B.I.M. Piave di Treviso,3.0
+1,Altre Pubbliche Amministrazioni locali,0,Tutte,Servizio COMUNICAZIONE REA per BO SUAP,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",2.0
 2,Aziende sanitarie locali e Strutture di ricovero,6,Altre Pubbliche Amministrazioni Centrali,,,
 2,Aziende sanitarie locali e Strutture di ricovero,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
 2,Aziende sanitarie locali e Strutture di ricovero,11,Enti privati,Stato di affollamento del PS,Azienda Ospedaliera Santobono Pausilipon,1.0
@@ -209,16 +209,16 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 2,Aziende sanitarie locali e Strutture di ricovero,8,Scuole,,,
 2,Aziende sanitarie locali e Strutture di ricovero,9,Stazioni Appaltanti e Gestori di pubblici servizi,,,
 2,Aziende sanitarie locali e Strutture di ricovero,10,Università e AFAM,,,
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Attese Pronto Soccorso,Azienda USL della Valle d'Aosta,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Situazione posti letto,Azienda Sanitaria di Potenza ASP,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,SSU_SUAP_ET_TO_BO,Azienda Sanitaria Locale VCO,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Lista Defibrillatori,Azienda USL della Valle d'Aosta,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Anagrafica Farmacie Convenzionate - ASP Catanzaro,Azienda Sanitaria Provinciale di Catanzaro,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Elenco prestazioni offerte,Azienda Ospedaliera Sant'Anna e San Sebastiano di Caserta,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Caregiver COT per Assistito,AZIENDA SANITARIA TERRITORIALE DI MACERATA,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Contatti PUA di un Assistito,AZIENDA SANITARIA TERRITORIALE DI PESARO E URBINO,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Consultazione centri vaccinali,Azienda Sanitaria Provinciale di Agrigento,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Consultazione appuntamenti prenotabili,Azienda Sanitaria Locale Roma 5,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,01 - Dettaglio Prestazioni,Asl Foggia,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Strutture Sanitarie Autorizzate provincia di Cosenza,Azienda Sanitaria Provinciale di Cosenza,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Stato di affollamento del PS,Azienda Ospedaliera Santobono Pausilipon,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Elenco prestazioni disponibili,IRCCS CROB,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Recupero Contatti PUA di un Assistito,AZIENDA SANITARIA TERRITORIALE DI ANCONA,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Situazione posti letto,IRCCS CROB,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Tempi attesa pronto soccorso,Azienda Sanitaria Provinciale di Vibo Valentia,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Tutte,Consultazione pratiche compilabili,Azienda Sanitaria Locale Roma 5,1.0
 3,Comuni,6,Altre Pubbliche Amministrazioni Centrali,Scheda anagrafica,Comune di Quartu Sant'Elena,1.0
 3,Comuni,6,Altre Pubbliche Amministrazioni Centrali,Consultazione dei dati anagrafici delle persone fisiche,Comune di Catania,1.0
 3,Comuni,4,Enti Nazionali di Previdenza ed Assistenza Sociale,WAAS-SIUSS-Alimentazione,Comune di Pavia,1.0
@@ -280,7 +280,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 3,Comuni,0,Tutte,WAAS-SIUSS-Alimentazione,Comune di Maracalagonis,2.0
 3,Comuni,0,Tutte,WAAS-SIUSS-Alimentazione,Comune di Capoliveri,2.0
 3,Comuni,0,Tutte,Api demografia next,Comune di Carcare,2.0
-3,Comuni,0,Tutte,WAAS-SIUSS-Alimentazione,Comune di Deliceto,2.0
+3,Comuni,0,Tutte,WAAS SIUSS Alimentazione,Comune di Treviso,2.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,6,Altre Pubbliche Amministrazioni Centrali,,,
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Consultazione Aggregati Assegno Unico - WaaS,Istituto Nazionale Previdenza Sociale - INPS,1.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,4,Enti Nazionali di Previdenza ed Assistenza Sociale,Consultazione Aggregati Convitti - WaaS,Istituto Nazionale Previdenza Sociale - INPS,1.0
@@ -470,12 +470,12 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 7,Regioni e Province Autonome,0,Tutte,ICEF indicatore famiglia con nucleo,Provincia Autonoma di Trento,2.0
 7,Regioni e Province Autonome,0,Tutte,RC027 - Consultazione rilevazioni idrogeologiche,Regione Campania,2.0
 7,Regioni e Province Autonome,0,Tutte,ComObblWS,Regione Toscana,2.0
-7,Regioni e Province Autonome,0,Tutte,Consultazione pubblicazioni tipologia tempestività pagamenti,Regione Molise,1.0
-7,Regioni e Province Autonome,0,Tutte,Certificazione competenze- IT Wallet,Regione Molise,1.0
-7,Regioni e Province Autonome,0,Tutte,IT Wallet-Regione Puglia-Attestato di Formazione Dipendente,Regione Puglia,1.0
-7,Regioni e Province Autonome,0,Tutte,Consultazione Interprete Turistico - IT-Wallet,Regione Basilicata,1.0
-7,Regioni e Province Autonome,0,Tutte,RC023 - Consultazione incendi microdiscariche abusive,Regione Campania,1.0
-7,Regioni e Province Autonome,0,Tutte,Consultazione pubblicazioni tipologia procedimento art.35,Regione Molise,1.0
+7,Regioni e Province Autonome,0,Tutte,RC026 - Consultazione contaminanti Campania trasparente,Regione Campania,1.0
+7,Regioni e Province Autonome,0,Tutte,Consultazione distribuzione assistiti per medico,Regione Siciliana,1.0
+7,Regioni e Province Autonome,0,Tutte,"Consultazione Statistiche ""Entra con IT-Wallet"" - Reg. Toscana",Regione Toscana,1.0
+7,Regioni e Province Autonome,0,Tutte,RC016 - Consultazione albo tutor MG,Regione Campania,1.0
+7,Regioni e Province Autonome,0,Tutte,Creazione EAA Tesserino Vaccinazioni – IT-Wallet,Regione Umbria,1.0
+7,Regioni e Province Autonome,0,Tutte,Consultazione Protocollo,Regione Molise,1.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,6,Altre Pubbliche Amministrazioni Centrali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,5.0
 9,Stazioni Appaltanti e Gestori di pubblici servizi,4,Enti Nazionali di Previdenza ed Assistenza Sociale,,,
 9,Stazioni Appaltanti e Gestori di pubblici servizi,11,Enti privati,,,

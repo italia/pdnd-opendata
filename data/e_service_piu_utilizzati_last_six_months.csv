@@ -20,14 +20,14 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,1,Altre Pubbliche Amministrazioni locali,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",16.0
 0,Totale,1,Altre Pubbliche Amministrazioni locali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,49.0
 0,Totale,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,643.0
-0,Totale,3,Comuni,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,4872.0
+0,Totale,3,Comuni,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,4855.0
 0,Totale,3,Comuni,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,6677.0
-0,Totale,3,Comuni,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,933.0
+0,Totale,3,Comuni,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,915.0
 0,Totale,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,955.0
 0,Totale,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,1063.0
-0,Totale,3,Comuni,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,1460.0
-0,Totale,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1458.0
-0,Totale,3,Comuni,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,833.0
+0,Totale,3,Comuni,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,1441.0
+0,Totale,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1457.0
+0,Totale,3,Comuni,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,818.0
 0,Totale,3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,898.0
 0,Totale,5,Province e Città Metropolitane,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,6.0
 0,Totale,5,Province e Città Metropolitane,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,18.0
@@ -69,7 +69,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,2,Aziende sanitarie locali e Strutture di ricovero,Attese Pronto Soccorso,Azienda USL della Valle d'Aosta,1.0
 0,Totale,2,Aziende sanitarie locali e Strutture di ricovero,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,11.0
 0,Totale,2,Aziende sanitarie locali e Strutture di ricovero,C006-servizioVerificaDichCittadinanza-approvazione_automatic,Ministero dell'Interno,2.0
-0,Totale,10,Università e AFAM,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,22.0
+0,Totale,10,Università e AFAM,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,21.0
 0,Totale,10,Università e AFAM,Consultazione Attestazione ISEE,Istituto Nazionale Previdenza Sociale - INPS,27.0
 0,Totale,10,Università e AFAM,ANIST - Accertamento Titoli,Ministero dell'istruzione e del merito,4.0
 0,Totale,10,Università e AFAM,Consultazione Indicatore ISEE,Istituto Nazionale Previdenza Sociale - INPS,13.0
@@ -92,7 +92,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,6,Altre Pubbliche Amministrazioni Centrali,GESTIONE ANAGRAFICHE MEDICI,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri,107.0
 0,Totale,6,Altre Pubbliche Amministrazioni Centrali,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,5.0
 0,Totale,6,Altre Pubbliche Amministrazioni Centrali,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,12.0
-0,Totale,6,Altre Pubbliche Amministrazioni Centrali,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,2.0
+0,Totale,6,Altre Pubbliche Amministrazioni Centrali,Accertamento Iscrizione Professionista,Federazione Ordini Farmacisti Italiani,1.0
 0,Totale,6,Altre Pubbliche Amministrazioni Centrali,ElabMassivaAccertIdUnicoNazionale,Ministero dell'Interno,7.0
 0,Totale,6,Altre Pubbliche Amministrazioni Centrali,GESTIONE ANAGRAFICHE ODONTOIATRI,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri,107.0
 0,Totale,6,Altre Pubbliche Amministrazioni Centrali,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,4.0
@@ -117,14 +117,14 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 0,Totale,8,Scuole,ANIS - Consultazione Titoli [IFS03],MINISTERO DELL'UNIVERSITA' E DELLA RICERCA,3.0
 0,Totale,8,Scuole,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1.0
 0,Totale,0,Totale,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,654.0
-0,Totale,0,Totale,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,4872.0
+0,Totale,0,Totale,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,4855.0
 0,Totale,0,Totale,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,6778.0
-0,Totale,0,Totale,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,933.0
-0,Totale,0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,1065.0
+0,Totale,0,Totale,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,915.0
+0,Totale,0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,1064.0
 0,Totale,0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,1090.0
-0,Totale,0,Totale,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,1460.0
-0,Totale,0,Totale,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1494.0
-0,Totale,0,Totale,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,833.0
+0,Totale,0,Totale,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,1441.0
+0,Totale,0,Totale,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1493.0
+0,Totale,0,Totale,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,818.0
 0,Totale,0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1054.0
 1,Altre Pubbliche Amministrazioni locali,12,Pubbliche Amministrazioni Centrali,SMP-IPA-REST,Intercent-er Agenzia Regionale per Lo Sviluppo Dei Mercati Telematici,1.0
 1,Altre Pubbliche Amministrazioni locali,12,Pubbliche Amministrazioni Centrali,Servizio di collegamento imprese/PDND - Callback documenti,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",2.0
@@ -195,11 +195,11 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 2,Aziende sanitarie locali e Strutture di ricovero,6,Altre Pubbliche Amministrazioni Centrali,,,
 2,Aziende sanitarie locali e Strutture di ricovero,11,Enti privati,Stato di affollamento del PS,Azienda Ospedaliera Santobono Pausilipon,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,8,Scuole,,,
-2,Aziende sanitarie locali e Strutture di ricovero,0,Totale,Elenco prestazioni disponibili,Azienda Sanitaria di Potenza ASP,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Totale,Situazione letti,Azienda Ospedaliera San Giuseppe Moscati di Avellino,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Totale,Recupero Caregiver COT per Assistito,Azienda Sanitaria Territoriale di Fermo,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Totale,Elenco prestazioni disponibili,Azienda Sanitaria Locale di Matera,1.0
-2,Aziende sanitarie locali e Strutture di ricovero,0,Totale,01 - Dettaglio Ricoveri,Asl Foggia,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Totale,Recupero Caregiver COT per Assistito,AZIENDA SANITARIA TERRITORIALE DI MACERATA,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Totale,Situazione posti letto,IRCCS CROB,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Totale,Recupero Contatti PUA di un Assistito,AZIENDA SANITARIA TERRITORIALE DI ANCONA,1.0
+2,Aziende sanitarie locali e Strutture di ricovero,0,Totale,Farmacie ASP Crotone,Azienda Sanitaria Provinciale Crotone,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Totale,Recupero Contatti PUA di un Assistito,AZIENDA SANITARIA TERRITORIALE DI MACERATA,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Totale,Recupero Caregiver COT per Assistito,AZIENDA SANITARIA TERRITORIALE DI ASCOLI PICENO,1.0
 2,Aziende sanitarie locali e Strutture di ricovero,0,Totale,Consultazione ambulatori e prestazioni,Azienda Sanitaria Provinciale di Agrigento,1.0
@@ -490,14 +490,14 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,6.0
 12,Pubbliche Amministrazioni Centrali,1,Altre Pubbliche Amministrazioni locali,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,49.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,643.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,4872.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,933.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,4855.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,915.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,955.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,524.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,523.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,1063.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,1460.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1458.0
-12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,833.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,1441.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1457.0
+12,Pubbliche Amministrazioni Centrali,3,Comuni,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,818.0
 12,Pubbliche Amministrazioni Centrali,3,Comuni,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,898.0
 12,Pubbliche Amministrazioni Centrali,5,Province e Città Metropolitane,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,5.0
 12,Pubbliche Amministrazioni Centrali,5,Province e Città Metropolitane,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,6.0
@@ -540,7 +540,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,2,Aziende sanitarie locali e Strutture di ricovero,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,11.0
 12,Pubbliche Amministrazioni Centrali,2,Aziende sanitarie locali e Strutture di ricovero,C006-servizioVerificaDichCittadinanza-approvazione_automatic,Ministero dell'Interno,2.0
 12,Pubbliche Amministrazioni Centrali,10,Università e AFAM,ANIST - Accertamento Frequenze,Ministero dell'istruzione e del merito,3.0
-12,Pubbliche Amministrazioni Centrali,10,Università e AFAM,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,22.0
+12,Pubbliche Amministrazioni Centrali,10,Università e AFAM,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,21.0
 12,Pubbliche Amministrazioni Centrali,10,Università e AFAM,C009-servizioVerificaDichStatoFamiglia-approvazione_automati,Ministero dell'Interno,3.0
 12,Pubbliche Amministrazioni Centrali,10,Università e AFAM,ANIST - Accertamento Titoli,Ministero dell'istruzione e del merito,4.0
 12,Pubbliche Amministrazioni Centrali,10,Università e AFAM,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,3.0
@@ -563,7 +563,7 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,12.0
 12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,1.0
 12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,1.0
-12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,2.0
+12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,C008-servizioVerificaDichResidenza-approvazione_automatica,Ministero dell'Interno,1.0
 12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,ElabMassivaAccertIdUnicoNazionale,Ministero dell'Interno,7.0
 12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,C003-servizioVerificaDichGeneralita-approvazione_automatica,Ministero dell'Interno,4.0
 12,Pubbliche Amministrazioni Centrali,6,Altre Pubbliche Amministrazioni Centrali,C007–ServizioVerificaDichEsistenzaVita-approvazione_automati,Ministero dell'Interno,1.0
@@ -585,12 +585,12 @@ id,name,id,name,eserviceName,producerName,subscribersCount
 12,Pubbliche Amministrazioni Centrali,8,Scuole,ANIS - Consultazione Titoli [IFS03],MINISTERO DELL'UNIVERSITA' E DELLA RICERCA,3.0
 12,Pubbliche Amministrazioni Centrali,8,Scuole,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,654.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,4872.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,933.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,1065.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,546.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,ANNCSU - Aggiornamento coordinate,Agenzia delle Entrate,4855.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,ANNCSU - Consultazione per i COMUNI,Agenzia delle Entrate,915.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,1064.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,545.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,1090.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,1460.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1494.0
-12,Pubbliche Amministrazioni Centrali,0,Totale,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,833.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,ANNCSU - Aggiornamento accessi,Agenzia delle Entrate,1441.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,1493.0
+12,Pubbliche Amministrazioni Centrali,0,Totale,ANNCSU - Aggiornamento odonimi,Agenzia delle Entrate,818.0
 12,Pubbliche Amministrazioni Centrali,0,Totale,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1054.0

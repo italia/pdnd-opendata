@@ -1,12 +1,12 @@
 id,name,count,producerName
-0,Totale,15.0,Regione Abruzzo
 0,Totale,16.0,Regione Puglia
 0,Totale,16.0,Regione Calabria
 0,Totale,16.0,Regione Basilicata
 0,Totale,19.0,Regione Campania
 0,Totale,22.0,Regione Toscana
-0,Totale,26.0,Accademia Belle Arti di Napoli
+0,Totale,22.0,Regione Lombardia
 0,Totale,26.0,Istituto Nazionale Previdenza Sociale - INPS
+0,Totale,27.0,Accademia Belle Arti di Napoli
 0,Totale,34.0,Regione Marche
 0,Totale,43.0,Ministero del Lavoro e delle Politiche Sociali
 1,Altre Pubbliche Amministrazioni locali,1.0,COMUNITA' MONTANA VALTELLINA DI TIRANO
@@ -59,8 +59,7 @@ id,name,count,producerName
 6,Altre Pubbliche Amministrazioni Centrali,3.0,Federazione Nazionale degli Ordini dei Chimici e dei Fisici
 6,Altre Pubbliche Amministrazioni Centrali,5.0,FEDERAZIONE NAZIONALE ORDINI DELLA PROFESSIONE DI OSTETRICA
 6,Altre Pubbliche Amministrazioni Centrali,8.0,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri
-6,Altre Pubbliche Amministrazioni Centrali,8.0,Istituto Superiore per la Protezione e la Ricerca Ambientale
-7,Regioni e Province Autonome,13.0,Regione Umbria
+6,Altre Pubbliche Amministrazioni Centrali,15.0,Istituto Superiore per la Protezione e la Ricerca Ambientale
 7,Regioni e Province Autonome,13.0,Regione Siciliana
 7,Regioni e Province Autonome,15.0,Regione Molise
 7,Regioni e Province Autonome,15.0,Regione Abruzzo
@@ -69,6 +68,7 @@ id,name,count,producerName
 7,Regioni e Province Autonome,16.0,Regione Basilicata
 7,Regioni e Province Autonome,19.0,Regione Campania
 7,Regioni e Province Autonome,22.0,Regione Toscana
+7,Regioni e Province Autonome,22.0,Regione Lombardia
 7,Regioni e Province Autonome,34.0,Regione Marche
 8,Scuole,1.0,ISTITUTO COMPRENSIVO - SAN MARTINO SICCOMARIO
 9,Stazioni Appaltanti e Gestori di pubblici servizi,1.0,SOCIETA' ACQUA LODIGIANA S.R.L. O PIU' BREVEMENTE S.A.L. S.R.L.
@@ -78,7 +78,7 @@ id,name,count,producerName
 10,Università e AFAM,7.0,"CONSERVATORIO STATALE DI MUSICA ""PIETRO MASCAGNI"" - LIVORNO"
 10,Università e AFAM,7.0,"Accademia di Belle Arti Statale ""Ligustica"""
 10,Università e AFAM,8.0,Universita' degli Studi di Napoli Federico II
-10,Università e AFAM,26.0,Accademia Belle Arti di Napoli
+10,Università e AFAM,27.0,Accademia Belle Arti di Napoli
 11,Enti privati,,
 12,Pubbliche Amministrazioni Centrali,1.0,Dipartimento per la trasformazione digitale
 12,Pubbliche Amministrazioni Centrali,1.0,Dipartimento dei Vigili del Fuoco - Ufficio del Capo Dipartimento

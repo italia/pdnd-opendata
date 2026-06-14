@@ -4,11 +4,11 @@ id,name,count,producerName
 0,Totale,26.0,Regione Lombardia
 0,Totale,27.0,Accademia Belle Arti di Napoli
 0,Totale,35.0,Regione Marche
+0,Totale,37.0,Ministero del Lavoro e delle Politiche Sociali
 0,Totale,43.0,Regione Basilicata
 0,Totale,50.0,Regione Campania
-0,Totale,50.0,Istituto Nazionale Previdenza Sociale - INPS
 0,Totale,53.0,Regione Puglia
-0,Totale,58.0,Ministero del Lavoro e delle Politiche Sociali
+0,Totale,53.0,Istituto Nazionale Previdenza Sociale - INPS
 1,Altre Pubbliche Amministrazioni locali,1.0,Agenzia Regionale per la Protezione dell'Ambiente della Calabria
 1,Altre Pubbliche Amministrazioni locali,1.0,Consorzio di Gestione Amp Torre del Cerrano
 1,Altre Pubbliche Amministrazioni locali,1.0,Intercent-er Agenzia Regionale per Lo Sviluppo Dei Mercati Telematici
@@ -19,8 +19,8 @@ id,name,count,producerName
 1,Altre Pubbliche Amministrazioni locali,2.0,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"
 1,Altre Pubbliche Amministrazioni locali,3.0,Unione Dei Comuni Delle Terre del Sole
 1,Altre Pubbliche Amministrazioni locali,6.0,Comunita' Montana dei Laghi Bergamaschi
-2,Aziende sanitarie locali e Strutture di ricovero,2.0,Azienda Sanitaria Locale di Matera
 2,Aziende sanitarie locali e Strutture di ricovero,2.0,Fondazione Toscana Gabriele Monasterio per La Ricerca Medica e di Sanita Pubblica
+2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Sanitaria Locale di Salerno
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Socio Sanitaria Territoriale di Mantova
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Unita' Sanitaria Locale Toscana Sud Est
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,"Azienda Ospedaliero-Universitaria Policlinico ""G. Rodolico-San Marco"" di Catania"
@@ -40,7 +40,7 @@ id,name,count,producerName
 3,Comuni,8.0,Comune di Terzigno
 3,Comuni,9.0,Comune di San Giorgio a Cremano
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,2.0,Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro - INAIL
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,50.0,Istituto Nazionale Previdenza Sociale - INPS
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,53.0,Istituto Nazionale Previdenza Sociale - INPS
 5,Province e Città Metropolitane,1.0,Provincia di Como
 5,Province e Città Metropolitane,1.0,Provincia di Ferrara
 5,Province e Città Metropolitane,1.0,Citta' Metropolitana di Genova
@@ -94,4 +94,4 @@ id,name,count,producerName
 12,Pubbliche Amministrazioni Centrali,6.0,Ministero dell'istruzione e del merito
 12,Pubbliche Amministrazioni Centrali,6.0,MINISTERO DELL'UNIVERSITA' E DELLA RICERCA
 12,Pubbliche Amministrazioni Centrali,8.0,Agenzia del Demanio
-12,Pubbliche Amministrazioni Centrali,58.0,Ministero del Lavoro e delle Politiche Sociali
+12,Pubbliche Amministrazioni Centrali,37.0,Ministero del Lavoro e delle Politiche Sociali

@@ -5,10 +5,10 @@ id,name,count,producerName
 0,Totale,19.0,Regione Campania
 0,Totale,22.0,Regione Toscana
 0,Totale,22.0,Regione Lombardia
-0,Totale,26.0,Istituto Nazionale Previdenza Sociale - INPS
 0,Totale,27.0,Accademia Belle Arti di Napoli
+0,Totale,28.0,Ministero del Lavoro e delle Politiche Sociali
+0,Totale,29.0,Istituto Nazionale Previdenza Sociale - INPS
 0,Totale,34.0,Regione Marche
-0,Totale,43.0,Ministero del Lavoro e delle Politiche Sociali
 1,Altre Pubbliche Amministrazioni locali,1.0,COMUNITA' MONTANA VALTELLINA DI TIRANO
 1,Altre Pubbliche Amministrazioni locali,1.0,Unione di Comuni Montani Appennino Pistoiese
 1,Altre Pubbliche Amministrazioni locali,1.0,Agenzia Regionale per la Protezione dell'Ambiente della Calabria
@@ -19,9 +19,9 @@ id,name,count,producerName
 1,Altre Pubbliche Amministrazioni locali,1.0,Unione Terre di Castelli
 1,Altre Pubbliche Amministrazioni locali,2.0,Consorzio B.I.M. Piave di Treviso
 1,Altre Pubbliche Amministrazioni locali,6.0,Comunita' Montana dei Laghi Bergamaschi
-2,Aziende sanitarie locali e Strutture di ricovero,2.0,Azienda Sanitaria Locale Roma 5
 2,Aziende sanitarie locali e Strutture di ricovero,2.0,Azienda Sanitaria Locale di Matera
 2,Aziende sanitarie locali e Strutture di ricovero,2.0,Fondazione Toscana Gabriele Monasterio per La Ricerca Medica e di Sanita Pubblica
+2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Sanitaria Locale di Salerno
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Socio Sanitaria Territoriale di Mantova
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,Azienda Unita' Sanitaria Locale Toscana Sud Est
 2,Aziende sanitarie locali e Strutture di ricovero,3.0,"Azienda Ospedaliero-Universitaria Policlinico ""G. Rodolico-San Marco"" di Catania"
@@ -39,7 +39,7 @@ id,name,count,producerName
 3,Comuni,6.0,Comune di San Giorgio a Cremano
 3,Comuni,7.0,Comune di Camporotondo Etneo
 3,Comuni,7.0,Comune di San Vincenzo
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,26.0,Istituto Nazionale Previdenza Sociale - INPS
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,29.0,Istituto Nazionale Previdenza Sociale - INPS
 5,Province e Città Metropolitane,1.0,Libero Consorzio Comunale di Siracusa
 5,Province e Città Metropolitane,1.0,Provincia di Como
 5,Province e Città Metropolitane,1.0,Provincia di Ferrara
@@ -89,4 +89,4 @@ id,name,count,producerName
 12,Pubbliche Amministrazioni Centrali,5.0,Ministero dell'istruzione e del merito
 12,Pubbliche Amministrazioni Centrali,6.0,MINISTERO DELL'UNIVERSITA' E DELLA RICERCA
 12,Pubbliche Amministrazioni Centrali,8.0,Agenzia del Demanio
-12,Pubbliche Amministrazioni Centrali,43.0,Ministero del Lavoro e delle Politiche Sociali
+12,Pubbliche Amministrazioni Centrali,28.0,Ministero del Lavoro e delle Politiche Sociali

@@ -1,19 +1,19 @@
 id,name,count,producerName
+0,Totale,15.0,Istituto Superiore per la Protezione e la Ricerca Ambientale
 0,Totale,16.0,Regione Puglia
 0,Totale,16.0,Regione Calabria
 0,Totale,16.0,Regione Basilicata
-0,Totale,19.0,Regione Campania
 0,Totale,22.0,Regione Toscana
 0,Totale,22.0,Regione Lombardia
-0,Totale,28.0,Ministero del Lavoro e delle Politiche Sociali
-0,Totale,29.0,Istituto Nazionale Previdenza Sociale - INPS
+0,Totale,23.0,Istituto Nazionale Previdenza Sociale - INPS
+0,Totale,27.0,Ministero del Lavoro e delle Politiche Sociali
 0,Totale,29.0,Accademia Belle Arti di Napoli
 0,Totale,34.0,Regione Marche
 1,Altre Pubbliche Amministrazioni locali,1.0,COMUNITA' MONTANA VALTELLINA DI TIRANO
 1,Altre Pubbliche Amministrazioni locali,1.0,Unione di Comuni Montani Appennino Pistoiese
 1,Altre Pubbliche Amministrazioni locali,1.0,Agenzia Regionale per la Protezione dell'Ambiente della Calabria
-1,Altre Pubbliche Amministrazioni locali,1.0,Consorzio di Gestione Amp Torre del Cerrano
 1,Altre Pubbliche Amministrazioni locali,1.0,Intercent-er Agenzia Regionale per Lo Sviluppo Dei Mercati Telematici
+1,Altre Pubbliche Amministrazioni locali,1.0,Parco Nazionale Valgrande
 1,Altre Pubbliche Amministrazioni locali,1.0,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"
 1,Altre Pubbliche Amministrazioni locali,1.0,A.I.P.E.S. Associazione Intercomunale per Esercizio Sociale - Consorzio per I Servizi alla Persona
 1,Altre Pubbliche Amministrazioni locali,1.0,Unione Terre di Castelli
@@ -39,7 +39,7 @@ id,name,count,producerName
 3,Comuni,6.0,Comune di San Giorgio a Cremano
 3,Comuni,7.0,Comune di Camporotondo Etneo
 3,Comuni,7.0,Comune di San Vincenzo
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,29.0,Istituto Nazionale Previdenza Sociale - INPS
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,23.0,Istituto Nazionale Previdenza Sociale - INPS
 5,Province e Città Metropolitane,1.0,Libero Consorzio Comunale di Siracusa
 5,Province e Città Metropolitane,1.0,Provincia di Como
 5,Province e Città Metropolitane,1.0,Provincia di Ferrara
@@ -50,7 +50,6 @@ id,name,count,producerName
 5,Province e Città Metropolitane,2.0,Citta' Metropolitana di Milano
 5,Province e Città Metropolitane,2.0,Provincia di Modena
 5,Province e Città Metropolitane,2.0,Citta' Metropolitana di Venezia
-6,Altre Pubbliche Amministrazioni Centrali,1.0,Ispettorato Nazionale del Lavoro
 6,Altre Pubbliche Amministrazioni Centrali,1.0,Federazione Nazionale Ordini Professioni Infermieristiche (FNOPI)
 6,Altre Pubbliche Amministrazioni Centrali,1.0,Istituto Nazionale di Statistica - ISTAT
 6,Altre Pubbliche Amministrazioni Centrali,1.0,Agenzia per le Erogazioni in Agricoltura - AGEA
@@ -62,11 +61,11 @@ id,name,count,producerName
 6,Altre Pubbliche Amministrazioni Centrali,15.0,Istituto Superiore per la Protezione e la Ricerca Ambientale
 7,Regioni e Province Autonome,13.0,Regione Siciliana
 7,Regioni e Province Autonome,15.0,Regione Molise
+7,Regioni e Province Autonome,15.0,Regione Campania
 7,Regioni e Province Autonome,15.0,Regione Abruzzo
 7,Regioni e Province Autonome,16.0,Regione Puglia
 7,Regioni e Province Autonome,16.0,Regione Calabria
 7,Regioni e Province Autonome,16.0,Regione Basilicata
-7,Regioni e Province Autonome,19.0,Regione Campania
 7,Regioni e Province Autonome,22.0,Regione Toscana
 7,Regioni e Province Autonome,22.0,Regione Lombardia
 7,Regioni e Province Autonome,34.0,Regione Marche
@@ -82,11 +81,11 @@ id,name,count,producerName
 11,Enti privati,,
 12,Pubbliche Amministrazioni Centrali,1.0,Dipartimento per la trasformazione digitale
 12,Pubbliche Amministrazioni Centrali,1.0,Dipartimento dei Vigili del Fuoco - Ufficio del Capo Dipartimento
+12,Pubbliche Amministrazioni Centrali,1.0,Ministero dell'Interno
 12,Pubbliche Amministrazioni Centrali,2.0,Autorita' Nazionale Anticorruzione - A.N.AC.
 12,Pubbliche Amministrazioni Centrali,2.0,Agenzia per L'Italia Digitale
 12,Pubbliche Amministrazioni Centrali,3.0,Agenzia delle Entrate
-12,Pubbliche Amministrazioni Centrali,3.0,Ministero dell'Interno
 12,Pubbliche Amministrazioni Centrali,5.0,Ministero dell'istruzione e del merito
-12,Pubbliche Amministrazioni Centrali,6.0,MINISTERO DELL'UNIVERSITA' E DELLA RICERCA
+12,Pubbliche Amministrazioni Centrali,5.0,MINISTERO DELL'UNIVERSITA' E DELLA RICERCA
 12,Pubbliche Amministrazioni Centrali,8.0,Agenzia del Demanio
-12,Pubbliche Amministrazioni Centrali,28.0,Ministero del Lavoro e delle Politiche Sociali
+12,Pubbliche Amministrazioni Centrali,27.0,Ministero del Lavoro e delle Politiche Sociali

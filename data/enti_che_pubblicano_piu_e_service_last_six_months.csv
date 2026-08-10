@@ -1,15 +1,15 @@
 id,name,count,producerName
 0,Totale,15,Regione Abruzzo
-0,Totale,15,Regione Campania
 0,Totale,15,Regione Basilicata
-0,Totale,16,Regione Calabria
+0,Totale,15,Regione Campania
 0,Totale,16,Regione Toscana
+0,Totale,16,Regione Calabria
 0,Totale,20,Regione Puglia
-0,Totale,22,Ministero delle infrastrutture e dei trasporti
 0,Totale,22,Regione Lombardia
+0,Totale,22,Ministero delle infrastrutture e dei trasporti
 0,Totale,32,Ministero del Lavoro e delle Politiche Sociali
 0,Totale,45,Accademia Belle Arti di Napoli
-1,Altre Pubbliche Amministrazioni locali,1,Agenzia Regionale per la Protezione dell'Ambiente della Calabria
+1,Altre Pubbliche Amministrazioni locali,1,Ente Parco Nazionale del Vesuvio
 1,Altre Pubbliche Amministrazioni locali,1,"Parco Nazionale del Cilento, Vallo di Diano e Alburni"
 1,Altre Pubbliche Amministrazioni locali,1,Parco Nazionale Valgrande
 1,Altre Pubbliche Amministrazioni locali,1,Consorzio di Gestione Area Marina Protetta Porto Cesareo
@@ -19,6 +19,7 @@ id,name,count,producerName
 1,Altre Pubbliche Amministrazioni locali,2,Comunita' Montana dei Laghi Bergamaschi
 1,Altre Pubbliche Amministrazioni locali,6,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"
 1,Altre Pubbliche Amministrazioni locali,6,Unione Dei Comuni Alta Sabina
+2,Aziende sanitarie locali e Strutture di ricovero,2,Azienda Sanitaria Provinciale di Cosenza
 2,Aziende sanitarie locali e Strutture di ricovero,2,Azienda Sanitaria Locale Roma 5
 2,Aziende sanitarie locali e Strutture di ricovero,2,Azienda Sanitaria Locale di Matera
 2,Aziende sanitarie locali e Strutture di ricovero,2,Fondazione Toscana Gabriele Monasterio per La Ricerca Medica e di Sanita Pubblica
@@ -26,7 +27,6 @@ id,name,count,producerName
 2,Aziende sanitarie locali e Strutture di ricovero,3,Azienda Unita' Sanitaria Locale Toscana Sud Est
 2,Aziende sanitarie locali e Strutture di ricovero,3,"Azienda Ospedaliero-Universitaria Policlinico ""G. Rodolico-San Marco"" di Catania"
 2,Aziende sanitarie locali e Strutture di ricovero,3,Azienda Sanitaria dell'Alto Adige - Suedtiroler Sanitaetsbetrieb
-2,Aziende sanitarie locali e Strutture di ricovero,3,Azienda Unita' Sanitaria Locale Toscana Centro
 2,Aziende sanitarie locali e Strutture di ricovero,3,Azienda Sanitaria Locale Napoli 1 Centro
 2,Aziende sanitarie locali e Strutture di ricovero,6,Azienda Sanitaria Locale 2 Lanciano Vasto Chieti
 3,Comuni,6,Comune di Nicosia
@@ -40,15 +40,13 @@ id,name,count,producerName
 3,Comuni,6,Comune di Casoria
 3,Comuni,7,Comune di Camporotondo Etneo
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,11,Istituto Nazionale Previdenza Sociale - INPS
+5,Province e Città Metropolitane,1,Provincia del Verbano Cusio Ossola
+5,Province e Città Metropolitane,1,Citta' Metropolitana di Bologna
 5,Province e Città Metropolitane,1,Provincia di Pistoia
 5,Province e Città Metropolitane,1,Libero Consorzio Comunale di Enna
 5,Province e Città Metropolitane,1,Provincia di Reggio Emilia
 5,Province e Città Metropolitane,1,Provincia di Salerno
-5,Province e Città Metropolitane,1,Provincia di Piacenza
-5,Province e Città Metropolitane,1,Provincia di Novara
 5,Province e Città Metropolitane,1,Libero Consorzio Comunale di Agrigento
-5,Province e Città Metropolitane,1,Provincia di Como
-5,Province e Città Metropolitane,1,Provincia di Lodi
 5,Province e Città Metropolitane,1,Citta' Metropolitana di Napoli
 6,Altre Pubbliche Amministrazioni Centrali,1,Federazione Nazionale Ordini Professioni Infermieristiche (FNOPI)
 6,Altre Pubbliche Amministrazioni Centrali,1,Federazione Ordini Farmacisti Italiani

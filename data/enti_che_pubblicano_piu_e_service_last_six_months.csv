@@ -1,6 +1,6 @@
 id,name,count,producerName
-0,Totale,15,Regione Abruzzo
 0,Totale,15,Regione Basilicata
+0,Totale,15,Regione Molise
 0,Totale,15,Regione Campania
 0,Totale,16,Regione Calabria
 0,Totale,18,Regione Toscana
@@ -19,6 +19,7 @@ id,name,count,producerName
 1,Altre Pubbliche Amministrazioni locali,1,A.I.P.E.S. Associazione Intercomunale per Esercizio Sociale - Consorzio per I Servizi alla Persona
 1,Altre Pubbliche Amministrazioni locali,6,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"
 1,Altre Pubbliche Amministrazioni locali,6,Unione Dei Comuni Alta Sabina
+2,Aziende sanitarie locali e Strutture di ricovero,2,AZIENDA SANITARIA TERRITORIALE DI ASCOLI PICENO
 2,Aziende sanitarie locali e Strutture di ricovero,2,Azienda Sanitaria Territoriale di Fermo
 2,Aziende sanitarie locali e Strutture di ricovero,2,Azienda Sanitaria Provinciale di Cosenza
 2,Aziende sanitarie locali e Strutture di ricovero,2,Azienda Sanitaria Locale Roma 5
@@ -28,9 +29,8 @@ id,name,count,producerName
 2,Aziende sanitarie locali e Strutture di ricovero,3,"Azienda Ospedaliero-Universitaria Policlinico ""G. Rodolico-San Marco"" di Catania"
 2,Aziende sanitarie locali e Strutture di ricovero,3,Azienda Sanitaria dell'Alto Adige - Suedtiroler Sanitaetsbetrieb
 2,Aziende sanitarie locali e Strutture di ricovero,3,Azienda Sanitaria Locale Napoli 1 Centro
-2,Aziende sanitarie locali e Strutture di ricovero,5,Azienda Sanitaria Locale 2 Lanciano Vasto Chieti
+3,Comuni,6,Comune di Rocca D'Arce
 3,Comuni,6,Comune di Porano
-3,Comuni,6,Comune di Nicosia
 3,Comuni,6,Comune di Montelibretti
 3,Comuni,6,Comune di Termoli
 3,Comuni,6,Comune di San Vito Romano
@@ -68,7 +68,6 @@ id,name,count,producerName
 10,Università e AFAM,7,Istituto Superiore per le Industrie Artistiche - ISIA di Urbino
 10,Università e AFAM,7,Accademia di Belle Arti di Foggia
 10,Università e AFAM,7,"CONSERVATORIO STATALE DI MUSICA ""PIETRO MASCAGNI"" - LIVORNO"
-10,Università e AFAM,7,Universita' degli Studi di Napoli Federico II
 10,Università e AFAM,7,"Accademia di Belle Arti Statale ""Ligustica"""
 10,Università e AFAM,45,Accademia Belle Arti di Napoli
 11,Enti privati,1,AMBITO S.R.L.

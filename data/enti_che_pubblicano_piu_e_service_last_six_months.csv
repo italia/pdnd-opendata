@@ -1,12 +1,12 @@
 id,name,count,producerName
-0,Totale,15.0,Regione Abruzzo
 0,Totale,15.0,Regione Campania
-0,Totale,16.0,Regione Basilicata
+0,Totale,15.0,Regione Abruzzo
 0,Totale,16.0,Regione Calabria
+0,Totale,16.0,Regione Basilicata
 0,Totale,17.0,Regione Toscana
-0,Totale,20.0,Regione Puglia
-0,Totale,22.0,Regione Lombardia
+0,Totale,19.0,Regione Puglia
 0,Totale,22.0,Ministero delle infrastrutture e dei trasporti
+0,Totale,22.0,Regione Lombardia
 0,Totale,31.0,Ministero del Lavoro e delle Politiche Sociali
 0,Totale,45.0,Accademia Belle Arti di Napoli
 1,Altre Pubbliche Amministrazioni locali,1.0,Ente Parco Nazionale del Vesuvio
@@ -19,8 +19,8 @@ id,name,count,producerName
 1,Altre Pubbliche Amministrazioni locali,1.0,Ente Parco Nazionale delle Foreste Casentinesi Monte Falterona e Campigna
 1,Altre Pubbliche Amministrazioni locali,6.0,Unione Dei Comuni Alta Sabina
 1,Altre Pubbliche Amministrazioni locali,8.0,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"
+2,Aziende sanitarie locali e Strutture di ricovero,2.0,Azienda Sanitaria Provinciale di Catanzaro
 2,Aziende sanitarie locali e Strutture di ricovero,2.0,AZIENDA SANITARIA TERRITORIALE DI MACERATA
-2,Aziende sanitarie locali e Strutture di ricovero,2.0,Azienda Sanitaria Locale Caserta
 2,Aziende sanitarie locali e Strutture di ricovero,2.0,Ente Ospedaliero Specializzato in Gastroenterologia Istituto Nazionale di Ricovero e Cura a Carattere Scientifico S. de Bellis
 2,Aziende sanitarie locali e Strutture di ricovero,2.0,Azienda Ospedaliera Dei Colli
 2,Aziende sanitarie locali e Strutture di ricovero,2.0,Azienda Ospedaliera San Giuseppe Moscati di Avellino
@@ -44,12 +44,12 @@ id,name,count,producerName
 6,Altre Pubbliche Amministrazioni Centrali,1.0,Federazione Nazionale degli Ordini dei Veterinari Italiani - FNOVI
 6,Altre Pubbliche Amministrazioni Centrali,1.0,Federazione Nazionale Ordini Professioni Infermieristiche (FNOPI)
 6,Altre Pubbliche Amministrazioni Centrali,1.0,Federazione Ordini Farmacisti Italiani
+6,Altre Pubbliche Amministrazioni Centrali,1.0,FEDERAZIONE NAZIONALE ORDINI DELLA PROFESSIONE DI OSTETRICA
 6,Altre Pubbliche Amministrazioni Centrali,1.0,Consiglio Nazionale dell'Ordine degli Psicologi
 6,Altre Pubbliche Amministrazioni Centrali,1.0,FEDERAZIONE NAZIONALE ORDINI DELLA PROFESSIONE SANITARIA DI FISIOTERAPISTA
 6,Altre Pubbliche Amministrazioni Centrali,3.0,Federazione Nazionale degli Ordini dei Chimici e dei Fisici
 6,Altre Pubbliche Amministrazioni Centrali,5.0,Agenzia Italiana del Farmaco - AIFA
 6,Altre Pubbliche Amministrazioni Centrali,5.0,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri
-6,Altre Pubbliche Amministrazioni Centrali,5.0,FEDERAZIONE NAZIONALE ORDINI DELLA PROFESSIONE DI OSTETRICA
 6,Altre Pubbliche Amministrazioni Centrali,8.0,Istituto Superiore per la Protezione e la Ricerca Ambientale
 7,Regioni e Province Autonome,11.0,Regione Emilia-Romagna
 7,Regioni e Province Autonome,13.0,Regione Marche
@@ -59,10 +59,9 @@ id,name,count,producerName
 7,Regioni e Province Autonome,16.0,Regione Calabria
 7,Regioni e Province Autonome,16.0,Regione Basilicata
 7,Regioni e Province Autonome,17.0,Regione Toscana
-7,Regioni e Province Autonome,20.0,Regione Puglia
+7,Regioni e Province Autonome,19.0,Regione Puglia
 7,Regioni e Province Autonome,22.0,Regione Lombardia
 8,Scuole,1.0,ISTITUTO COMPRENSIVO - SAN MARTINO SICCOMARIO
-9,Stazioni Appaltanti e Gestori di pubblici servizi,1.0,SOCIETA' ACQUA LODIGIANA S.R.L. O PIU' BREVEMENTE S.A.L. S.R.L.
 9,Stazioni Appaltanti e Gestori di pubblici servizi,9.0,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A."""
 10,Università e AFAM,2.0,Universita' degli Studi di Messina
 10,Università e AFAM,7.0,Istituto Superiore per le Industrie Artistiche - ISIA di Urbino
@@ -75,8 +74,8 @@ id,name,count,producerName
 12,Pubbliche Amministrazioni Centrali,1.0,MINISTERO DELL'UNIVERSITA' E DELLA RICERCA
 12,Pubbliche Amministrazioni Centrali,1.0,Scuola Nazionale dell'Amministrazione
 12,Pubbliche Amministrazioni Centrali,2.0,Autorita' Nazionale Anticorruzione - A.N.AC.
-12,Pubbliche Amministrazioni Centrali,4.0,Ministero della Giustizia
 12,Pubbliche Amministrazioni Centrali,4.0,Ministero dell'Interno
 12,Pubbliche Amministrazioni Centrali,5.0,Agenzia delle Entrate
+12,Pubbliche Amministrazioni Centrali,5.0,Ministero della Giustizia
 12,Pubbliche Amministrazioni Centrali,22.0,Ministero delle infrastrutture e dei trasporti
 12,Pubbliche Amministrazioni Centrali,31.0,Ministero del Lavoro e delle Politiche Sociali

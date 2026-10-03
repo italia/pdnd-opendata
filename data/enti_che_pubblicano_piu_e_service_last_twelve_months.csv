@@ -3,7 +3,7 @@ id,name,count,producerName
 0,Totale,22,Ministero delle infrastrutture e dei trasporti
 0,Totale,24,Regione Toscana
 0,Totale,24,Regione Lombardia
-0,Totale,26,Regione Basilicata
+0,Totale,24,Regione Basilicata
 0,Totale,38,Istituto Nazionale Previdenza Sociale - INPS
 0,Totale,42,Ministero del Lavoro e delle Politiche Sociali
 0,Totale,45,Accademia Belle Arti di Napoli
@@ -31,6 +31,7 @@ id,name,count,producerName
 2,Aziende sanitarie locali e Strutture di ricovero,6,Azienda Sanitaria Locale 2 Lanciano Vasto Chieti
 3,Comuni,6,Comune di Casoria
 3,Comuni,6,Comune di Airola
+3,Comuni,6,Comune di San Giorgio a Cremano
 3,Comuni,6,Comune di Afragola
 3,Comuni,7,Comune di Camporotondo Etneo
 3,Comuni,7,Comune di Latina
@@ -38,7 +39,6 @@ id,name,count,producerName
 3,Comuni,7,Comune di San Vincenzo
 3,Comuni,8,Comune di Catania
 3,Comuni,8,Comune di Terzigno
-3,Comuni,9,Comune di San Giorgio a Cremano
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,38,Istituto Nazionale Previdenza Sociale - INPS
 5,Province e Città Metropolitane,1,Provincia di Como
 5,Province e Città Metropolitane,1,Provincia di Ferrara
@@ -50,10 +50,10 @@ id,name,count,producerName
 5,Province e Città Metropolitane,2,Citta' Metropolitana di Milano
 5,Province e Città Metropolitane,2,Provincia di Modena
 5,Province e Città Metropolitane,2,Citta' Metropolitana di Venezia
-6,Altre Pubbliche Amministrazioni Centrali,1,Istituto Nazionale di Statistica - ISTAT
 6,Altre Pubbliche Amministrazioni Centrali,1,Federazione Ordini Farmacisti Italiani
 6,Altre Pubbliche Amministrazioni Centrali,1,Consiglio Nazionale dell'Ordine degli Psicologi
 6,Altre Pubbliche Amministrazioni Centrali,1,FEDERAZIONE NAZIONALE ORDINI DELLA PROFESSIONE SANITARIA DI FISIOTERAPISTA
+6,Altre Pubbliche Amministrazioni Centrali,2,Istituto Nazionale di Statistica - ISTAT
 6,Altre Pubbliche Amministrazioni Centrali,3,Federazione Nazionale degli Ordini dei Chimici e dei Fisici
 6,Altre Pubbliche Amministrazioni Centrali,5,Agenzia Italiana del Farmaco - AIFA
 6,Altre Pubbliche Amministrazioni Centrali,5,Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri
@@ -67,7 +67,7 @@ id,name,count,producerName
 7,Regioni e Province Autonome,19,Regione Puglia
 7,Regioni e Province Autonome,24,Regione Toscana
 7,Regioni e Province Autonome,24,Regione Lombardia
-7,Regioni e Province Autonome,26,Regione Basilicata
+7,Regioni e Province Autonome,24,Regione Basilicata
 7,Regioni e Province Autonome,48,Regione Marche
 7,Regioni e Province Autonome,50,Regione Campania
 8,Scuole,1,ISTITUTO COMPRENSIVO - SAN MARTINO SICCOMARIO

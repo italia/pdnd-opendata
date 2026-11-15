@@ -1,5 +1,5 @@
 id,name,count,producerName
-0,Totale,7,Accademia di Belle Arti di Foggia
+0,Totale,7,Istituto Nazionale Previdenza Sociale - INPS
 0,Totale,7,Istituto Musicale Pareggiato della Valle D'Aosta
 0,Totale,7,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura"
 0,Totale,8,Istituto Superiore per la Protezione e la Ricerca Ambientale
@@ -7,8 +7,8 @@ id,name,count,producerName
 0,Totale,13,Regione Umbria
 0,Totale,22,Ministero delle infrastrutture e dei trasporti
 0,Totale,22,Regione Lombardia
+0,Totale,29,Accademia Belle Arti di Napoli
 0,Totale,42,Ministero del Lavoro e delle Politiche Sociali
-0,Totale,45,Accademia Belle Arti di Napoli
 1,Altre Pubbliche Amministrazioni locali,1,Ente Parco Nazionale del Vesuvio
 1,Altre Pubbliche Amministrazioni locali,1,"Parco Nazionale del Cilento, Vallo di Diano e Alburni"
 1,Altre Pubbliche Amministrazioni locali,1,Parco Nazionale Valgrande
@@ -36,11 +36,10 @@ id,name,count,producerName
 3,Comuni,6,Comune di Montelibretti
 3,Comuni,6,Comune di San Vito Romano
 3,Comuni,6,Comune di Favara
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,5,Istituto Nazionale Previdenza Sociale - INPS
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,7,Istituto Nazionale Previdenza Sociale - INPS
 5,Province e Città Metropolitane,6,Provincia di Campobasso
 6,Altre Pubbliche Amministrazioni Centrali,1,Agenzia Nazionale per L'Amministrazione e La Destinazione Dei Beni Sequestrati e Confiscati alla Criminalita' Organizzata
 6,Altre Pubbliche Amministrazioni Centrali,1,Federazione Nazionale degli Ordini dei Veterinari Italiani - FNOVI
-6,Altre Pubbliche Amministrazioni Centrali,1,Federazione Nazionale Ordini Professioni Infermieristiche (FNOPI)
 6,Altre Pubbliche Amministrazioni Centrali,1,Istituto Nazionale di Statistica - ISTAT
 6,Altre Pubbliche Amministrazioni Centrali,1,Consiglio Nazionale del Notariato
 6,Altre Pubbliche Amministrazioni Centrali,1,Federazione Ordini Farmacisti Italiani
@@ -61,9 +60,8 @@ id,name,count,producerName
 8,Scuole,1,ISTITUTO COMPRENSIVO - SAN MARTINO SICCOMARIO
 9,Stazioni Appaltanti e Gestori di pubblici servizi,6,"INFRASTRUTTURE E TELECOMUNICAZIONI PER L'ITALIA S.P.A IN FORMA ABBREVIATA ""INFRATEL ITALIA S.P.A."""
 10,Università e AFAM,2,Universita' degli Studi di Messina
-10,Università e AFAM,7,Accademia di Belle Arti di Foggia
 10,Università e AFAM,7,Istituto Musicale Pareggiato della Valle D'Aosta
-10,Università e AFAM,45,Accademia Belle Arti di Napoli
+10,Università e AFAM,29,Accademia Belle Arti di Napoli
 11,Enti privati,1,AMBITO S.R.L.
 12,Pubbliche Amministrazioni Centrali,1,Scuola Nazionale dell'Amministrazione
 12,Pubbliche Amministrazioni Centrali,2,Autorita' Nazionale Anticorruzione - A.N.AC.
@@ -71,7 +69,7 @@ id,name,count,producerName
 12,Pubbliche Amministrazioni Centrali,2,"DPP - Dipartimento per l'amministrazione generale, per le politiche del personale dell'amministrazione civile e per le risorse strumentali e finanziarie - Ministero dell'Interno"
 12,Pubbliche Amministrazioni Centrali,2,Agenzia delle Dogane e dei Monopoli
 12,Pubbliche Amministrazioni Centrali,5,Ministero della Giustizia
+12,Pubbliche Amministrazioni Centrali,5,Ministero dell'Interno
 12,Pubbliche Amministrazioni Centrali,6,Agenzia delle Entrate
-12,Pubbliche Amministrazioni Centrali,6,Ministero dell'Interno
 12,Pubbliche Amministrazioni Centrali,22,Ministero delle infrastrutture e dei trasporti
 12,Pubbliche Amministrazioni Centrali,42,Ministero del Lavoro e delle Politiche Sociali
